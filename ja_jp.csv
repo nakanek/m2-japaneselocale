@@ -1,0 +1,643 @@
+"Are you sure?",よろしいですか？
+Product,商品
+Price,価格
+Quantity,数量
+"Images (.gif, .jpg, .png)","画像（.gif, .jpg, .png）"
+"First Name",名
+"Last Name",姓
+Email,Eメール
+Back,戻る
+Delete,削除
+Save,保存
+"-- Please Select --","-- 選択してください --"
+"Custom Design",カスタムデザイン
+Cancel,キャンセル
+Yes,Yes
+No,No
+"Web Site","Web Site"
+Name,名前
+Status,状態
+Disabled,無効
+Enabled,有効
+Home,ホーム
+Reset,リセット
+Search,検索
+"Select All",全て選択
+"Add New",新規作成
+"Please select items.",アイテムを選択してください。
+"Store View",ストアビュー
+"All Websites",全てのウェブサイト
+Next,次
+Catalog,カタログ
+Images,画像
+"per page",件表示
+Actions,アクション
+"Mass Actions","Mass Actions"
+"Unselect All",全て未選択にする
+"Select Visible",表示中を選択
+"Unselect Visible",表示を解除する
+"Changes have been made to this section that have not been saved.","Changes have been made to this section that have not been saved."
+"This tab contains invalid data. Please solve the problem before saving.",このタブは不正なデータを含んでいます。保存する前に問題を解決してください。
+OK,OK
+Fixed,固定
+ID,ID
+SKU,商品番号
+"Use Default Value",標準の値を使用
+N/A,該当無し
+Percent,パーセント
+None,なし
+"Option Title",オプションのタイトル
+"Input Type",入力形式
+Required,必須
+Position,おすすめ
+"New Option","New Option"
+"Price Type",価格タイプ
+"As low as",同じかそれ以下
+"Regular Price","Regular Price"
+"* Required Fields","* 必須項目"
+Availability,Availability
+"In stock",在庫あり
+"Out of stock",在庫切れ
+Qty,個数
+Root,ルート
+"Save Category",保存
+"Delete Category",カテゴリの削除
+"New Subcategory",新しいサブカテゴリ
+"New Root Category",新しいルートカテゴリ
+"Set Root Category for Store",店舗のルートカテゴリをセットしてください。
+"Use Config Settings",設定値を使用する
+"Use All Available Attributes",全ての利用可能な属性で使用する
+"Category Data",カテゴリデータ
+"Category Products",カテゴリの商品
+"Add Subcategory",サブカテゴリを追加
+"Add Root Category",ルートカテゴリを追加
+Day,日
+Month,月
+Year,年
+"<label class=""label""><span>from</span></label>","<label class=""label""><span>from</span></label>"
+"<label class=""label""><span>to</span></label>","<label class=""label""><span>to</span></label>"
+[GLOBAL],[グローバル]
+[WEBSITE],[ウェブサイト]
+"[STORE VIEW]",[ストアビュー]
+"WYSIWYG Editor",WYSIWYGエディタ
+"Add Product",新規商品の追加
+label,label
+"Product Attributes",商品の属性
+"Add New Attribute",新規属性の追加
+"Save in New Attribute Set","Save in New Attribute Set"
+"Enter Name for New Attribute Set","Enter Name for New Attribute Set"
+"Save and Continue Edit",保存して編集を続ける
+"Save Attribute",保存
+"Delete Attribute",属性の削除
+"Edit Product Attribute ""%1""","Edit Product Attribute ""%1"""
+"New Product Attribute",新規商品属性
+"Advanced Attribute Properties","Advanced Attribute Properties"
+"Attribute Code",属性コード
+"This is used internally. Make sure you don't use spaces or more than %1 symbols.","This is used internally. Make sure you don't use spaces or more than %1 symbols."
+"Default Value",標準の値
+"Unique Value",一意な値
+"Unique Value (not shared with other products)","一意な値 (他の商品と共有しない)"
+"Not shared with other products",他の商品と共有しない
+"Input Validation for Store Owner",管理画面で値チェックを行う
+Website,ウェブサイト
+Global,グローバル
+Scope,スコープ
+"Declare attribute value saving scope",属性値の保存スコープを定義
+"Frontend Properties",フロントエンドプロパティ
+"Use in Search","Use in Search"
+"Visible in Advanced Search","Visible in Advanced Search"
+"Comparable on Frontend","Comparable on Frontend"
+"Use for Promo Rule Conditions",プロモーションルールの条件で使用する
+"Enable WYSIWYG",WYSIWYGエディタを有効にする
+"Allow HTML Tags on Frontend",フロントエンドでHTMLタグを許可する
+"Visible on Catalog Pages on Frontend","Visible on Catalog Pages on Frontend"
+"Used in Product Listing",商品リスト表示で使用する
+"Depends on design theme",デザインテーマ依存
+"Used for Sorting in Product Listing",商品リスト表示の並べ替え順で使用する
+"Media Image",メディアイメージ
+Gallery,ギャラリー
+"System Properties",システムプロパティ
+"Data Type for Saving in Database",データベースに保存するデータタイプ
+Text,テキスト
+Varchar,varchar
+Static,静的
+Datetime,日時
+Decimal,10進数
+Integer,整数
+"Globally Editable",全体で編集可能
+"Attribute Information",属性情報
+Properties,プロパティ
+"Manage Labels","Manage Labels"
+Visible,表示
+Searchable,検索可能
+Comparable,比較可能
+"Delete Selected Group",選択したグループの削除
+"Delete Attribute Set",属性セットの削除
+"You are about to delete all products in this set. ' 'Are you sure you want to delete this attribute set?","You are about to delete all products in this set. ' 'Are you sure you want to delete this attribute set?"
+"Save Attribute Set",保存
+"New Set Name",新規セット名
+"Edit Attribute Set '%1'","Edit Attribute Set '%1'"
+Empty,空
+"Add Attribute",属性の追加
+"Add New Group",新規グループの追加
+"Add Group",グループの追加
+"Edit Set Name",セット名編集
+"For internal use","For internal use"
+"Based On",元
+"Add New Attribute Set",新規属性の追加
+"Add New Set",新規セットの追加
+"Product Templates","Product Templates"
+"Close Window",ウインドウを閉じる
+"New Product",新規商品
+"Save & Edit","Save & Edit"
+"Save & New","Save & New"
+"Save & Duplicate","Save & Duplicate"
+"Save & Close","Save & Close"
+Attributes,属性
+Change,変更
+"Advanced Inventory","Advanced Inventory"
+Websites,ウェブサイト
+"Products Information",商品情報
+"Category Name","Category Name"
+"Parent Category",親カテゴリ
+"If there are no custom parent categories, please use the default parent category. ' 'You can reassign the category at any time in ' '<a href=""%1"" target=""_blank"">Products > Categories</a>.","If there are no custom parent categories, please use the default parent category. ' 'You can reassign the category at any time in ' '<a href=""%1"" target=""_blank"">Products > Categories</a>."
+"We saved the price alert subscription.","We saved the price alert subscription."
+"We saved the stock notification.","We saved the stock notification."
+"There are no customers for this alert.",このアラートに顧客は登録されていません。
+"Subscribe Date","Subscribe Date"
+"Last Notified","Last Notified"
+"Send Count",カウント送信
+"New Attribute",新しい属性
+Type,タイプ
+"Attribute Set",属性セット
+Visibility,表示
+"Add New Option",新規オプションの追加
+"Import Options","Import Options"
+"Use Default",標準の値を使用
+Import,インポート
+"Add New Row",新しい行の追加
+"Delete Row",行の削除
+"Tier Pricing",価格層
+"Default Price",標準の価格
+"Add Group Price",グループ価格を追加
+"ALL GROUPS",全てのグループ
+"Add Tier",階層の追加
+"Default Values",標準の値
+"Related Products",関連する商品
+Up-sells,アップセル商品
+Cross-sells,クロスセル商品
+"Size for %1","Size for %1"
+"Watermark File for %1","Watermark File for %1"
+"Position of Watermark for %1","Position of Watermark for %1"
+"Name in %1","Name in %1"
+Edit,編集
+"Change status",ステータス変更
+"Update Attributes",属性を更新
+"Click here or drag and drop to add images","Click here or drag and drop to add images"
+"Delete image","Delete image"
+"Make Base","Make Base"
+Hidden,Hidden
+"Image Management","Image Management"
+"start typing to search category","start typing to search category"
+"New Category",新規カテゴリ
+"Add New Images",新規画像の追加
+"Inc. Tax",税込
+lbs,lbs
+"Notify Low Stock RSS",在庫僅か通知RSS
+"Low Stock Products",在庫が残り僅かな商品
+"%1 has reached a quantity of %2.","%1 has reached a quantity of %2."
+"Go to Home Page",ホームページへ
+"Subscribe to RSS Feed",RSSフィードを購読する
+"Products Comparison List",比較リスト
+AM,AM
+PM,PM
+"New Products from %1","New Products from %1"
+"New Products",新しい商品
+"%1 - Special Products","%1 - Special Products"
+"Click for price",クリックして価格を表示
+"Special Expires On: %1","Special Expires On: %1"
+"Price: %1","Price: %1"
+"Special Price: %1","Special Price: %1"
+"Special Products",特別価格商品
+"You deleted the category.","You deleted the category."
+"Something went wrong while trying to delete the category.","Something went wrong while trying to delete the category."
+Categories,カテゴリ
+"Manage Catalog Categories",カタログカテゴリ管理
+"Manage Categories",カテゴリ管理
+"Category is not available for requested store.","Category is not available for requested store."
+"There was a category move error.","There was a category move error."
+"There was a category move error. %1","There was a category move error. %1"
+"You moved the category","You moved the category"
+"Attribute ""%1"" is required.","Attribute ""%1"" is required."
+"Unable to save the category","Unable to save the category"
+"You saved the category.","You saved the category."
+"Please select products for attributes update.","Please select products for attributes update."
+"Please make sure to define SKU values for all processed products.","Please make sure to define SKU values for all processed products."
+"A total of %1 record(s) were updated.","A total of %1 record(s) were updated."
+"Something went wrong while updating the product(s) attributes.","Something went wrong while updating the product(s) attributes."
+"Manage Product Attributes",商品属性管理
+"This attribute cannot be deleted.",この属性は削除されません。
+"The product attribute has been deleted.",商品属性を削除しました。
+"We can't find an attribute to delete.","We can't find an attribute to delete."
+"This attribute no longer exists.","This attribute no longer exists."
+"This attribute cannot be edited.",この属性は変更できません。
+"Edit Product Attribute",商品属性の編集
+"Attribute Set with name '%1' already exists.","Attribute Set with name '%1' already exists."
+"Something went wrong saving the attribute.","Something went wrong saving the attribute."
+"Attribute code ""%1"" is invalid. Please use only letters (a-z), ' 'numbers (0-9) or underscore(_) in this field, first character should be a letter.","Attribute code ""%1"" is invalid. Please use only letters (a-z), ' 'numbers (0-9) or underscore(_) in this field, first character should be a letter."
+"You can't update your attribute.","You can't update your attribute."
+"You saved the product attribute.","You saved the product attribute."
+"An attribute with this code already exists.","An attribute with this code already exists."
+"Attribute with the same code (%1) already exists.","Attribute with the same code (%1) already exists."
+"You duplicated the product.","You duplicated the product."
+"This product no longer exists.",この商品は存在していません。
+Products,商品
+"A group with the same name already exists.",同じ名前のグループが既に存在しています。
+"Something went wrong while saving this group.","Something went wrong while saving this group."
+"Please select product(s).",商品を選択してください。
+"A total of %1 record(s) have been deleted.","A total of %1 record(s) have been deleted."
+"A total of %1 record(s) have been updated.","A total of %1 record(s) have been updated."
+"Unable to save product","Unable to save product"
+"You saved the product.","You saved the product."
+"SKU for product %1 has been changed to %2.","SKU for product %1 has been changed to %2."
+"New Product Template","New Product Template"
+"The attribute set has been removed.",属性セットを削除しました。
+"We can't delete this set right now.","We can't delete this set right now."
+"New Set",新しいセット
+"Manage Product Sets",商品セット管理
+"Manage Attribute Sets",属性セット管理
+"This attribute set no longer exists.",この属性セットが存在していません。
+"You saved the attribute set.","You saved the attribute set."
+"An error occurred while saving the attribute set.",属性セットの保存中にエラーが発生しました。
+"You added product %1 to the comparison list.","You added product %1 to the comparison list."
+"You cleared the comparison list.","You cleared the comparison list."
+"You removed product %1 from the comparison list.","You removed product %1 from the comparison list."
+"1 item","1 item"
+"%1 items","%1 items"
+"Invalid attribute %1","Invalid attribute %1"
+Grid,表
+List,リスト
+All,全て
+"Product is not loaded",商品が読み込まれていません。
+"Bad controller interface for showing product","Bad controller interface for showing product"
+"Make sure the To Date is later than or the same as the From Date.","Make sure the To Date is later than or the same as the From Date."
+"Sorry, but we can\'t move the category because we can\'t find the new parent category you' ' selected.","Sorry, but we can\'t move the category because we can\'t find the new parent category you' ' selected."
+"Sorry, but we can't move the category because we can't find the new category you selected.","Sorry, but we can't move the category because we can't find the new category you selected."
+"We can\'t perform this category move operation because the parent category matches the child' 'category.","We can\'t perform this category move operation because the parent category matches the child' 'category."
+"Can't delete root category.","Can't delete root category."
+"The value of attribute ""%1"" must be unique.","The value of attribute ""%1"" must be unique."
+"Default Product Listing Sort by does not exist in Available Product Listing Sort By.",標準の商品リスト表示順は利用できる候補に存在していません。
+"No layout updates",更新するレイアウトがありません
+"Products only",商品のみ
+"Static block only",静的ブロックのみ
+"Static block and products",静的ブロックと商品
+"Please select a static block.","Please select a static block."
+frontend_label,frontend_label
+"Could not save product ""%1"" with position %2 to category %3","Could not save product ""%1"" with position %2 to category %3"
+"Category does not contain specified product","Category does not contain specified product"
+"Could not save product ""%1"" with position %position to category %2","Could not save product ""%1"" with position %position to category %2"
+"Operation do not allow to move a parent category to any of children category","Operation do not allow to move a parent category to any of children category"
+"Could not move category","Could not move category"
+"Could not save category: %1","Could not save category: %1"
+"Cannot delete category with id %1","Cannot delete category with id %1"
+"-- Please Select a Category --","-- カテゴリを選択してください --"
+"Grid Only",グリッドのみ
+"List Only",リストのみ
+"Grid (default) / List","グリッド（デフォルト） /リスト"
+"List (default) / Grid","リスト（デフォルト） /グリッド"
+"Automatic (equalize price ranges)","自動 (価格範囲と同じ)"
+"Automatic (equalize product counts)","自動 (商品カウントと同じ)"
+Manual,手動
+"-- Please select --","-- 選択してください --"
+"Product Thumbnail Itself",商品サムネイル
+"Parent Product Thumbnail",親商品のサムネイル
+"12h AM/PM",12時間表記
+24h,24時間
+Stretch,拡大
+Tile,タイル
+Top/Left,上/左
+Top/Right,上/右
+Bottom/Left,下部/左
+Bottom/Right,下部/右
+Center,中央
+"%1 doesn't extends \Magento\Framework\Model\AbstractModel","%1 doesn't extends \Magento\Framework\Model\AbstractModel"
+"Unknown EAV indexer type ""%1"".","Unknown EAV indexer type ""%1""."
+"Could not rebuild index for undefined product","Could not rebuild index for undefined product"
+"Bad value was supplied.","Bad value was supplied."
+"The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes.' 'Currently there are %1$d of them.' 'Please reduce the number of filterable/sortable attributes in order to use this module","The Flat Catalog module has a limit of %2$d filterable and/or sortable attributes.' 'Currently there are %1$d of them.' 'Please reduce the number of filterable/sortable attributes in order to use this module"
+"Unsupported product type ""%1"".","Unsupported product type ""%1""."
+"Please correct the category.","Please correct the category."
+"Must be category model instance or its id.","Must be category model instance or its id."
+"The attribute model is not defined.","The attribute model is not defined."
+Category,カテゴリ
+"%1 - %2","%1 - %2"
+"%1 was not found in algorithms","%1 was not found in algorithms"
+"%1 doesn't extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface","%1 doesn't extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface"
+"%1 doesn't extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter","%1 doesn't extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter"
+"The filter must be an object. Please set correct filter.","The filter must be an object. Please set correct filter."
+"Clear Price","Clear Price"
+"%1 and above","%1 and above"
+"The filters must be an array.",フィルタは配列でなければなりません。
+"We found a duplicate website group price customer group.","We found a duplicate website group price customer group."
+"Group price must be a number greater than 0.","Group price must be a number greater than 0."
+"The image does not exist.","The image does not exist."
+"Please correct the image file type.","Please correct the image file type."
+"We couldn't move this file: %1.","We couldn't move this file: %1."
+"We couldn't copy file %1. Please delete media with non-existing images and try again.","We couldn't copy file %1. Please delete media with non-existing images and try again."
+"Please enter a number 0 or greater in this field.",0以上の数字を入力してください。
+"The value of attribute ""%1"" must be set","The value of attribute ""%1"" must be set"
+"SKU length should be %1 characters maximum.","SKU length should be %1 characters maximum."
+"Please enter a valid number in this field.",正しい数字で入力してください。
+"We found a duplicate website, tier price, customer group and quantity.","We found a duplicate website, tier price, customer group and quantity."
+"Invalid option id %1","Invalid option id %1"
+"Can not create attribute set based on non product attribute set.","Can not create attribute set based on non product attribute set."
+"Can not create attribute set based on not existing attribute set","Can not create attribute set based on not existing attribute set"
+"Provided Attribute set non product Attribute set.","Provided Attribute set non product Attribute set."
+"Use config",設定を使用する
+"Attribute set already exists.","Attribute set already exists."
+"Requested product does not support images.","Requested product does not support images."
+"There is no store with provided ID.","There is no store with provided ID."
+"The image content is not valid.","The image content is not valid."
+"Cannot save product.","Cannot save product."
+"Failed to save new media gallery entry.","Failed to save new media gallery entry."
+"There is no image with provided ID.","There is no image with provided ID."
+"Such product doesn't exist","Such product doesn't exist"
+"Such image doesn't exist","Such image doesn't exist"
+"Please provide valid data","Please provide valid data"
+"Values of following attributes are invalid: %1","Values of following attributes are invalid: %1"
+"Could not save group price","Could not save group price"
+"We can't find the image file.","We can't find the image file."
+"The option type to get group instance is incorrect.","The option type to get group instance is incorrect."
+"Select type options required values rows.",価格の列を要求されたタイプオプションを選択
+"Could not save product option","Could not save product option"
+"Could not remove custom option","Could not remove custom option"
+"Please specify date required option(s).",日付の必須オプションを指定してください。
+"Please specify time required option(s).",時間の必須項目を指定してください。
+"Please specify the product's required option(s).",商品の必須オプションを指定してください。
+"The option instance type in options group is incorrect.","The option instance type in options group is incorrect."
+"The product instance type in options group is incorrect.","The product instance type in options group is incorrect."
+"The configuration item option instance in options group is incorrect.","The configuration item option instance in options group is incorrect."
+"The configuration item instance in options group is incorrect.","The configuration item instance in options group is incorrect."
+"The BuyRequest instance in options group is incorrect.","The BuyRequest instance in options group is incorrect."
+"We couldn't add the product to the cart because of an option validation issue.","We couldn't add the product to the cart because of an option validation issue."
+"%1 doesn't extends \Magento\Catalog\Model\Product\Option\Type\DefaultType","%1 doesn't extends \Magento\Catalog\Model\Product\Option\Type\DefaultType"
+"The file options format is not valid.","The file options format is not valid."
+px.,ピクセル
+"The file '%1' for '%2' has an invalid extension.","The file '%1' for '%2' has an invalid extension."
+"Maximum allowed image size for '%1' is %2x%3 px.","Maximum allowed image size for '%1' is %2x%3 px."
+"The file '%1' you uploaded is larger than the %2 megabytes allowed by our server.","The file '%1' you uploaded is larger than the %2 megabytes allowed by our server."
+"File '%1' is not an image.","File '%1' is not an image."
+"Validation failed. Required options were not filled or file was not uploaded.","Validation failed. Required options were not filled or file was not uploaded."
+"The file you uploaded is larger than %1 Megabytes allowed by server","The file you uploaded is larger than %1 Megabytes allowed by server"
+"Option required.","Option required."
+"Some of the selected item options are not currently available.",選択いただいたオプションのうちいくつかは現在ご利用いただけません。
+"The text is too long.","The text is too long."
+"This product doesn't have group price","This product doesn't have group price"
+"Product hasn't group price with such data: customerGroupId = '%1', website = %2.","Product hasn't group price with such data: customerGroupId = '%1', website = %2."
+"Invalid data provided for group price","Invalid data provided for group price"
+"This product doesn't have tier price","This product doesn't have tier price"
+"Product hasn\'t group price with such data: customerGroupId = \'%1\'' ', website = %2, qty = %3","Product hasn\'t group price with such data: customerGroupId = \'%1\'' ', website = %2, qty = %3"
+"Invalid data provided for tier_price","Invalid data provided for tier_price"
+"We can't create writeable directory ""%1"".","We can't create writeable directory ""%1""."
+"The file upload failed.","The file upload failed."
+"The product has required options.","The product has required options."
+"Something went wrong while processing the request.","Something went wrong while processing the request."
+"%1 doesn't extends \Magento\Catalog\Model\Product\Type\AbstractType","%1 doesn't extends \Magento\Catalog\Model\Product\Type\AbstractType"
+"%1 doesn't extends \Magento\Catalog\Model\Product\Type\Price","%1 doesn't extends \Magento\Catalog\Model\Product\Type\Price"
+"Not Visible Individually",非表示
+"Catalog, Search","カタログ, 検索"
+"Something went wrong removing products from the websites.","Something went wrong removing products from the websites."
+"Something went wrong adding products to websites.","Something went wrong adding products to websites."
+"Group with id ""%1"" does not exist.","Group with id ""%1"" does not exist."
+"Attribute group that contains system attributes can not be deleted","Attribute group that contains system attributes can not be deleted"
+"Collection provider is not registered","Collection provider is not registered"
+"Unknown link type: %1","Unknown link type: %1"
+"Provided link type ""%1"" does not exist","Provided link type ""%1"" does not exist"
+"Invalid data provided for linked products","Invalid data provided for linked products"
+"Product with SKU %1 is not linked to product with SKU %2","Product with SKU %1 is not linked to product with SKU %2"
+"Product %1 doesn't have linked %2 as %3","Product %1 doesn't have linked %2 as %3"
+"Requested product doesn't exist","Requested product doesn't exist"
+"Product option with id %1 does not exist","Product option with id %1 does not exist"
+"Product with SKU ""%1"" does not exist","Product with SKU ""%1"" does not exist"
+"Invalid product data: %1","Invalid product data: %1"
+"Unable to remove product %1","Unable to remove product %1"
+"Attribute '%1' is locked. %2","Attribute '%1' is locked. %2"
+"Do not change the scope. %1","Do not change the scope. %1"
+"A product type is not defined for the indexer.",商品種別はインデックス処理で未定義です。
+"%1 doesn't extend \Magento\Catalog\Model\Resource\Product\Indexer\Price\DefaultPrice","%1 doesn't extend \Magento\Catalog\Model\Resource\Product\Indexer\Price\DefaultPrice"
+"Multiple Select",複数選択
+Dropdown,ドロップダウン
+"%1 doesn't extend \Magento\Framework\Filter\Template","%1 doesn't extend \Magento\Framework\Filter\Template"
+message,message
+fl,fl
+123,123
+"Are you sure you want to delete this category?",このカテゴリを削除してもよろしいですか？
+"ID: %1","ID: %1"
+"Set root category for this store in the <a href=""%1"">configuration</a>.","Set root category for this store in the <a href=""%1"">configuration</a>."
+"This operation can take a long time","This operation can take a long time"
+"Collapse All",すべて折りたたむ
+"Expand All",すべて展開する
+"Please confirm site switching. All data that hasn't been saved will be lost.",サイトの切替を確認してください。保存されていないデータは失われます。
+"Manage Titles (Size, Color, etc.)","タイトル管理(サイズ,色, etc.)"
+"Manage Options (values of your attribute)","オプション管理 (属性の値)"
+"Is Default",デフォルト
+"Add Option",オプションを追加
+"Sort Option","Sort Option"
+Groups,グループ
+"Double click on a group to rename it",ダブルクリックしてグループをリネームします
+"Unassigned Attributes",未割り当ての属性
+"A name is required.","A name is required."
+"This group contains system attributes. Please move system attributes to another group and try again.",グループはシステム属性を含んでいます。システム属性を他のグループに移した後にやり直してください。
+"Please enter a new group name.","Please enter a new group name."
+"An attribute group named ""/name/"" already exists"".","An attribute group named ""/name/"" already exists""."
+"We're unable to complete this request.","We're unable to complete this request."
+"You cannot remove system attributes from this set.","You cannot remove system attributes from this set."
+"Custom Options",カスタムオプション
+"This is a required option.","This is a required option."
+"Field is not complete",フィールドは完了していません
+"Allowed file extensions to upload",許可した拡張子のファイルをアップロードする
+"Maximum image width",画像の最大幅
+"Maximum image height",画像の最大高さ
+"Maximum number of characters:",最大文字数:
+"Product online","Product online"
+"Product offline","Product offline"
+"Product online status","Product online status"
+"Manage Stock",在庫管理
+"Minimum Qty for Item's Status to be Out of Stock",商品の状態を在庫切れとする最低数
+"Minimum Qty Allowed in Shopping Cart",カートの中で許可する最小個数
+"Maximum Qty Allowed in Shopping Cart",カートの中で許可する最大個数
+"Qty Uses Decimals",個数に小数表記を使う
+Backorders,バックオーダー
+"Notify for Quantity Below",これ以下の数量になれば通知
+"Enable Qty Increments",個数の増分を許可する
+"Qty Increments",個数の増分
+"Stock Availability",在庫の有無
+"In Stock",在庫あり
+"Out of Stock",在庫切れ
+"Add Product To Websites",商品をウェブサイトに追加
+"Remove Product From Websites",ウェブサイトから商品を削除
+"Items that you do not want to show in the catalog or search results should have status 'Disabled' in the desired store.","カタログ、検索結果に表示したくない商品は希望のストアでステータスを""無効""にしてください。"
+"Bundle with dynamic pricing cannot include custom defined options. Options will not be saved.",価格が変化するようなセット商品はカスタム定義オプションを含めることができません。オプションは保存されません。
+"Delete Custom Option","Delete Custom Option"
+"Sort Custom Options","Sort Custom Options"
+"Allowed File Extensions",許可する拡張子
+"Maximum Image Size",最大画像サイズ
+"%1 <span>x</span> %2 <span>px.</span>","%1 <span>x</span> %2 <span>px.</span>"
+"Please leave blank if it is not an image.","Please leave blank if it is not an image."
+Title,タイトル
+"Sort Custom Option","Sort Custom Option"
+"Max Characters",最大文字数
+"Customer Group",顧客グループ
+Action,アクション
+"Delete Group Price",グループ価格の削除
+"Item Price","Item Price"
+"and above",またはそれ以上
+"Delete Tier",階層の削除
+"Product In Websites",ウェブサイト内の商品
+"Items that you don't want to show in the catalog or search results should have status 'Disabled' in the desired store.","カタログ、検索結果に表示したくない商品は希望のストアでステータスを""無効""にしてください。"
+"(Copy data from: %1)","(Copy data from: %1)"
+"Remove Image","Remove Image"
+"Alt Text","Alt Text"
+Role,Role
+"Hide from Product Page","Hide from Product Page"
+"Close panel","Close panel"
+"Product Alerts",商品通知
+"Qty for Item's Status to Become Out of Stock",在庫切れステータスにする在庫数
+"Can be Divided into Multiple Boxes for Shipping",配送時に複数梱包に分割可能です
+"Basic Settings","Basic Settings"
+"Advanced Settings",拡張設定
+"Special Price",特別価格
+"Buy %1 for: ","Buy %1 for: "
+"Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>"
+"Buy %1 for %2 each","Buy %1 for %2 each"
+"Shop By",閲覧中
+"Shopping Options",絞り込み条件
+"Compare Products",商品の比較
+"Print This Page",ページを印刷する
+"Remove Product","Remove Product"
+"Add to Cart",カートに入れる
+"Add to Wish List","Add to Wish List"
+"You have no items to compare.",比較する商品はありません
+"Remove This Item",この商品を削除する
+Compare,比較する
+"Clear All",すべてクリア
+Prev,前へ
+"There are no products matching the selection.",条件にマッチする商品はありません。
+"Add to Compare",比較リストに追加
+"Learn More",もっと詳しく
+"You may also be interested in the following product(s)",以下の商品にご興味はありませんか？
+"More Choices:","More Choices:"
+"Check items to add to the cart or",アイテムをクリックしてカートに追加または
+"select all",全て選択
+"Items %1-%2 of %3","Items %1-%2 of %3"
+"%1 Item","%1 Item"
+"%1 Items","%1 Items"
+Show,表示
+"Sort By",並び順
+"Set Ascending Direction",昇順
+"Set Descending Direction",降順
+"View as",表示方法
+"Additional Information",追加情報
+"More Views",もっと見る
+"Click on image to view it full sized","Click on image to view it full sized"
+"Click on image to zoom","Click on image to zoom"
+Template,テンプレート
+Details,詳細
+"We don't recognize or support this file extension type.","We don't recognize or support this file extension type."
+"Warning message","Warning message"
+Ok,Ok
+"Configure Product",商品を構成する
+"Select type of option.","Select type of option."
+"Please add rows to option.",オプションに行を加えてください。
+"Select Product","Select Product"
+"Choose existing category.","Choose existing category."
+"Create Category","Create Category"
+"unselect all",全て未選択にする
+"Search Engine Optimization","Search Engine Optimization"
+"Product Fields Auto-Generation","Product Fields Auto-Generation"
+"Mask for SKU","Mask for SKU"
+"Use {{name}} as Product Name placeholder","Use {{name}} as Product Name placeholder"
+"Mask for Meta Title","Mask for Meta Title"
+"Mask for Meta Keywords","Mask for Meta Keywords"
+"Use {{name}} as Product Name or {{sku}} as Product SKU placeholders","Use {{name}} as Product Name or {{sku}} as Product SKU placeholders"
+"Mask for Meta Description","Mask for Meta Description"
+"Use {{name}} and {{description}} as Product Name and Product Description placeholders","Use {{name}} and {{description}} as Product Name and Product Description placeholders"
+Frontend,フロントエンド
+"List Mode",リストモード
+"Products per Page on Grid Allowed Values",商品グリッド表示で使用できる候補
+Comma-separated.,コンマ区切り
+"Products per Page on Grid Default Value",商品グリッド表示のデフォルト値
+"Must be in the allowed values list","Must be in the allowed values list"
+"Products per Page on List Allowed Values",商品リスト表示の表示件数候補
+"Products per Page on List Default Value",商品リスト表示でのデフォルト値
+"Use Flat Catalog Category",フラットカタログカテゴリを使用する
+"Use Flat Catalog Product",フラットカタログ商品を使用する
+"Product Listing Sort by",商品リスト表示の表示順
+"Allow All Products per Page",全商品を1ページに表示させる
+"Whether to show ""All"" option in the ""Show X Per Page"" dropdown","Whether to show ""All"" option in the ""Show X Per Page"" dropdown"
+"Allow Dynamic Media URLs in Products and Categories",動的なメディアURLを商品とカテゴリに許可する
+"E.g. {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}. Dynamic directives parsing impacts catalog performance.","例 {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}。 ダイナミックディレクティブはカタログのパフォーマンスに影響を及ぼします。"
+"Product Image Placeholders",商品画像プレースホルダ
+"Page Title Separator",ページタイトル区切文字
+"Use Canonical Link Meta Tag For Categories",カテゴリにCanonicalタグを使用する
+"Use Canonical Link Meta Tag For Products",商品に正確なCanonicalタグを使用する
+"Catalog Price Scope",カタログ価格スコープ
+"This defines the base currency scope (""Currency Setup"" > ""Currency Options"" > ""Base Currency"").","This defines the base currency scope (""Currency Setup"" > ""Currency Options"" > ""Base Currency"")."
+"Category Top Navigation",カテゴリTOPナビゲーション
+"Maximal Depth",最大階層
+"Date & Time Custom Options",日付と時間のオプション
+"Use JavaScript Calendar",JavaScriptカレンダーを使用する
+"Date Fields Order",日付入力欄の形式
+"Time Format",時間のフォーマット
+"Year Range",年範囲
+"Please use a four-digit year format.","Please use a four-digit year format."
+"Product Image Watermarks",商品画像ウオーターマーク
+"Watermark Default Size",透かしディフォルトサイズ
+"Watermark Opacity, Percent",ウオーターマーク不透明度
+Watermark,透かし
+"Watermark Position",透かし位置
+"Use Static URLs for Media Content in WYSIWYG for Catalog",WYSIWYGエディタカタログのメディアコンテンツで静的URLを使用する
+"This applies only to catalog products and categories. Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.","This applies only to catalog products and categories. Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes."
+"Top Level Category",カテゴリの最上位
+"Product Flat Data",商品フラットデータ
+"Reorganize EAV product structure to flat structure",EAV商品ストラクチャをフラットストラクチャに変換したインデックス
+"Category Flat Data",カテゴリフラットデータ
+"Reorganize EAV category structure to flat structure",EAVカテゴリストラクチャをフラットストラクチャに変換したインデックス
+"Indexed category/products association",カテゴリ/商品の関連インデックス
+"Product Categories",商品カテゴリ
+"Indexed product/categories association","Indexed product/categories association"
+"Product Price","Product Price"
+"Index product prices",商品価格インデックス
+"Product EAV","Product EAV"
+"Index product EAV","Index product EAV"
+"Catalog New Products List",新着商品リスト
+"List of Products that are set as New",新着商品リスト
+"Display Type",表示方法
+"All products - recently added products, New products - products marked as new","すべての商品 - 最近登録した商品 - 新着商品"
+"All products",すべての商品
+"New products",新商品
+"Display Page Control",ページコントロールを表示
+"Number of Products per Page",1ページあたりの商品表示件数
+"Number of Products to Display",商品表示点数
+"New Products Grid Template",新着商品グリッドテンプレート
+"New Products List Template",新着商品リストテンプレート
+"New Products Images and Names Template","New Products Images and Names Template"
+"New Products Names Only Template","New Products Names Only Template"
+"New Products Images Only Template","New Products Images Only Template"
+"Cache Lifetime (Seconds)","キャッシュ有効期間 (秒)"
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache."
+"Catalog Product Link",商品リンク
+"Link to a Specified Product",指定商品にリンク
+"Anchor Custom Text",アンカーカスタムテキスト
+"If empty, the Product Name will be used",空白の場合は商品名が使用されます
+"Anchor Custom Title",アンカーカスタムタイトル
+"Product Link Block Template",商品リンクブロックテンプレート
+"Product Link Inline Template",商品インラインリンクテンプレート
+"Catalog Category Link",カテゴリリンク
+"Link to a Specified Category",特定のカテゴリにひもづける
+"If empty, the Category Name will be used",もし空白の場合はカテゴリ名が使用されます。
+"Category Link Block Template",カテゴリリンクブロックテンプレート
+"Category Link Inline Template",カテゴリリンクインラインテンプレート
+Set,Set
+none,none
+Overview,Overview
