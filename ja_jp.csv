@@ -3195,7 +3195,7 @@ Register,新規登録
 "The title that goes before name (Mr., Mrs., etc.)","名前の前につけるタイトル (Mr., Mrs., など)"
 "Prefix Dropdown Options",称号の候補
 "Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.","セミコロン (;) 値を区切ります。<br/>空白が最初のオプションには先頭にセミコロンをつけて下さい<br/>テキスト部分には空欄にしてください"
-"Show Middle Name (initial),"ミドルネームを表示 (イニシャル)"
+"Show Middle Name (initial)","ミドルネームを表示 (イニシャル)"
 "Always optional.",常に任意
 "Show Suffix",敬称を表示
 "The suffix that goes after name (Jr., Sr., etc.)","名前に続くサフィックスが必要 (Jr., Sr., など)"
