@@ -82,9 +82,9 @@ Availability,Availability
 Qty,個数
 "Product Name",商品名
 Edit,編集
-"1 item","1 item"
-"%1 items","%1 items"
-message,message
+"1 item","1 商品"
+"%1 items","%1 商品"
+message,メッセージ
 Action,アクション
 "Add to Cart",カートに入れる
 "Add to Wish List","欲しいものリストに追加"
@@ -108,8 +108,8 @@ Configure,構成
 "Wish List","Wish List"
 Comment,コメント
 "Please enter an email address.","Please enter an email address."
-"Wish List Sharing","Wish List Sharing"
-"My Wish List","My Wish List"
+"Wish List Sharing","ほしい物リストの共有"
+"My Wish List","ほしい物リスト"
 "%1's Wish List","%1's Wish List"
 "We can't specify a product.","We can't specify a product."
 "%1 has been added to your Wish List. Click <a href=""%2"">here</a> to continue shopping.","%1 has been added to your Wish List. Click <a href=""%2"">here</a> to continue shopping."
@@ -150,21 +150,21 @@ Comment:,コメント:
 "We can't specify a wish list item.","We can't specify a wish list item."
 error-message,error-message
 LocalizedException,LocalizedException
-"Share Wish List","Share Wish List"
+"Share Wish List","ほしい物リストを共有"
 "Add All to Cart",全てカートに入れる
-"Update Wish List","Update Wish List"
+"Update Wish List","ほしい物リストを更新"
 "View Product",商品を表示
 "This Wish List has no Items","This Wish List has no Items"
 "Options Details",オプションの概要
 "RSS link to %1's wishlist","RSS link to %1's wishlist"
 "RSS Feed","RSS フィード"
 "Wish List is empty now.","Wish List is empty now."
-"Sharing Information",共有情報
+"Sharing Information",共有先の情報
 "Email addresses, separated by commas","メールアドレスは「,」で区切る必要があります"
 "Check here to link an RSS feed to your Wish List.","Check here to link an RSS feed to your Wish List."
 "Last Added Items",最後に追加した商品
 "Go to Wish List","Go to Wish List"
-"You have no items in your wish list.","You have no items in your wish list."
+"You have no items in your wish list.","ほしい物リストは空です。"
 "Are you sure you want to remove this product from your Wish List?","Are you sure you want to remove this product from your Wish List?"
 "Email Sender",メール送信者
 "Email Template",メールテンプレート
@@ -919,7 +919,7 @@ PM,PM
 "This attribute set no longer exists.",この属性セットが存在していません。
 "You saved the attribute set.","You saved the attribute set."
 "An error occurred while saving the attribute set.",属性セットの保存中にエラーが発生しました。
-"You added product %1 to the comparison list.","You added product %1 to the comparison list."
+"You added product %1 to the comparison list.","比較リストに %1 を追加しました"
 "You cleared the comparison list.","You cleared the comparison list."
 "You removed product %1 from the comparison list.","You removed product %1 from the comparison list."
 "Invalid attribute %1","Invalid attribute %1"
@@ -1166,8 +1166,8 @@ Prev,前へ
 "Check items to add to the cart or",アイテムをクリックしてカートに追加または
 "select all",全て選択
 "Items %1-%2 of %3","Items %1-%2 of %3"
-"%1 Item","%1 Item"
-"%1 Items","%1 Items"
+"%1 Item","%1 注文"
+"%1 Items","%1 注文"
 Show,表示
 "Sort By",並び順
 "Set Ascending Direction",昇順
@@ -1533,7 +1533,7 @@ test2,test2
 "Catalog Advanced Search",詳細な検索
 Results,結果
 "Search Weight",検索ウエイト
-"Search results for: '%1'","Search results for: '%1'"
+"Search results for: '%1'","'%1' の検索結果"
 "Minimum Search query length is %1","Minimum Search query length is %1"
 "Please specify at least one search term.",1つ以上のキーワードを指定してください。
 "%1 and greater","%1 and greater"
@@ -2655,8 +2655,8 @@ Color,色
 "Online Only",オンライン用
 GTIN,GTIN
 "Product Type (Category)",商品タイプ(カテゴリー)
-"Product Review Average",商品レヴュー平均
-"Product Review Count",商品リヴューカウント
+"Product Review Average",商品レビュー平均
+"Product Review Count",商品レビューカウント
 "Shipping Weight",送付重量
 Material,素材
 Pattern/Graphic,パターン/グラフィック
@@ -3413,7 +3413,7 @@ Price:,価格:
 "Sign up for price alert",価格通知を購読する
 "Sign up to be notified when this product is back in stock.",この商品が入荷した場合に通知がされるようにサインアップ
 "Email Templates",メールテンプレート
-Sender,発送人
+Sender,送り主
 "Send Email",メール送信
 "You can't send messages more than %1 times an hour.","一時間に %1 回以上メッセージを送信出来ません"
 "The link to a friend was sent.",リンクを友達に送信しました。
@@ -3699,10 +3699,10 @@ Administrator,管理者
 "Summary Rating",評価のタイトル
 "Detailed Rating",評価の詳細
 "Update Status",ステータスを更新
-"Pending Reviews of Customer `%1`","リヴューが保留の顧客 `%1`"
+"Pending Reviews of Customer `%1`","レビューが保留の顧客 `%1`"
 "Pending Reviews",承認待ちのレビュー
-"All Reviews of Customer `%1`","顧客のすべてのリヴュー `%1`"
-"All Reviews of Product `%1`","商品のすべてのリヴュー `%1`"
+"All Reviews of Customer `%1`","顧客のすべてのレビュー `%1`"
+"All Reviews of Product `%1`","商品のすべてのレビュー `%1`"
 "All Reviews",全てのレビュー
 "Product Store Name",商品ストア名
 "Manage Ratings",評価管理
@@ -3717,21 +3717,21 @@ Administrator,管理者
 "Rating Information",評価情報
 "Pending product review(s)",保留中の商品レビュー
 "Product: <a href=""%1"" target=""_blank"">%2</a> <br/>","商品: <a href=""%1"" target=""_blank"">%2</a> <br/>"
-"Summary of review: %1 <br/>","リヴューのまとめ: %1 <br/>"
-"Review: %1 <br/>","リヴュー: %1 <br/>"
+"Summary of review: %1 <br/>","レビューのまとめ: %1 <br/>"
+"Review: %1 <br/>","レビュー: %1 <br/>"
 "Store: %1 <br/>","ストア: %1 <br/>"
-"Click <a href=""%1"">here</a> to view the review."," <a href=""%1"">ここ</a>をクリックしてリヴューを表示してください"
-"Product: ""%1"" reviewed by: %2","商品: ""%1"" リヴューをした人: %2"
+"Click <a href=""%1"">here</a> to view the review."," <a href=""%1"">ここ</a>をクリックしてレビューを表示してください"
+"Product: ""%1"" reviewed by: %2","商品: ""%1"" レビューをした人: %2"
 "Pending Reviews RSS",承認待ちレビューRSS
-"Reviews %1","リヴュー %1"
-"The review has been deleted.",リヴューは削除されました
-"Customer Reviews",顧客レビュー
+"Reviews %1","レビュー %1"
+"The review has been deleted.",レビューは削除されました
+"Customer Reviews",カスタマーレビュー
 "Edit Review",レビュー編集
 "We can't get the product ID.",商品IDを入手できません
 "Please select review(s).",レビューを選択してください。
 "An error occurred while deleting record(s).",レコードの削除中にエラーが発生しました。
 "An error occurred while updating the selected review(s).",選択したレビューの更新中にエラーが発生しました。
-"You saved the review.",リヴューは保存されました
+"You saved the review.",レビューは保存されました
 "An error occurred while saving review.",レビューの保存中にエラーが発生しました。
 "The review was removed by another user or does not exist.",レビューがほかのユーザーによって削除されたか、または存在していません。
 "Something went wrong while saving this review.",このレヴューを保存中に問題が発生しました
@@ -3740,13 +3740,13 @@ Ratings,レーティング
 "You saved the rating.",レーティングは保存されました
 "My Product Reviews",商品レビュー
 "Your review has been accepted for moderation.",あなたのレビューは受付済みで、承認待ちです。
-"We cannot post the review.",リヴューをポストできません
+"We cannot post the review.",レビューをポストできません
 "Storage key was not set",保管キーはセットされていません
 Approved,承認
 "Not Approved",未承認
 "The review summary field can't be empty.",レヴューまとめフィールドは空白にできません
 "The nickname field can't be empty.",ニックネームフィールドは空白にできません
-"The review field can't be empty.",リヴューフィールドは空白にできません
+"The review field can't be empty.",レビューフィールドは空白にできません
 "Rating isn't Available",評価することはできません
 "Please specify a rating title for a store, or we'll just use the default value.",ストアのレーティングタイトルを指定してください、もしくはディフォルト値を使用します
 "Assigned Options",割り当て済みのオプション
@@ -3759,22 +3759,22 @@ Rating,レーティング
 "Your Review",あなたのレヴュー
 "Submitted on %1","投稿日 %1"
 "Back to My Reviews",レビューに戻る
-"Ratings Review Summary",レーティングリヴューまとめ
+"Ratings Review Summary",レーティングレビューまとめ
 "Be the first to review this product",この商品の最初のレビューを書く
 "Write Your Own Review",あなたのレビューを投稿する
 "You're reviewing:",レビュー中の商品:
 "Your Rating",あなたのレーティング
 "%1 %2","%1 %2"
 "Submit Review",レビューを送信
-"Only registered users can write reviews. Please, <a href=""%1"">log in</a> or <a href=""%2"">register</a>","登録済みユーザーのみリヴューを書くことができます。 <a href=""%1"">ログイン</a> あるいは <a href=""%2"">登録</a>してください"
+"Only registered users can write reviews. Please, <a href=""%1"">log in</a> or <a href=""%2"">register</a>","登録済みユーザーのみレビューを書くことができます。 <a href=""%1"">ログイン</a> あるいは <a href=""%2"">登録</a>してください"
 "Add Your Review",レビューを追加
-"%1 Review(s)","%1 リヴュー"
-"Review by",リヴューした人
+"%1 Review(s)","%1 レビュー"
+"Review by",レビューした人
 "Posted on",投稿日
 "Back to Main Product Info",商品メイン情報に戻る
 "Average Customer Rating",平均評価
 "Product Rating:",商品評価:
-"Product Review (submitted on %1):","商品リヴュー (投稿日 %1):"
+"Product Review (submitted on %1):","商品レビュー (投稿日 %1):"
 "Back to Product Reviews",商品レビューに戻る
 "Allow Guests to Write Reviews",ゲストのレビュー投稿を許可する
 "Add New Template",新しいテンプレートの追加
@@ -5944,7 +5944,7 @@ Quantity:,Quantity:
 Relevance,Relevance
 "Bucket do not exists","Bucket do not exists"
 "We can't find any items matching these search criteria.","We can't find any items matching these search criteria."
-"Your search returned no results.","Your search returned no results."
+"Your search returned no results.","検索に一致する商品はありませんでした。"
 "Add to Column Options","Add to Column Options"
 "Select ""Yes"" to add this attribute to the list of column options in the product grid.","Select ""Yes"" to add this attribute to the list of column options in the product grid."
 "Use in Filter Options","Use in Filter Options"
@@ -6009,8 +6009,8 @@ Relevance,Relevance
 "Allow Multiple Boxes for Shipping.","Allow Multiple Boxes for Shipping."
 "start typing to search attribute","start typing to search attribute"
 "We can't find products matching the selection.","We can't find products matching the selection."
-"We found other products you might like!","We found other products you might like!"
-"More Information","More Information"
+"We found other products you might like!","こちらの商品はいかがですか？"
+"More Information","その他の情報"
 Applied,Applied
 "You deleted the condition.","You deleted the condition."
 "Something went wrong  while deleting this condition.","Something went wrong  while deleting this condition."
@@ -6124,7 +6124,7 @@ Configurations,Configurations
 "We can't find that email and website combination.","We can't find that email and website combination."
 "Please enter a password with a valid length.","Please enter a password with a valid length."
 "Sign In","サインイン"
-"You don't subscribe to our newsletter.","You don't subscribe to our newsletter."
+"You don't subscribe to our newsletter.","ニュースレターは購読していません。"
 "Are you sure you want to revoke the customer\'s tokens?","Are you sure you want to revoke the customer\'s tokens?"
 Purchased,Purchased
 "There are no items in customer's shopping cart.","There are no items in customer's shopping cart."
@@ -6194,15 +6194,15 @@ InputException,InputException
 "Account Created:","Account Created:"
 "You subscribe to ""General Subscription"".","You subscribe to ""General Subscription""."
 "You have no other address entries in your address book.","You have no other address entries in your address book."
-"Please select a region, state or province.","Please select a region, state or province."
+"Please select a region, state or province.","都道府県を選択してください"
 "Please enter your email below and we will send you the confirmation link.","Please enter your email below and we will send you the confirmation link."
 "Back to Sign In","Back to Sign In"
 "Please enter your email address below to receive a password reset link.","Please enter your email address below to receive a password reset link."
 "If you have an account, sign in with your email address.","If you have an account, sign in with your email address."
-"Sign-in Information","Sign-in Information"
+"Sign-in Information","サインイン情報"
 "Create an Account","新規会員登録"
 "Set a New Password","Set a New Password"
-"You have signed out and will go to our homepage in 5 seconds.","You have signed out and will go to our homepage in 5 seconds."
+"You have signed out and will go to our homepage in 5 seconds.","サインアウトしました。5秒後にTOPページに移動します。"
 "Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Creating an account has many benefits: check out faster, keep more than one address, track orders and more."
 "Cannot switch into given mode ""%1""","Cannot switch into given mode ""%1"""
 "Format for IDE '%1' is not supported","Format for IDE '%1' is not supported"
@@ -6346,7 +6346,7 @@ Partners,Partners
 "Sorry, no quotes are available for this order right now.","Sorry, no quotes are available for this order right now."
 "Thanks for your order. We'll email you order details and tracking information.","Thanks for your order. We'll email you order details and tracking information."
 "Your order numbers are: ","Your order numbers are: "
-"Your order number is: ","Your order number is: "
+"Your order number is: ","注文番号: "
 "No New Relic Application ID configured, cannot continue with Cron Event reporting","No New Relic Application ID configured, cannot continue with Cron Event reporting"
 "The New Relic integration requires the newrelic-php5 agent, which is not installed. More
                         information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","The New Relic integration requires the newrelic-php5 agent, which is not installed. More
@@ -6815,8 +6815,8 @@ Author,Author
 "Some error","Some error"
 "Localized Exception.","Localized Exception."
 Exception.,Exception.
-Invitee,Invitee
-"Add Invitee","Add Invitee"
+Invitee,送信先
+"Add Invitee","送信先を追加"
 "We can't initialize shipment for adding tracking number.","We can't initialize shipment for adding tracking number."
 "Cannot send shipment information.","Cannot send shipment information."
 "We can't initialize shipment for delete tracking number.","We can't initialize shipment for delete tracking number."
@@ -7356,7 +7356,7 @@ Storefront,Storefront
 "For delivery questions.","For delivery questions."
 Payment,Payment
 "Cart Subtotal","小計"
-"Not yet calculated","Not yet calculated"
+"Not yet calculated","未確定"
 "We received your order!","We received your order!"
 "Select Page...","Select Page..."
 "Select Block...","Select Block..."
@@ -7398,8 +7398,8 @@ Payment,Payment
 "Billing Lastname","Billing Lastname"
 "If your Magento site has multiple views, you can set the scope to apply to a specific view.","If your Magento site has multiple views, you can set the scope to apply to a specific view."
 "Send Welcome Email From","Send Welcome Email From"
-"Account Dashboard","Account Dashboard"
-"You are signed out.","You are signed out."
+"Account Dashboard","アカウントダッシュボード"
+"You are signed out.","サインアウトしました"
 "Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds 70 kg.","Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds 70 kg."
 Emails,Emails
 "Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in width/height fields below.","Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in width/height fields below."
@@ -7429,7 +7429,7 @@ Emails,Emails
 "This is located by navigating to Settings from the New Relic APM website","This is located by navigating to Settings from the New Relic APM website"
 Cron,Cron
 "Enable Cron","Enable Cron"
-"Newsletter Subscriptions","Newsletter Subscriptions"
+"Newsletter Subscriptions","ニュースレター購読"
 "
                         <a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>
                     ","
