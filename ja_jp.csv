@@ -15,7 +15,7 @@ Conditions,条件
 name,name
 Continue,続ける
 CMS,CMS
-"Design Theme","Design Theme"
+"Design Theme","デザインテーマ"
 Settings,設定
 %1,%1
 Template,テンプレート
@@ -621,8 +621,8 @@ Design,デザイン
 Keywords,キーワード
 "Meta Keywords",メタキーワード
 "Meta Description",メタ概要
-Created,Created
-Modified,Modified
+Created,作成日
+Modified,更新日
 Preview,プレビュー
 "Media Storage",メディアストレージ
 "Create Folder...",フォルダを作成...
@@ -639,7 +639,7 @@ Preview,プレビュー
 "We can't find a block to delete.","We can't find a block to delete."
 "This block no longer exists.",このブロックは存在していません。
 "Edit Block",ブロックを編集
-Blocks,Blocks
+Blocks,ブロック
 "The block has been saved.",ブロックを保存しました。
 "The page has been deleted.",ページを削除しました
 "We can't find a page to delete.","We can't find a page to delete."
@@ -1972,7 +1972,7 @@ Manage,管理
 "Parent Theme",親設定
 "Theme Path",テーマパス
 "Theme Title",テーマタイトル
-"Theme Preview Image",テーマプレヴュー画像
+"Theme Preview Image",テーマプレビュー画像
 "Copy of %1",%1のコピー
 "Max image size %1M","最大画像サイズ %1M"
 "Theme JavaScript","テーマ JavaScript"
@@ -2058,7 +2058,7 @@ Customer,顧客
 Guest,ゲスト様
 Items,商品
 Average,平均
-Views,ヴュー
+Views,ビュー
 Revenue,収入
 Shipping,配送料
 Refresh,更新
@@ -2089,7 +2089,7 @@ CSV,CSVファイル
 Interval,インターバル
 "Refresh Statistics",統計を更新
 "Customers Reviews",顧客のレビュー
-"Reviews for %1","%1 のレヴュー"
+"Reviews for %1","%1 のレビュー"
 Detail,詳細
 "Products Reviews",商品レビュー
 "Products Bestsellers Report",商品ベストセラーレポート
@@ -2151,8 +2151,8 @@ Reports,レポート
 Review,レビュー
 Reviews,レビュー
 "Customers Report",顧客のレポート
-"Customer Reviews Report",顧客レヴューレポート
-"Product Reviews Report",商品レヴューレポート
+"Customer Reviews Report",顧客レビューレポート
+"Product Reviews Report",商品レビューレポート
 "Product Reviews",商品レビュー
 "Best Sellers Report",ベストセラーレポート
 Coupons,クーポン
@@ -2554,7 +2554,7 @@ Synchronize,同期
 "Target Country",対象国
 "Google Product Category",Google製品カテゴリー
 "Attributes Mapping",属性マッピング
-"Unable to select a Store View",ストアヴューを選べませんでした
+"Unable to select a Store View",ストアビューを選べませんでした
 "Captcha has been confirmed.",Captchaを確認しました。
 "There was a Captcha confirmation error: %1","Captcha確認エラーです: %1"
 "Something went wrong during Captcha confirmation.",Captcha確認中に問題が発生しました
@@ -2677,7 +2677,7 @@ Processing,処理中
 "We couldn't change indexer(s)' mode because of an error.",エラーのためインデクサーのモードを変更できませんでした
 "A total of %1 indexer(s) have been turned Update on Save mode on.",トータル%1インデクサーはアップデートにセーブモードによってアップデートになりました
 "State for the same indexer",同じインデクサーのための状態
-"State for the same view",同じヴューのための状態
+"State for the same view",同じビューのための状態
 "Some Exception Message",Exceptionメッセージ
 "Indexer public name one","Indexer public name one"
 "Indexer public description one","Indexer public description one"
@@ -3734,7 +3734,7 @@ Administrator,管理者
 "You saved the review.",レビューは保存されました
 "An error occurred while saving review.",レビューの保存中にエラーが発生しました。
 "The review was removed by another user or does not exist.",レビューがほかのユーザーによって削除されたか、または存在していません。
-"Something went wrong while saving this review.",このレヴューを保存中に問題が発生しました
+"Something went wrong while saving this review.",このレビューを保存中に問題が発生しました
 "You deleted the rating.",レーティングが削除されました
 Ratings,レーティング
 "You saved the rating.",レーティングは保存されました
@@ -3744,7 +3744,7 @@ Ratings,レーティング
 "Storage key was not set",保管キーはセットされていません
 Approved,承認
 "Not Approved",未承認
-"The review summary field can't be empty.",レヴューまとめフィールドは空白にできません
+"The review summary field can't be empty.",レビューまとめフィールドは空白にできません
 "The nickname field can't be empty.",ニックネームフィールドは空白にできません
 "The review field can't be empty.",レビューフィールドは空白にできません
 "Rating isn't Available",評価することはできません
@@ -3756,7 +3756,7 @@ Rating,レーティング
 "My Recent Reviews",最近のレビュー
 "View All",全て表示
 "Average Customer Rating:",平均評価:
-"Your Review",あなたのレヴュー
+"Your Review",あなたのレビュー
 "Submitted on %1","投稿日 %1"
 "Back to My Reviews",レビューに戻る
 "Ratings Review Summary",レーティングレビューまとめ
@@ -3802,7 +3802,7 @@ GLOBAL,グローバル
 "Edit System Template",システムテンプレートの編集
 "New Template",新規テンプレート
 "New System Template",新規システムテンプレート
-"An error occurred. The email template can not be opened for preview.","エラーが発生しました。 メールテンプレートはプレヴューのために開くことができません"
+"An error occurred. The email template can not be opened for preview.","エラーが発生しました。 メールテンプレートはプレビューのために開くことができません"
 "This email template no longer exists.",このメールテンプレートはもはや存在しません
 "The email template has been saved.",メールテンプレートを保存しました。
 "Design config must have area and store.",デザインコンフィグはエリアとストアがなくてはなりません
@@ -3831,9 +3831,9 @@ GLOBAL,グローバル
 "Are you sure that you want to strip tags?",タグを除去しても構いませんか？
 "Are you sure that you want to delete this template?",このテンプレートを削除してもよろしいですか？
 "Failed to load template. See error log for details.",",テンプレートのロードに失敗しました。詳細はエラーログを御覧ください。"
-"Email Preview","Email プレヴュー"
+"Email Preview","Email プレビュー"
 "No Templates Found",テンプレートが見つかりませんでした
-Added,追加されました
+Added,追加日
 "Template Type",テンプレートタイプ
 Any,すべて
 " [deleted]"," [削除済]"
@@ -4969,7 +4969,7 @@ Magento,Magento
 "To use this website you must first enable JavaScript in your browser.",このウェブサイトを見るにはブラウザのJavascriptを有効にしてください。
 "This is only a demo store. You can browse and place orders, but nothing will be processed.",これはデモストアです。閲覧、注文は可能ですが、注文は処理されません。
 "Report Bugs",バグを報告してください。
-"Store View:",ストアヴュー:
+"Store View:",ストアビュー:
 "Stores Configuration",ストア設定
 "Please confirm scope switching. All data that hasn't been saved will be lost.",スコープの変更を確認してください。保存されなかったデータは全て失われます。
 "Additional Cache Management",追加キャッシュ管理
@@ -5051,7 +5051,7 @@ Locale,ロケール
 "Street Address Line 2",番地2
 "Single-Store Mode",シングルストアモード
 "Enable Single-Store Mode",シングルストアモード有効
-"This setting will not be taken into account if system has more than one store view.",この設定はシステムが1つ以上のストアヴューがある場合有効になりません
+"This setting will not be taken into account if system has more than one store view.",この設定はシステムが1つ以上のストアビューがある場合有効になりません
 "Mail Sending Settings",メール送信設定
 "Disable Email Communications",Eメール連絡を無効にする
 Host,ホスト
@@ -5088,14 +5088,14 @@ Auto-redirect to Base URL""",ベースURLに自動リダイレクトする
 "Base URL",ベースURL
 "Specify URL or {{base_url}} placeholder.","URLか {{base_url}} のプレイスホルダーを指定してください"
 "Base Link URL",リンクベースURL
-"Base URL for Static View Files",スタティックヴューファイルのためのベースURL
+"Base URL for Static View Files",スタティックビューファイルのためのベースURL
 "May be empty or start with {{unsecure_base_url}} placeholder.",空白か{{unsecure_base_url}}プレイスホルダーで始まっているか
 "Base URL for User Media Files",ユーザーメディアファイルのためのベースURL
 "Base URLs (Secure)","ベース URL (セキュア)"
 "Secure Base URL",セキュアベースURL
 "Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","URLか {{base_url}}"," {{unsecure_base_url}} のプレイスホルダーを指定してください"
 "Secure Base Link URL",セキュア・ベースURL
-"Secure Base URL for Static View Files",スタティックヴューファイルのためのセキュア・ベースURL
+"Secure Base URL for Static View Files",スタティックビューファイルのためのセキュア・ベースURL
 "May be empty or start with {{secure_base_url}}, or {{unsecure_base_url}} placeholder.",空白か{{secure_base_url}か{{unsecure_base_url}}プレイスホルダーで始まっているか
 "Secure Base URL for User Media Files",ユーザーメディアファイルのためのセキュア・ベースURL
 "Use Secure URLs in Frontend",フロントエンドでセキュアURLを使う
@@ -5330,16 +5330,16 @@ Fonts,フォント
 Duplicate,複製
 "You chose a new theme for your live store. Click ""OK"" to replace your current theme.","新しいストアにテーマが選ばれました。現在のテーマを置き換える場合は""""OK""""をクリックしてください。"
 "You chose a theme for your new store. Click ""OK"" to go live. You can always modify or switch themes in ""My Customizations"" and ""Available Themes.""","新しいストアにテーマが選ばれました。本番に反映する場合は""""OK""""をクリックしてください。テーマはいつでも編集、変更を""""My Customizations""""と""""Available Themes.""""からできます。"
-"Assign to a Store View",ストアヴューにアサインする
+"Assign to a Store View",ストアビューにアサインする
 "Assign New Theme",新しいテーマをアサイン
-"Themes Assigned to Store Views",ストアヴューにアサインされたテーマ
+"Themes Assigned to Store Views",ストアビューにアサインされたテーマ
 "Available Themes",使用可能なテーマ
-"Themes Not Assigned to Store Views",ストアヴューにアサインされてないテーマ
+"Themes Not Assigned to Store Views",ストアビューにアサインされてないテーマ
 "Delete %1 Theme"," %1 テーマ削除"
 "My Customizations",自分のカスタマイズ
 "We can't find this theme.",このテーマは見つかりません
 "We can't load the list of themes.",テーマのリストはロードできません
-"You assigned a new theme to your store view.","新しいテーマがストアヴューをアサインしました ""You assigned a theme to your live store.""","本番ストアにテーマがアサインされました ""This theme is not assigned.""","このテーマはアサインされていません ""Sorry"," but you can't edit theme """"%1"""".""","申し訳ありません。テーマ""""%1""""は編集できません ""Copy of [%1]""",[%1]のコピー
+"You assigned a new theme to your store view.","新しいテーマがストアビューをアサインしました ""You assigned a theme to your live store.""","本番ストアにテーマがアサインされました ""This theme is not assigned.""","このテーマはアサインされていません ""Sorry"," but you can't edit theme """"%1"""".""","申し訳ありません。テーマ""""%1""""は編集できません ""Copy of [%1]""",[%1]のコピー
 "You saved a duplicate copy of this theme in ""My Customizations.""","My Customizations""""にてこのテーマの複製を保存しました。"
 "You cannot duplicate this theme.",このテーマを複製できません
 "Sorry, but we can't load the theme list.",申し訳ありません。テーマリストをロードできません。
@@ -5353,7 +5353,7 @@ Duplicate,複製
 "You saved updates to this theme.",このテーマへのアップデートを保存しました
 "Something went wrong uploading the image.' ' Please check the file format and try again (JPEG, GIF, or PNG).","画像のアップロード中に問題が発生しました' 'ファイルのフォーマットを確認して再度お試しください (JPEG"," GIF"," あるいは PNG)"
 "The file can't be found or edited.",ファイルが見つからないか編集できない
-"This theme is not assigned to a store view #%1.",このテーマはストアヴュー#%1にアサインしていません
+"This theme is not assigned to a store view #%1.",このテーマはストアビュー#%1にアサインしていません
 "You updated the %1 file.",%1ファイルをアップデートしました
 "We can't save the custom css file.",カスタムしたCSSファイルを保存できません
 "We saved the image sizes.",画像サイズを保存しました
@@ -5370,7 +5370,7 @@ Duplicate,複製
 "Theme has not been set",テーマはセットされていません
 "Please wait...",しばらくお待ちください。。
 "Upload an Image",画像をアップロード
-"Please assign this theme to a store view and upload your store logo.",このテーマをストアヴューにアサインしてストアロゴをアップロードしてください
+"Please assign this theme to a store view and upload your store logo.",このテーマをストアビューにアサインしてストアロゴをアップロードしてください
 "Upload a Logo",ロゴをアップロード
 "Close Panel",画面を閉じる
 "Page Text",ページテキスト
@@ -5395,12 +5395,12 @@ Duplicate,複製
 "Edit Theme Name",テーマ名編集
 "Assigned to: ",アサイン先:
 "There are no customized themes.",カスタマイズされたテーマはありません
-"Choose the store views you want to update.",アップデートしたいストアヴューを選択してください
+"Choose the store views you want to update.",アップデートしたいストアビューを選択してください
 "Edit Theme",テーマを編集
 "When you edit a theme, we save it as a unique version in ""My Customizations.""","テーマを編集時、 """"My Customizations""""にてユニークバージョンとして保存します"
 "We can't load the theme right now.",現在テーマをロードできません
 "No stores were reassigned.",再アサインされたストアはありません
-"Assign theme to your live store-view:",本番ストアヴューにテーマをアサインして下さい:
+"Assign theme to your live store-view:",本番ストアビューにテーマをアサインして下さい:
 "Default title",ディフォルトタイトル
 "The URL to assign stores is not defined.",ストアにアサインするURLは定義されていません
 "We can't revert right now.",現在元に戻すことはできません
@@ -6325,7 +6325,7 @@ Replace,Replace
 "Use in Search Results Layered Navigation","Use in Search Results Layered Navigation"
 "Now Shopping by","Now Shopping by"
 Partners,Partners
-"Magento Marketplace","Magento Marketplace"
+"Magento Marketplace","Magentoマーケットプレイス"
 "Platinum Partners","Platinum Partners"
 "Representing Magento's highest level of partner engagement, Magento Platinum Partners have established themselves as leaders and innovators of key products and services designed to help merchants and brands grow their business. Magento reserves the Platinum level for select trusted partners that are committed to offering integrations of commerce features, functions, and tools, as well as back-end systems and operations, to extend and enhance the power of the Magento commerce platform.","Representing Magento's highest level of partner engagement, Magento Platinum Partners have established themselves as leaders and innovators of key products and services designed to help merchants and brands grow their business. Magento reserves the Platinum level for select trusted partners that are committed to offering integrations of commerce features, functions, and tools, as well as back-end systems and operations, to extend and enhance the power of the Magento commerce platform."
 "Featured Platinum Partners","Featured Platinum Partners"
@@ -6886,10 +6886,10 @@ Forced,Forced
 "Excluding FPT. Including FPT description and final price","Excluding FPT. Including FPT description and final price"
 "label_value' 'label_value' 'frontend_label","label_value' 'label_value' 'frontend_label"
 "Total Incl. Tax","Total Incl. Tax"
-"Add Widget","Add Widget"
-"Widget Title","Widget Title"
-"New Widget","New Widget"
-Widgets,Widgets
+"Add Widget","ウィジェットを追加"
+"Widget Title","ウィジェットのタイトル"
+"New Widget","新しいウィジェット"
+Widgets,ウィジェット
 "%1 has been moved to your wish list.","%1 has been moved to your wish list."
 "We can't move the item to the wish list.","We can't move the item to the wish list."
 "Product Exception.","Product Exception."
@@ -7582,3 +7582,22 @@ Failures,Failures
 Unlocked,Unlocked
 Menu,Menu
 Account,Account
+"All Customers","全ての顧客"
+"Now Online","現在オンライン中の顧客"
+Marketing,マーケティング
+Communications,コミュニケーション
+"SEO & Search","SEOと検索"
+"User Content","ユーザーコンテンツ"
+"Newsletter Template","ニュースレターテンプレート"
+"Products in Cart","カートに入っている商品"
+"By Customers","顧客毎"
+"By Products","商品毎"
+"Order Count","注文数"
+"Other Settings","その他の設定"
+"All Stores","すべての店舗"
+Taxes,税
+"Data Transfer","データ移行"
+"Import History","インポート履歴"
+Extensions,エクステンション
+"Web Setup Wizard","Webセットアップウィザード"
+Elements,構成
