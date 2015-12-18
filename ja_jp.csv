@@ -32,13 +32,13 @@ Widget,ウィジェット
 "Add New Widget Instance",新しいウィジェットインスタンスを追加する
 "Widget ""%1""","Widget ""%1"""
 "New Widget Instance",新しいウィジェットインスタンス
-"Custom Layouts","Custom Layouts"
-"Page Layouts","Page Layouts"
-"Please Select Container First","Please Select Container First"
+"Custom Layouts","カスタムレイアウト"
+"Page Layouts","ページレイアウト"
+"Please Select Container First","コンテナを最初に選択してください"
 "Design Package/Theme",デザインパッケージ/テーマ
 "Widget Instance Title",ウィジェットインスタンスタイトル
 "Assign to Store Views",ストアビューにアサインする
-"Sort Order of widget instances in the same container","Sort Order of widget instances in the same container"
+"Sort Order of widget instances in the same container","同じコンテナ内のウィジェットのインスタンスの順を並べ替える"
 "Layout Updates",レイアウト更新
 "Anchor Categories",カテゴリのアンカー
 "Non-Anchor Categories",アンカーではないカテゴリ
@@ -50,33 +50,33 @@ Widget,ウィジェット
 "Remove Layout Update",レイアウト更新削除
 "Widget Options",ウィジェットオプション
 "Widget Instance",ウィジェットインスタンス
-"Please specify a Widget Type.","Please specify a Widget Type."
-"Please specify a correct widget.","Please specify a correct widget."
+"Please specify a Widget Type.","ウィジェットタイプを指定してください"
+"Please specify a correct widget.","正しいウィジェットを指定してください"
 "The widget instance has been deleted.",ウィジェットを削除しました。
-"New Frontend App Instance","New Frontend App Instance"
-"Frontend Apps","Frontend Apps"
+"New Frontend App Instance","新しいフロントエンドアプリインスタンス"
+"Frontend Apps","フロントエンドアプリ"
 "The widget instance has been saved.",ウィジェットを保存しました。
-description,description
-"We cannot create the widget instance because it is missing required information.","We cannot create the widget instance because it is missing required information."
+description,詳細
+"We cannot create the widget instance because it is missing required information.","必須情報が不明なのでウィジェットインスタンスを作製できません。"
 Container,梱包
-"Specific %1","Specific %1"
+"Specific %1","詳細 %1"
 "Anchor Custom Title",アンカーカスタムタイトル
 "CMS Page Link Block Template",CMSページリンクブロックテンプレート
 "CMS Page Link Inline Template",CMSページインラインリンクテンプレート
 "Orders and Returns Search Form",注文と返品検索フォーム
-"Display a Link to Loading a Spreadsheet","Display a Link to Loading a Spreadsheet"
-"Defines whether a link to My Account","Defines whether a link to My Account"
-"Link Text","Link Text"
-"The text of the link to the My Account &gt; Order by SKU page","The text of the link to the My Account &gt; Order by SKU page"
-"Load a list of SKUs","Load a list of SKUs"
+"Display a Link to Loading a Spreadsheet","リンクを読込中のスプレッドシートに表示"
+"Defines whether a link to My Account","マイアカウントへのリンクを定義するかどうか"
+"Link Text","リンクテキスト"
+"The text of the link to the My Account &gt; Order by SKU page","マイアカウントへのリンクのテキスト&gt;SKUページの順"
+"Load a list of SKUs","SKUのリストを読み込む"
 "Widget ID",ウィジェットID
 Quantity,数量
 Back,戻る
 Delete,削除
 Enabled,有効
-"We can't add this item to your cart right now.","We can't add this item to your cart right now."
+"We can't add this item to your cart right now.","現在この商品をカートに追加することはできません"
 "* Required Fields","* 必須項目"
-Availability,Availability
+Availability,在庫あり
 "In stock",在庫あり
 "Out of stock",在庫切れ
 Qty,個数
@@ -91,123 +91,123 @@ Action,アクション
 "Remove This Item",この商品を削除する
 "Add to Compare",比較リストに追加
 "You added %1 to your shopping cart.","%1 をカートに追加しました"
-"Page not found.","Page not found."
+"Page not found.","ページが見つかりません。"
 "The product does not exist.",商品が見つかりません。
 "Display item quantities",商品の見積もりを表示
 Message,メッセージ
 "Remove item",商品を削除
 Configure,構成
-"Add Locale","Add Locale"
-"Add Date","Add Date"
-"Days in Wish List","Days in Wish List"
+"Add Locale","ロケール追加"
+"Add Date","日付追加"
+"Days in Wish List","ウィッシュリスト内日付"
 "Are you sure you want to remove this item?",このアイテムを削除してもよろしいですか？
-"Test Phrase","Test Phrase"
+"Test Phrase","テストフェーズ"
 "Remove Item",商品を削除
-"An item option with code %1 already exists.","An item option with code %1 already exists."
+"An item option with code %1 already exists.","商品オプションのコード %1 はすでに存在します。"
 "View Details",詳細を表示
-"Wish List","Wish List"
+"Wish List","ウィッシュリスト"
 Comment,コメント
-"Please enter an email address.","Please enter an email address."
+"Please enter an email address.","eメールアドレスを入力してください"
 "Wish List Sharing","ほしい物リストの共有"
 "My Wish List","ほしい物リスト"
-"%1's Wish List","%1's Wish List"
-"We can't specify a product.","We can't specify a product."
-"%1 has been added to your Wish List. Click <a href=""%2"">here</a> to continue shopping.","%1 has been added to your Wish List. Click <a href=""%2"">here</a> to continue shopping."
-"We can't add the item to Wish List right now: %1.","We can't add the item to Wish List right now: %1."
-"We can't add the item to Wish List right now.","We can't add the item to Wish List right now."
-"This product(s) is out of stock.","This product(s) is out of stock."
-"We can't add the item to the cart right now.","We can't add the item to the cart right now."
-"We can't load the Wish List item right now.","We can't load the Wish List item right now."
-"We can't configure the product right now.","We can't configure the product right now."
-"The requested cart item doesn't exist.","The requested cart item doesn't exist."
-"%1 has been moved to wish list %2","%1 has been moved to wish list %2"
-"We can't delete the item from Wish List right now because of an error: %1.","We can't delete the item from Wish List right now because of an error: %1."
-"We can't delete the item from the Wish List right now.","We can't delete the item from the Wish List right now."
-"Message length must not exceed %1 symbols","Message length must not exceed %1 symbols"
-"This wish list can be shared %1 more times.","This wish list can be shared %1 more times."
+"%1's Wish List","%1 のウィッシュリスト"
+"We can't specify a product.","製品を特定できません"
+"%1 has been added to your Wish List. Click <a href=""%2"">here</a> to continue shopping.","%1 はウィッシュリストに追加されました。 <a href=""%2"">ここ</a>をクリックしてショッピングを続けてください。"
+"We can't add the item to Wish List right now: %1.","このアイテムをほしい物リストに現在追加できません: %1."
+"We can't add the item to Wish List right now.","このアイテムをほしい物リストに現在追加できません。"
+"This product(s) is out of stock.","この商品は在庫切れです。"
+"We can't add the item to the cart right now.","このアイテムをカートに追加することは現在できません。"
+"We can't load the Wish List item right now.","ウィッシュリストのアイテムを現在読み込むことができません。"
+"We can't configure the product right now.","この製品の設定を現在することができません。"
+"The requested cart item doesn't exist.","要求されたカートの商品は存在しません。"
+"%1 has been moved to wish list %2","%1 はウィッシュリスト %2　に移動されました。"
+"We can't delete the item from Wish List right now because of an error: %1.","エラー: %1　のために現在ウィッシュリストからこのアイテムを削除できません。"
+"We can't delete the item from the Wish List right now.","このアイテムをウィッシュリストから現在削除できません。"
+"Message length must not exceed %1 symbols","メッセージの長さは %1 文字以上でなければなりません。"
+"This wish list can be shared %1 more times.","このウィッシュリストは %1 回以上共有できます。"
 "Please input a valid email address.",正しいメールアドレスを入力してください。
-"Your wish list has been shared.","Your wish list has been shared."
-"We can't delete item from Wish List right now.","We can't delete item from Wish List right now."
-"Can't save description %1","Can't save description %1"
-"Can't update wish list","Can't update wish list"
-"%1 has been updated in your Wish List.","%1 has been updated in your Wish List."
-"We can't update your Wish List right now.","We can't update your Wish List right now."
-"The requested Wish List doesn't exist.","The requested Wish List doesn't exist."
-"We can't create the Wish List right now.","We can't create the Wish List right now."
-"Display number of items in wish list","Display number of items in wish list"
-"We can't specify a wish list.","We can't specify a wish list."
+"Your wish list has been shared.","あなたのウィッシュリストは共有されました。"
+"We can't delete item from Wish List right now.","アイテムをウィッシュリストから現在削除できません。"
+"Can't save description %1","詳細を保存できません %1"
+"Can't update wish list","ウィッシュリストをアップデートできません"
+"%1 has been updated in your Wish List.","%1 はあなたのウィッシュリストでアップデートされました。"
+"We can't update your Wish List right now.","現在あなたのウィッシュリストはアップデートできません。"
+"The requested Wish List doesn't exist.","要求されたウィッシュリストは存在しません。"
+"We can't create the Wish List right now.","現在ウィッシュリストを作成できません。"
+"Display number of items in wish list","ウィッシュリストのアイテム数を表示"
+"We can't specify a wish list.","ウィッシュリストを指定できません。"
 "Cannot specify product.",商品を特定できません。
-"Product is not salable.","Product is not salable."
+"Product is not salable.","製品は販売されていません。"
 "Invalid item option format.",不正なオプションの形式です。
-"%1 for ""%2"".","%1 for ""%2""."
-"We couldn't add the following product(s) to the shopping cart: %1.","We couldn't add the following product(s) to the shopping cart: %1."
-"Product(s) %1 have required options. Each product can only be added individually.","Product(s) %1 have required options. Each product can only be added individually."
-"We can't update the Wish List right now.","We can't update the Wish List right now."
-"%1 product(s) have been added to shopping cart: %2.","%1 product(s) have been added to shopping cart: %2."
+"%1 for ""%2"".","""%2"" のための %1"
+"We couldn't add the following product(s) to the shopping cart: %1.","以下の商品をショッピングカートに追加できませんでした: %1."
+"Product(s) %1 have required options. Each product can only be added individually.","%1 の製品は必須のオプションがあります。 各製品は個別に追加されます。"
+"We can't update the Wish List right now.","現在ウィッシュリストを更新できません。"
+"%1 product(s) have been added to shopping cart: %2.","%1 個のアイテムがショッピングカートに追加されました: %2."
 Comment:,コメント:
-"We cannot retrieve the Wish List.","We cannot retrieve the Wish List."
-"%1's Wishlist","%1's Wishlist"
-"We can't specify a wish list item.","We can't specify a wish list item."
+"We cannot retrieve the Wish List.","ウィッシュリストは読み込みできませんでした。"
+"%1's Wishlist","%1 のウィッシュリスト"
+"We can't specify a wish list item.","ウィッシュリストのアイテムを特定できません。"
 error-message,error-message
 LocalizedException,LocalizedException
 "Share Wish List","ほしい物リストを共有"
 "Add All to Cart",全てカートに入れる
 "Update Wish List","ほしい物リストを更新"
 "View Product",商品を表示
-"This Wish List has no Items","This Wish List has no Items"
+"This Wish List has no Items","このウィッシュリストにはアイテムはありません。"
 "Options Details",オプションの概要
-"RSS link to %1's wishlist","RSS link to %1's wishlist"
+"RSS link to %1's wishlist","%1 のウィッシュリストへのRSSリンク"
 "RSS Feed","RSS フィード"
-"Wish List is empty now.","Wish List is empty now."
+"Wish List is empty now.","ウィッシュリストは現在空です。"
 "Sharing Information",共有先の情報
 "Email addresses, separated by commas","メールアドレスは「,」で区切る必要があります"
-"Check here to link an RSS feed to your Wish List.","Check here to link an RSS feed to your Wish List."
+"Check here to link an RSS feed to your Wish List.","RSSフィードとあなたのウィッシュリストをリンクするにはここをチェックしてください。"
 "Last Added Items",最後に追加した商品
-"Go to Wish List","Go to Wish List"
+"Go to Wish List","ウィッシュリストに行く"
 "You have no items in your wish list.","ほしい物リストは空です。"
-"Are you sure you want to remove this product from your Wish List?","Are you sure you want to remove this product from your Wish List?"
+"Are you sure you want to remove this product from your Wish List?","この商品をあなたのウィッシュリストから削除しますか？"
 "Email Sender",メール送信者
 "Email Template",メールテンプレート
 "General Options",全体のオプション
 "Enable RSS",RSSを有効にする
 "Share Options",共有オプション
-"Max Emails Allowed to be Sent","Max Emails Allowed to be Sent"
-"Email Text Length Limit","Email Text Length Limit"
-"My Wish List Link","My Wish List Link"
-"Display Wish List Summary","Display Wish List Summary"
+"Max Emails Allowed to be Sent","許可された送信された最大のメール数"
+"Email Text Length Limit","Wメールのテキストの長さの最大数"
+"My Wish List Link","自分のウィッシュリストのリンク"
+"Display Wish List Summary","ウィッシュリストのサマリーの表示"
 "No Items Found",商品が見つかりませんでした
 "User Description",ユーザー概要
 "Product Details and Comment",商品の詳細とコメント
-"Entity type model '%1' is not found","Entity type model '%1' is not found"
-"Entity type model must be an instance of' ' \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Entity type model must be an instance of' ' \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType"
+"Entity type model '%1' is not found","エンティティタイプモデル '%1' は見つかりません。"
+"Entity type model must be an instance of' ' \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","エンティティタイプモデルは' ' \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType　のインスタンスでなければなりません"
 "There are no product types available for export",エクスポートできる商品種別がありません
-"Please correct the value for '%s'.","Please correct the value for '%s'."
+"Please correct the value for '%s'.","'%s' の値を修正してください。"
 "Duplicate Unique Attribute for '%s'","ユニーク属性 '%s' の重複"
-"Entity type model must be an instance of ' 'Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType","Entity type model must be an instance of ' 'Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType"
-"File directory '%1' is not readable.","File directory '%1' is not readable."
-"File directory '%1' is not writable.","File directory '%1' is not writable."
-"Invalid custom option store.","Invalid custom option store."
-"Invalid custom option type.","Invalid custom option type."
-"Empty custom option title.","Empty custom option title."
-"Invalid custom option price.","Invalid custom option price."
-"Invalid custom option maximum characters value.","Invalid custom option maximum characters value."
-"Invalid custom option sort order.","Invalid custom option sort order."
-"Invalid custom option value price.","Invalid custom option value price."
-"Invalid custom option value sort order.","Invalid custom option value sort order."
-"Custom option with such title already declared in source file.","Custom option with such title already declared in source file."
-"There are several existing custom options with such name.","There are several existing custom options with such name."
-"Custom options have different types.","Custom options have different types."
-"Option entity must have a parent product entity.","Option entity must have a parent product entity."
-"Please correct the parameters.","Please correct the parameters."
-"File '%1' was not found or has read restriction.","File '%1' was not found or has read restriction."
-"Invalid domain name: ","Invalid domain name: "
-"Invalid cookie lifetime: ","Invalid cookie lifetime: "
-"Invalid cookie path","Invalid cookie path"
-"We use cookies to make your experience better.","We use cookies to make your experience better."
-"To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies."
-"<a href=""%1"">Learn more</a>.","<a href=""%1"">Learn more</a>."
-"Allow Cookies","Allow Cookies"
-"Default Cookie Settings","Default Cookie Settings"
+"Entity type model must be an instance of ' 'Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType","エンティティタイプモデルは ' 'Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType　のインスタンスでなければなりません"
+"File directory '%1' is not readable.","ファイルディレクトリー '%1' 読み込み可能ではありません。"
+"File directory '%1' is not writable.","ファイルディレクトリー '%1' 書き込み可能ではありません。"
+"Invalid custom option store.","不正なカスタムオプションストア"
+"Invalid custom option type.","不正なカスタムオプションタイプ"
+"Empty custom option title.","空のカスタムオプションタイトル"
+"Invalid custom option price.","不正なカスタムオプション価格"
+"Invalid custom option maximum characters value.","不正なカスタムオプション最大文字数値"
+"Invalid custom option sort order.","不正なカスタムオプション並べ替え順"
+"Invalid custom option value price.","不正なカスタムオプション価格値"
+"Invalid custom option value sort order.","不正なカスタムオプションの値並べかえ順"
+"Custom option with such title already declared in source file.","ソースファイルにてそのタイトルのカスタムオプションは宣言されています。"
+"There are several existing custom options with such name.","同じ名前のカスタムオプションが既にいくつか存在します。"
+"Custom options have different types.","カスタムオプションには異なるタイプがあります。"
+"Option entity must have a parent product entity.","オプションエンティティには親プロダクトエンティティがなければなりません。"
+"Please correct the parameters.","パラメーターを修正してください。"
+"File '%1' was not found or has read restriction.","ファイル '%1' は見つからないか、読み込み制限されています。"
+"Invalid domain name: ","不正なドメイン名: "
+"Invalid cookie lifetime: ","不正なcookie保存時間: "
+"Invalid cookie path","不正なcookieパス"
+"We use cookies to make your experience better.","cookieを使うことによって使い勝手がよくなります。"
+"To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","新しいeプライバシーの規定を順守するために、cookieを設定する承諾を求めています。"
+"<a href=""%1"">Learn more</a>.","<a href=""%1"">更に詳細</a>."
+"Allow Cookies","Cookieを許可"
+"Default Cookie Settings","ディフォルトのCookie設定"
 "Cookie Lifetime",Cookieの有効期限
 "Cookie Path",Cookieパス
 "Cookie Domain",Cookieドメイン
@@ -220,15 +220,15 @@ Name,名前
 Variable,変数
 "Custom Variables",カスタム変数
 "Add New Variable",新しい変数を追加
-"Custom Variable ""%1""","Custom Variable ""%1"""
+"Custom Variable ""%1""","カスタム変数 ""%1"""
 "New Custom Variable",新しいカスタム変数
 "Variable Code",変数コード
 "Variable Name",変数名
 "Use Default Variable Values",標準の値を使用
 "Variable HTML Value",任意HTMLの値
 "Variable Plain Value",変数のもとの値
-"You deleted the custom variable.","You deleted the custom variable."
-"You saved the custom variable.","You saved the custom variable."
+"You deleted the custom variable.","カスタム変数を削除しました。"
+"You saved the custom variable.","カスタム変数を保存しました。"
 "Variable Code must be unique.",変数のコードはユニークである必要があります。
 "Validation has failed.",認証失敗
 "Variable ID",変数ID
@@ -238,26 +238,26 @@ Title,タイトル
 Height,高さ
 Width,幅
 Regular,普通配達
-Documents,Documents
+Documents,ドキュメント
 "Unable to retrieve tracking",トラッキングを読み込みできません
 Sample,サンプル
-"Not Required","Not Required"
+"Not Required","必須ではない"
 "Empty response",空の返信
 Length,長さ
 Size,サイズ
 Girth,寸法
-"Sorry, something went wrong. Please try again or contact us and we'll try to help.","Sorry, something went wrong. Please try again or contact us and we'll try to help."
+"Sorry, something went wrong. Please try again or contact us and we'll try to help.","問題が発生しました。 再度お試しになるか我々に連絡をいただければ解決のお手伝いをします。"
 "User ID",ユーザーID
-"First-Class Mail Large Envelope","First-Class Mail Large Envelope"
-"First-Class Mail Letter","First-Class Mail Letter"
-"First-Class Mail Parcel","First-Class Mail Parcel"
-"First-Class Mail Postcards","First-Class Mail Postcards"
+"First-Class Mail Large Envelope","ファーストクラス郵便　封筒大"
+"First-Class Mail Letter","ファーストクラス郵便　はがき"
+"First-Class Mail Parcel","ファーストクラス郵便　小包"
+"First-Class Mail Postcards","ファーストクラス郵便　ポストカード"
 "Priority Mail",優先メール
 "Priority Mail Express Hold For Pickup","Priority Mail Express Hold For Pickup"
-"Priority Mail Express","Priority Mail Express"
-"Standard Post","Standard Post"
+"Priority Mail Express","優先メールエクスプレス"
+"Standard Post","通常配達"
 "Media Mail",メディアメール
-"Library Mail","Library Mail"
+"Library Mail","図書メール"
 "Priority Mail Express Flat Rate Envelope","Priority Mail Express Flat Rate Envelope"
 "First-Class Mail Large Postcards","First-Class Mail Large Postcards"
 "Priority Mail Flat Rate Envelope","Priority Mail Flat Rate Envelope"
@@ -333,9 +333,9 @@ Parcel,小包
 Rectangular,長方形
 Non-rectangular,非長方形の
 Large,ラージ
-track_summary,track_summary
-"Service type does not match","Service type does not match"
-Merchandise,Merchandise
+track_summary,追跡のサマリ
+"Service type does not match","サービスタイプが一致しません"
+Merchandise,物品
 Gift,ギフト
 Return,Return
 Other,その他
@@ -348,22 +348,22 @@ Debug,デバッグ
 "Allowed Methods",許可する配送方法
 "Displayed Error Message",エラーメッセージ表示
 "Free Method",フリーメソッド
-"Free Shipping Amount Threshold","Free Shipping Amount Threshold"
+"Free Shipping Amount Threshold","送料無料額限界値"
 "Ship to Applicable Countries",利用可能な国にのみ配送する
 "Ship to Specific Countries",特定の国にのみ配送する
 "Show Method if Not Applicable",配送方法が利用できない場合でも表示する
-"Packages Request Type","Packages Request Type"
+"Packages Request Type","パッケージリクエストタイプ"
 "Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)",最大積載重量(配送業者にお問い合わせください)
 Mode,モード
 USPS,USPS
-"Secure Gateway URL","Secure Gateway URL"
-Machinable,Machinable
-"Provided form does not exist","Provided form does not exist"
-"Incorrect CAPTCHA","Incorrect CAPTCHA"
+"Secure Gateway URL","安全なGateway URL"
+Machinable,マシンナブル
+"Provided form does not exist","提供されたフォームは存在しません"
+"Incorrect CAPTCHA","不正なCAPTCHAです"
 Always,常に
 "After number of attempts to login",CAPTCHAを表示するログイン失敗回数
 "Incorrect CAPTCHA.",不正なCAPTCHA.
-"Please enter the letters from the image","Please enter the letters from the image"
+"Please enter the letters from the image","画像にある文字を入力して下さい"
 "<strong>Attention</strong>: Captcha is case sensitive.","<strong>注意</strong>: CAPTCHAは大文字小文字を区別します。"
 "Reload captcha",CAPTCHAの再読込
 "Please type the letters below",以下に文字を入力してください
@@ -381,11 +381,11 @@ Forms,対象フォーム
 "
                         Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. ""i"", ""l"", ""1"") decrease chance of correct recognition by customer.
                     ","
-                        Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. ""i"", ""l"", ""1"") decrease chance of correct recognition by customer.
+                        　文字(a-z あるいは A-Z) あるいは数字 (0-9) のみこのフィールドでは使用してください。 スペースや他の文字種は使用できません。<br />同じような見た目の文字 (例. ""i"", ""l"", ""1"")の使用は顧客に正しく認識してもらえない可能性があります 
                     "
 "Case Sensitive",大文字小文字を区別する
 "Enable CAPTCHA on Frontend",フロントエンドでCAPTCHAを有効にする
-"CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen."
+"CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","""ユーザー作成"" と ""パスワードを忘れた"" のCAPCHAのフォームは選ばれれば常に有効にできます。"
 Price,価格
 Cancel,キャンセル
 From,開始
@@ -394,16 +394,16 @@ To,終了
 "-- Select --",--選択してください--
 Dynamic,可変
 Fixed,固定
-"Create New Option","Create New Option"
+"Create New Option","新しいオプション作成"
 "Bundle Items",セット商品
-"Add Products to Option","Add Products to Option"
+"Add Products to Option","オプションに商品を追加"
 "Delete Option",オプションの削除
 "Please enter search conditions to view products.",商品を表示させるための検索条件を指定してください。
 ID,ID
 SKU,商品番号
 "Use Default Value",標準の値を使用
-"There is no defined renderer for ""%1"" option type.","There is no defined renderer for ""%1"" option type."
-"Only implemented for bundle product","Only implemented for bundle product"
+"There is no defined renderer for ""%1"" option type.","""%1"" オプションタイプに定義されたレンダラーはありません。"
+"Only implemented for bundle product","バンドル商品にのみ設定可能です"
 "Product with specified sku: ""%1"" is not a bundle product","Product with specified sku: ""%1"" is not a bundle product"
 "Bundle product could not contain another composite product","Bundle product could not contain another composite product"
 "Id field of product link is required","Id field of product link is required"
