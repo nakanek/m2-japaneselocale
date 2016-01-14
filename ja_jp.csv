@@ -1,4 +1,5 @@
-Close,閉じる
+et nu
+:lose,閉じる
 Product,商品
 "-- Please Select --","-- 選択してください --"
 "Sort Order",並び順
@@ -1357,35 +1358,35 @@ State/Province,都道府県
 "The onepage checkout is disabled.",ワンページチェックアウトは無効です。
 Checkout,レジに進む
 "Please agree to all the terms and conditions before placing the order.",ご注文前にすべての契約条件にご同意ください。
-"Something went wrong processing your order. Please try again later.","Something went wrong processing your order. Please try again later."
-"%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface","%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface"
-"We can't find the product.","We can't find the product."
-"We don't have some of the products you want.","We don't have some of the products you want."
-"We don't have as many of some products as you want.","We don't have as many of some products as you want."
-"Quantity was recalculated from %1 to %2","Quantity was recalculated from %1 to %2"
-"Some products quantities were recalculated because of quantity increment mismatch.","Some products quantities were recalculated because of quantity increment mismatch."
-"This quote item does not exist.","This quote item does not exist."
+"Something went wrong processing your order. Please try again later.","ご注文を処理中に問題が発生しました。再度お試しください。"
+"%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface","%1 は \Magento\Checkout\CustomerData\ItemInterface を拡張しません。"
+"We can't find the product.","商品が見つかりません。"
+"We don't have some of the products you want.","注文された幾つかの商品は見つかりません。"
+"We don't have as many of some products as you want.","注文された量の商品がありません。"
+"Quantity was recalculated from %1 to %2",",数量は%1から%2に再計算されました"
+"Some products quantities were recalculated because of quantity increment mismatch.","数量増加ミスマッチのため幾つかの商品の数量は再計算されました。"
+"This quote item does not exist.","この見積もり商品は存在しません。"
 "Display number of items in cart",カート内の商品数を表示
 "Load customer quote error",顧客の見積もり読み込みエラー
-" item"," item"
-" items"," items"
-"Invalid data","Invalid data"
-"The customer address is not valid.","The customer address is not valid."
-"Address does not exist.","Address does not exist."
-"There is already a registered customer using this email address. Please log in using this email address or enter a different email address to register your account.","There is already a registered customer using this email address. Please log in using this email address or enter a different email address to register your account."
-"Password and password confirmation are not equal.","Password and password confirmation are not equal."
-"Invalid shipping method","Invalid shipping method"
-"There are more than one shipping address.","There are more than one shipping address."
-"Sorry, guest checkout is not enabled.","Sorry, guest checkout is not enabled."
-"Account confirmation is required. Please, check your e-mail for confirmation link. To resend confirmation email please <a href=""%1"">click here</a>.","Account confirmation is required. Please, check your e-mail for confirmation link. To resend confirmation email please <a href=""%1"">click here</a>."
-"Error message!","Error message!"
-Error!,Error!
-"<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Print receipt</a>","<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Print receipt</a>"
+" item"," 商品"
+" items"," 商品"
+"Invalid data","不正なデータ"
+"The customer address is not valid.","顧客の住所は無効です。"
+"Address does not exist.","住所が存在しません。"
+"There is already a registered customer using this email address. Please log in using this email address or enter a different email address to register your account.","このメールアドレスを使っている登録済み顧客がおります。このメールアドレスでログインするか別のメールアドレスを入力してアカウント登録してください。"
+"Password and password confirmation are not equal.","パスワードとパスワード確認は同じではありません。"
+"Invalid shipping method","不正な送付方法です"
+"There are more than one shipping address.","1つ以上の送り先住所があります。"
+"Sorry, guest checkout is not enabled.","申し訳ありません、ゲスト購入はできません。"
+"Account confirmation is required. Please, check your e-mail for confirmation link. To resend confirmation email please <a href=""%1"">click here</a>.","アカウント確認が必須です。Eメールで確認リンクをチェックしてください。 確認メールを再送するには<a href=""%1"">ここ</a>を押して下さい。"
+"Error message!","エラーメッセージ!"
+Error!,エラー!
+"<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Print receipt</a>","<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">領収書を印刷</a>"
 "Discount Codes",クーポンコード
-"Enter your code","Enter your code"
+"Enter your code","コードを入力してください"
 "Apply Coupon",クーポンを適用
 "Cancel Coupon",クーポンをキャンセルする
-"Shopping Cart Items","Shopping Cart Items"
+"Shopping Cart Items","ショッピングカートの商品"
 Item,商品
 "Continue Shopping",お買い物を続ける
 "Clear Shopping Cart",ショッピングカートをクリア
@@ -1393,10 +1394,10 @@ Item,商品
 "Update Cart",カートを更新
 "See price before order confirmation.",注文確定前に価格を表示する。
 "What's this?",これは何ですか？
-"Move to Wish List","Move to Wish List"
+"Move to Wish List","お気に入りに移動"
 "Edit item parameters",商品パラメータを編集
 "You have no items in your shopping cart.",カートの中には何もありません。
-"Click <a href=""%1"">here</a> to continue shopping.","Click <a href=""%1"">here</a> to continue shopping."
+"Click <a href=""%1"">here</a> to continue shopping."," <a href=""%1"">ここ</a>をクリックしてお買い物を続けて下さい"
 "Estimate Shipping and Tax",送料と税金の計算
 "Enter your destination to get a shipping estimate.",配送料の見積もりを表示するには配送先を入力してください。
 "Please select region, state or province",都道府県を選択してください
@@ -1408,7 +1409,7 @@ City,市区町村
 Company,会社名
 "VAT Number",VAT番号
 "Street Address",番地
-"Street Address %1","Street Address %1"
+"Street Address %1","番地 %1"
 Telephone,電話番号
 Fax,FAX番号
 "Confirm Password",パスワード再確認
@@ -1426,16 +1427,16 @@ Fax,FAX番号
 "Select a shipping address from your address book or enter a new address.",配送先をアドレスブックから選択するか、新しい住所を入力してください。
 "Use Billing Address",請求先の住所を使う
 "Sorry, no quotes are available for this order at this time.",申し訳ありません、現在この注文でお見積もりはご利用できません。
-"Your order number is: %1.","Your order number is: %1."
-"Your order # is: <span>%1</span>.","Your order # is: <span>%1</span>."
+"Your order number is: %1.","あなたの注文番号は: %1."
+"Your order # is: <span>%1</span>.","あなたの注文 # は: <span>%1</span>."
 "You will receive an order confirmation email with details of your order and a link to track its progress.",注文の確認メールをお送りしました。メールには注文状況を確認するURLがあります。
 "Thank you for your purchase!",ご購入ありがとうございました！
 "Please specify a shipping method.",配送方法を指定してください。
-"You can create an account or check out as a guest.","You can create an account or check out as a guest."
-"We can't complete your order because you don't have a payment method available.","We can't complete your order because you don't have a payment method available."
-"Please choose a payment method.","Please choose a payment method."
-"We can't ship to this address. Please enter another address or edit this one.","We can't ship to this address. Please enter another address or edit this one."
-"New address","New address"
+"You can create an account or check out as a guest.","アカウントを作成するかゲスト購入が可能です。"
+"We can't complete your order because you don't have a payment method available.","支払い方法が有効でないので注文を完了できません。"
+"Please choose a payment method.","支払い方法を選択してください。"
+"We can't ship to this address. Please enter another address or edit this one.","この住所に送付できません。別の住所を入力するか編集してください。"
+"New address","新規住所"
 "Checkout Options",購入オプション
 "Enable Onepage Checkout",ワンページチェックアウトを有効にする
 "Allow Guest Checkout",ゲストチェックアウトを有効
@@ -1449,7 +1450,7 @@ Fax,FAX番号
 "Maximum Display Recently Added Item(s)",最近カートに入れた商品の表示件数
 "Payment Failed Emails",支払失敗時のメール
 "Payment Failed Email Sender",支払失敗時のメール送信元
-"Payment Failed Email Receiver","Payment Failed Email Receiver"
+"Payment Failed Email Receiver","支払失敗時のメール受信先"
 "Payment Failed Template",支払失敗時のテンプレート
 "Send Payment Failed Email Copy To",支払失敗コピーメール送信先
 "Separate by "","".",""",""で区切られた"
@@ -1458,49 +1459,49 @@ Fax,FAX番号
 Store,店舗
 Stores,店舗
 System,システム
-"We can't save the Cron expression.","We can't save the Cron expression."
+"We can't save the Cron expression.","Cron設定を保存できません。"
 "Default Config",標準の設定
 "Save Config",設定を保存
 "Use Website",ウェブサイトの設定を使用する
 Add,追加
-"Search String","Search String"
-"Add \Exception","Add \Exception"
-"-- No Theme --","-- No Theme --"
+"Search String","検索文字列"
+"Add \Exception","\Exception 追加"
+"-- No Theme --","-- テーマなし --"
 Configuration,設定
-"You saved the configuration.","You saved the configuration."
+"You saved the configuration.","設定を保存しました。"
 "An error occurred while saving this configuration:",設定を保存中にエラーが発生しました。
 "Please specify the admin custom URL.",管理画面のURLを指定してください。
-"Invalid %1. %2","Invalid %1. %2"
-"Value must be a URL or one of placeholders: %1","Value must be a URL or one of placeholders: %1"
-"Specify a URL or path that starts with placeholder(s): %1, and ends with ""/"".","Specify a URL or path that starts with placeholder(s): %1, and ends with ""/""."
-"%1 An empty value is allowed as well.","%1 An empty value is allowed as well."
-"Specify a fully qualified URL.","Specify a fully qualified URL."
-"Selected allowed currency ""%1"" is not available in installed currencies.","Selected allowed currency ""%1"" is not available in installed currencies."
-"Default display currency ""%1"" is not available in allowed currencies.","Default display currency ""%1"" is not available in allowed currencies."
-"Sorry, we haven't installed the base currency you selected.","Sorry, we haven't installed the base currency you selected."
-"Sorry, we haven't installed the default display currency you selected.","Sorry, we haven't installed the default display currency you selected."
-"Sorry, the default display currency you selected in not available in allowed currencies.","Sorry, the default display currency you selected in not available in allowed currencies."
-"Please correct the email address: ""%1"".","Please correct the email address: ""%1""."
-"The sender name ""%1"" is not valid. Please use only visible characters and spaces.","The sender name ""%1"" is not valid. Please use only visible characters and spaces."
+"Invalid %1. %2","無効 %1. %2"
+"Value must be a URL or one of placeholders: %1","値はURLかプレースホルダーの1つでなければなりません: %1"
+"Specify a URL or path that starts with placeholder(s): %1, and ends with ""/"".","URLかプレースホルダーで始まるパスを指定して下さい: %1, そして""/""で終了してください。"
+"%1 An empty value is allowed as well.","%1 空の値も使うことが出来ます。"
+"Specify a fully qualified URL.","完全に用件を満たしたURLを指定してください"
+"Selected allowed currency ""%1"" is not available in installed currencies."," 選択された通貨""%1""はインストールされた通貨内で有効ではありません。"
+"Default display currency ""%1"" is not available in allowed currencies.","ディフォルト表示通貨 ""%1"" 許可された通貨内で有効ではありません。"
+"Sorry, we haven't installed the base currency you selected.","申し訳ありません、あなたが選択したベース通貨はインストールされておりません。"
+"Sorry, we haven't installed the default display currency you selected.","申し訳ありません、あなたが選択したディフォルト表示通貨はインストールされておりません。"
+"Sorry, the default display currency you selected in not available in allowed currencies.","申し訳ありません、あなたが選択したディフォルト表示通貨は許可された通貨内で有効でありません。"
+"Please correct the email address: ""%1"".","Eメールアドレスを修正してください: ""%1""."
+"The sender name ""%1"" is not valid. Please use only visible characters and spaces.","送信者名 ""%1"" は無効です。キャラクターとスペースのみ使用してください。"
 "Maximum sender name length is 255. Please correct your settings.",送信者名の長さは最大255文字です。設定を見なおしてください。
-"The file you're uploading exceeds the server size limit of %1 kilobytes.","The file you're uploading exceeds the server size limit of %1 kilobytes."
+"The file you're uploading exceeds the server size limit of %1 kilobytes.","アップロードしているファイルはサーバーのサイズ制限 %1 キロバイトを超えています。"
 "The base directory to upload file is not specified.",ファイルをアップロードするディレクトリが未指定です。
-"The specified image adapter cannot be used because of: ","The specified image adapter cannot be used because of: "
+"The specified image adapter cannot be used because of: ","以下の理由のため指定された画像アダプターは使用できません: "
 "Default scope",標準のスコープ
 "Base currency",基本通貨
 "Display default currency",標準通貨の表示
-"website(%1) scope","website(%1) scope"
-"store(%1) scope","store(%1) scope"
-"Currency ""%1"" is used as %2 in %3.","Currency ""%1"" is used as %2 in %3."
-"Please correct the timezone.","Please correct the timezone."
-"The file ""' '"" does not exist","The file ""' '"" does not exist"
+"website(%1) scope","ウェブサイト(%1) スコープ"
+"store(%1) scope","ストア(%1) スコープ"
+"Currency ""%1"" is used as %2 in %3.","通貨 ""%1"" %2として%3で使われています。"
+"Please correct the timezone.","タイムゾーンを修正してください。"
+"The file ""' '"" does not exist","ファイル ""' '"" は存在しません"
 "Always (during development)","常時 (開発中)"
 "Only Once (version upgrade)","一度だけ (バージョンアップ)"
 "Never (production)","停止 (稼働中)"
 Bcc,BCC
 "Separate Email",分割メール
-"%1 (Default)","%1 (Default)"
-title,title
+"%1 (Default)","%1 (ディフォルト)"
+title,タイトル
 Optional,オプション
 "HTTP (unsecure)","HTTP (非セキュア)"
 "HTTPS (SSL)","HTTPS (SSL)"
@@ -1508,9 +1509,7 @@ Optional,オプション
 "Yes (301 Moved Permanently)","Yes (301 Moved Permanently)"
 Specified,指定の
 "Config form fieldset clone model required to be able to clone fields",フィールドセットからの複製モデルはフィールドの複製ができることが必要です。
-"Invalid XML in file %1:
-%2","Invalid XML in file %1:
-%2"
+"Invalid XML in file %1:%2","ファイル内の無効 XML %1:%2"
 some_label,some_label
 some_comment,some_comment
 "some prefix","some prefix"
@@ -1518,30 +1517,30 @@ some_comment,some_comment
 "element hint","element hint"
 "element comment","element comment"
 "element tooltip","element tooltip"
-test,test
-test2,test2
+test,テスト
+test2,テスト2
 "Add after",追加後
 "Current Configuration Scope:",現在の設定スコープ:
-"Group Label","Group Label"
-"Some Label","Some Label"
-"Tab Label","Tab Label"
-"Field 2","Field 2"
-"Field 3","Field 3"
-"Field 3.1","Field 3.1"
-"Field 3.1.1","Field 3.1.1"
-"Field 4","Field 4"
+"Group Label","グループレーベル"
+"Some Label","あるレーベル"
+"Tab Label","タブレーベル"
+"Field 2","フィールド 2"
+"Field 3","フィールド 3"
+"Field 3.1","フィールド 3.1"
+"Field 3.1.1","フィールド 3.1.1"
+"Field 4","フィールド 4"
 "Catalog Advanced Search",詳細な検索
 Results,結果
 "Search Weight",検索ウエイト
 "Search results for: '%1'","'%1' の検索結果"
-"Minimum Search query length is %1","Minimum Search query length is %1"
+"Minimum Search query length is %1","最低限の検索クエリの長さは %1"
 "Please specify at least one search term.",1つ以上のキーワードを指定してください。
-"%1 and greater","%1 and greater"
+"%1 and greater","%1 とそれ以上"
 "up to %1","up to %1"
 "Search Settings",検索条件
 "Advanced Search",詳細検索
-"<strong>%1 item</strong> were found using the following search criteria","<strong>%1 item</strong> were found using the following search criteria"
-"<strong>%1 items</strong> were found using the following search criteria","<strong>%1 items</strong> were found using the following search criteria"
+"<strong>%1 item</strong> were found using the following search criteria","<strong>%1 アイテム</strong>が以下の検索条件にて見つかりました"
+"<strong>%1 items</strong> were found using the following search criteria","<strong>%1 アイテム</strong>が以下の検索条件にて見つかりました"
 "No items were found using the following search criteria.",次の検索基準を満たしているアイテムは見つかりませんでした。
 "Modify your search",検索を修正
 "Don't see what you're looking for?",お探しの商品が見つかりませんか？
@@ -1556,25 +1555,25 @@ Results,結果
 "Account Number",アカウント番号
 "Google API","Google API"
 "Google Analytics",Googleアナリティクス
-"Please choose a condition to add.","Please choose a condition to add."
-"Catalog Products List","Catalog Products List"
-"List of Products","List of Products"
-"Products Grid Template","Products Grid Template"
+"Please choose a condition to add.","追加する条件を選択してください。"
+"Catalog Products List","カタログ商品リスト"
+"List of Products","商品のリスト"
+"Products Grid Template","商品グリッドテンプレート"
 "Account Information",アカウント情報
 "User Name",ユーザー名
 "User Email",ユーザーメールアドレス
 "New Password",新規パスワード
 "Password Confirmation",確認用パスワード
-"Interface Locale","Interface Locale"
-"Current User Identity Verification","Current User Identity Verification"
-"Your Password","Your Password"
+"Interface Locale","インターフェイスロケール"
+"Current User Identity Verification","現在のユーザー証明認証"
+"Your Password","あなたのパスワード"
 "Are you sure you want to do this?",実行してもよろしいですか？
-"You have entered an invalid password for current user.","You have entered an invalid password for current user."
-"You need more permissions to access this.","You need more permissions to access this."
+"You have entered an invalid password for current user.","現在のユーザーに無効なパスワードが入力されました。"
+"You need more permissions to access this.","これにアクセスするには更に権限が必要です。"
 "Reset Password",パスワード再発行
-"Force Sign-In","Force Sign-In"
+"Force Sign-In","強制サインイン"
 "Your password reset link has expired.",パスワード再発行リンクが有効期限切れです。
-"If there is an account associated with %1 you will receive an email with a link to reset your password.","If there is an account associated with %1 you will receive an email with a link to reset your password."
+"If there is an account associated with %1 you will receive an email with a link to reset your password.","%1と関連するアカウントがあれば、あなたのパスワードをリセットするためのリンクが添付されたEメールが届きます。"
 "Your password has been updated.",パスワードを更新しました。
 "Confirm New Password",新しいパスワードの確認
 "Reset a Password",パスワードリセット
@@ -1594,8 +1593,8 @@ Roles,権限
 Users,ユーザー
 "Save User",ユーザーの保存
 "Delete User",ユーザーの削除
-"Are you sure you want to revoke the user's tokens?","Are you sure you want to revoke the user's tokens?"
-"Edit User '%1'","Edit User '%1'"
+"Are you sure you want to revoke the user's tokens?","ユーザーのトークンを本当に破棄しますか？"
+"Edit User '%1'","ユーザー '%1'　編集"
 "New User",新規ユーザー
 "This account is",このアカウントは
 "Account Status",アカウントステータス
@@ -1604,70 +1603,71 @@ Assigned,アサイン済
 "User Information",ユーザー情報
 "User Info",ユーザー情報
 "User Role",ユーザー権限
-"Please correct the password reset token.","Please correct the password reset token."
-"Please specify the correct account and try again.","Please specify the correct account and try again."
-"Please correct this email address:","Please correct this email address:"
+"Please correct the password reset token.","パスワードリセットトークンを修正してください。"
+"Please specify the correct account and try again.","正しいアカウントを指定して再度お試し下さい。"
+"Please correct this email address:","このEメールアドレスを修正してください:"
 Permissions,権限
 "You cannot delete your own account.",自分のアカウントを削除することはできません。
-"You deleted the user.","You deleted the user."
-"We can't find a user to delete.","We can't find a user to delete."
+"You deleted the user.","ユーザーを削除しました。"
+"We can't find a user to delete.","削除するユーザーが見つかりません"
 "This user no longer exists.",このユーザーは存在していません。
 "Edit User",ユーザーの編集
-"You have revoked the user's tokens.","You have revoked the user's tokens."
-"We can't find a user to revoke.","We can't find a user to revoke."
-"You cannot delete self-assigned roles.","You cannot delete self-assigned roles."
-"You deleted the role.","You deleted the role."
+"You have revoked the user's tokens.","ユーザーのトークンを破棄しました。"
+"We can't find a user to revoke.","破棄するユーザーが見つかりません。"
+"You cannot delete self-assigned roles.","自身でアサインした権限は削除できません。"
+"You deleted the role.","権限を削除しました。"
 "Edit Role",権限の編集
 "New Role",新しい権限
-"This role no longer exists.","This role no longer exists."
-"You saved the role.","You saved the role."
-"You saved the user.","You saved the user."
-"A user with the same user name or email already exists.","A user with the same user name or email already exists."
+"This role no longer exists.","この権現は既に存在しません。"
+"You saved the role.","権限が保存されました。"
+"You saved the user.","ユーザーを保存しました。"
+"A user with the same user name or email already exists.","同じユーザーネームかEメールアドレスをお持ちのユーザーが既に存在します。"
 "This account is inactive.",このアカウントは無効です。
-"User Name is a required field.","User Name is a required field."
-"First Name is a required field.","First Name is a required field."
-"Last Name is a required field.","Last Name is a required field."
+"User Name is a required field.","ユーザーネームは必須項目です。"
+"First Name is a required field.","名前は必須項目です。"
+"Last Name is a required field.","姓は必須項目です。"
 "Please enter a valid email.",正しいメールアドレスを入力してください。
-"Password is required field.","Password is required field."
-"Your password must be at least %1 characters.","Your password must be at least %1 characters."
-"Your password must include both numeric and alphabetic characters.","Your password must include both numeric and alphabetic characters."
-"Your password confirmation must match your password.","Your password confirmation must match your password."
-"Password Help","Password Help"
-"Enter your email address.  You will receive an email with a link to reset your password.","Enter your email address.  You will receive an email with a link to reset your password."
-"Email address","Email address"
+"Password is required field.","パスワードは必須項目です。"
+"Your password must be at least %1 characters.","パスワードは少なくとも%1キャラクターでなくてはなりません。"
+"Your password must include both numeric and alphabetic characters.","パスワードは数字とアルファベットのキャラクターを含んでなければなりません。"
+"Your password confirmation must match your password.","パスワード確認は合致しなければなりません。"
+"Password Help","パスワードヘルプ"
+"Enter your email address.  You will receive an email with a link to reset your password.","Eメールアドレスを入力してください。パスワードをリセットするリンクを添付したEメールが届きます。"
+"Email address","Eメールアドレス"
 "Retrieve Password",パスワード再発行
-"Back to Sign in","Back to Sign in"
+"Back to Sign in","サインインに戻る"
 "Forgot your password?",パスワードをお忘れですか？
 "Roles Resources",権限リソース
 "Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","警告!\r\nユーザーが割り当てられているアクションを削除しようとしています。\r\nよろしいですか？"
 "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","警告!\r\n以下のユーザーが割り当てられているアクションを削除しようとしています。\r\nよろしいですか？"
-"Reset Password Template","Reset Password Template"
+"Reset Password Template","リセットパスワードテンプレート"
 "Minimum Qty",最小個数
 "Add Minimum Qty",最小個数を追加
 "The stock item for Product is not valid.",商品の在庫数が不正です。
-"This product is out of stock.","This product is out of stock."
+"This product is out of stock.","商品は在庫切れです。"
 "Some of the products are currently out of stock.",いくつかの商品が在庫切れです
 "The stock item for Product in option is not valid.",オプション商品の在庫数が不正です。
-"Undefined product type","Undefined product type"
-"%1 is not a correct comparison method.","%1 is not a correct comparison method."
+"Undefined product type","未定義の製品タイプ"
+"%1 is not a correct comparison method.","%1は正しい比較手段ではありません。"
 "No Backorders",バックオーダーなし
 "Allow Qty Below 0",在庫数0個以下を許可する
 "Allow Qty Below 0 and Notify Customer",在庫数0個以下を許可し、顧客に通知する
-"Stock Item with id ""%1"" does not exist.","Stock Item with id ""%1"" does not exist."
-"Stock with id ""%1"" does not exist.","Stock with id ""%1"" does not exist."
-"Not all of your products are available in the requested quantity.","Not all of your products are available in the requested quantity."
-"The fewest you may purchase is %1.","The fewest you may purchase is %1."
-"Please correct the quantity for some products.","Please correct the quantity for some products."
-"The most you may purchase is %1.","The most you may purchase is %1."
-"We don't have as many ""%1"" as you requested.","We don't have as many ""%1"" as you requested."
-"We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","We don't have as many ""%1"" as you requested, but we'll back order the remaining %2."
-"We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2."
-"You can buy %1 only in increments of %2.","You can buy %1 only in increments of %2."
-"You can buy this product only in increments of %1.","You can buy this product only in increments of %1."
-"Decimal qty increments is not allowed.","Decimal qty increments is not allowed."
-"%1 is available for purchase in increments of %2","%1 is available for purchase in increments of %2"
-"Only %1 left","Only %1 left"
-"Product availability","Product availability"
+"Stock Item with id ""%1"" does not exist.","id ""%1"" のストック商品は存在しません。"
+"Stock with id ""%1"" does not exist.","id ""%1"" のストックは存在しません。"
+"Not all of your products are available in the requested quantity.","すべての商品を希望された数量準備することができませんでした。"
+"The fewest you may purchase is %1.","購入の最低限数量は%1です。"
+"Please correct the quantity for some products.","特定商品の数量を修正してください。"
+"The most you may purchase is %1.","購入の最大限数量は%1です。"
+"We don't have as many ""%1"" as you requested."," 要求された""%1""数在庫がありませんでした。 "
+"We don't have as many ""%1"" as you requested, but we'll back order the remaining %2."," 要求された""%1""数在庫がありませんでした, ですが残りの%2は取り寄せをおこないます。"
+"We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","要求された""%1""数在庫がありませんでした, ですが残>
+     りの%2は取り寄せをおこないます。"
+"You can buy %1 only in increments of %2.","%1は%2の倍数のみ購入できます。"
+"You can buy this product only in increments of %1.","この商品は%1の倍数のみ購入できます。"
+"Decimal qty increments is not allowed.","小数点の数量倍数は許可されていません。"
+"%1 is available for purchase in increments of %2","%1は%2の倍数で購入可能です。"
+"Only %1 left","%1のみ残っています"
+"Product availability","商品在庫あり"
 Inventory,在庫
 "Stock Options",ストックオプション
 "Decrease Stock When Order is Placed",注文を受けると在庫を減らす。
@@ -1677,22 +1677,18 @@ Inventory,在庫
 "Only X left Threshold",「X点在庫有り」と表記する閾値
 "Display products availability in stock in the frontend",商品の在庫状態をフロントエンドで表示する
 "Product Stock Options",商品在庫オプション
-"
-                    Please note that these settings apply to individual items in the cart, not to the entire cart.
-                ","
-                    Please note that these settings apply to individual items in the cart, not to the entire cart.
-                "
+"Please note that these settings apply to individual items in the cart, not to the entire cart.","これらの設定はカート内の個別の商品に適用されてカート全体に適用されないことをご注意ください。"
 "Automatically Return Credit Memo Item to Stock",返金時に在庫数を更新する
-Stock,Stock
-"Index stock","Index stock"
+Stock,在庫数
+"Index stock","インデックス在庫数"
 "Save Currency Rates",通貨レートの保存
 "Manage Currency Rates",通貨レート管理
 "Import Service",サービスのインポート
 "Save Currency Symbols",通貨記号を保存
-"Currency Symbols","Currency Symbols"
+"Currency Symbols","現在の通貨記号"
 "Use Standard",標準を使用する
-"Please specify a correct Import Service.","Please specify a correct Import Service."
-"We can't initialize the import model.","We can't initialize the import model."
+"Please specify a correct Import Service.","正しいインポートサービスを指定してください。"
+"We can't initialize the import model.","インポートモデルを初期化できませんでした。"
 "All possible rates were fetched, please click on ""Save"" to apply","全ての利用可能な為替レートを取得しました。""保存"" をクリックして適用してください。"
 "All rates were fetched, please click on ""Save"" to apply","全てのレートを取得しました。 ""保存"" をクリックして適用してください。"
 "Currency Rates","Currency Rates"
