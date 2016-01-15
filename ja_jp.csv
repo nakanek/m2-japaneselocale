@@ -1691,46 +1691,46 @@ Stock,在庫数
 "We can't initialize the import model.","インポートモデルを初期化できませんでした。"
 "All possible rates were fetched, please click on ""Save"" to apply","全ての利用可能な為替レートを取得しました。""保存"" をクリックして適用してください。"
 "All rates were fetched, please click on ""Save"" to apply","全てのレートを取得しました。 ""保存"" をクリックして適用してください。"
-"Currency Rates","Currency Rates"
-"Please correct the input data for %1 => %2 rate","Please correct the input data for %1 => %2 rate"
+"Currency Rates","通貨レート"
+"Please correct the input data for %1 => %2 rate","%1 => %2 レートの入力データを修正してください。"
 "All valid rates have been saved.",正しいレートが保存されました。
-"The custom currency symbols were applied.","The custom currency symbols were applied."
+"The custom currency symbols were applied.","カスタムされた通貨シンボルが適用されました。"
 "Old rate:",旧レート:
-"Operation allowed only in HTTPS","Operation allowed only in HTTPS"
-"Request does not match any route.","Request does not match any route."
-"Authentication header format is invalid.","Authentication header format is invalid."
-"Authentication header is absent.","Authentication header is absent."
-"Not allowed parameters: %1. Please use only %2 and %3.","Not allowed parameters: %1. Please use only %2 and %3."
-"Incorrect format of WSDL request URI or Requested services are missing.","Incorrect format of WSDL request URI or Requested services are missing."
-"Operation ""%1"" not found.","Operation ""%1"" not found."
-"Requested service is not available: ""%1""","Requested service is not available: ""%1"""
-"SOAP extension is not loaded.","SOAP extension is not loaded."
-"Invalid XML","Invalid XML"
-"Invalid XML: Detected use of illegal DOCTYPE","Invalid XML: Detected use of illegal DOCTYPE"
-"Magento Web API","Magento Web API"
-"SOAP Settings","SOAP Settings"
+"Operation allowed only in HTTPS","オペレーションはHTTPSでのみ許可されています"
+"Request does not match any route.","リクエストはどのルートにもマッチしません。"
+"Authentication header format is invalid.","承認ヘッダーフォーマットが無効です。"
+"Authentication header is absent.","承認ヘッダーがありません。"
+"Not allowed parameters: %1. Please use only %2 and %3.","許可されてないパラメーター: %1。 %2 と %3のみ使用してください。"
+"Incorrect format of WSDL request URI or Requested services are missing.","WSDLリクエストURIの誤ったフォーマットあるいは要求されたサービスが不明です。"
+"Operation ""%1"" not found.","オペレーション ""%1"" は見つかりません。"
+"Requested service is not available: ""%1""","要求されたサービスは使えません: ""%1"""
+"SOAP extension is not loaded.","SOAPエクステンションはロードされていません。"
+"Invalid XML","無効なXML"
+"Invalid XML: Detected use of illegal DOCTYPE","無効なXML: 違法なDOCTYPEの使用を検知"
+"Magento Web API","MagentoウェブAPI"
+"SOAP Settings","SOAP設定"
 "Default Response Charset",標準レスポンス文字コード
-"If empty, UTF-8 will be used.","If empty, UTF-8 will be used."
+"If empty, UTF-8 will be used.","空の場合は、 UTF-8が使われます。"
 "Web Services Configuration",ウェブサービス設定
-"REST and SOAP configurations, generated WSDL file.","REST and SOAP configurations, generated WSDL file."
-"We can't save the cron expression.","We can't save the cron expression."
+"REST and SOAP configurations, generated WSDL file.","RESTとSOAP設定、 WSDLファイルが生成"
+"We can't save the cron expression.","cron表現は保存できません。"
 Daily,毎日
 Weekly,週ごと
 Monthly,月ごと
-"Invalid cron expression: %1","Invalid cron expression: %1"
+"Invalid cron expression: %1","不正なcron表現: %1"
 "Invalid cron expression, expecting 'match/modulus': %1","Invalid cron expression, expecting 'match/modulus': %1"
 "Invalid cron expression, expecting numeric modulus: %1","Invalid cron expression, expecting numeric modulus: %1"
 "Invalid cron expression, expecting 'from-to' structure: %1","Invalid cron expression, expecting 'from-to' structure: %1"
 "Cron (Scheduled Tasks) - all the times are in minutes","Cron (スケジュールタスク) - 分で全ての時間を示す"
 "For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.","Cronが動作している間に生成される正確なＵＲＬサイトが作成されます > セキュアと非セキュアＵＲＬが決定されます。"
-"Cron configuration options for group: ","Cron configuration options for group: "
+"Cron configuration options for group: ","グループ用のCron設定オプション: "
 "Generate Schedules Every",スケジュール生成間隔
 "Schedule Ahead for",事前作成するスケジュール
 "Missed if Not Run Within",失敗しているか、処理中です。
 "History Cleanup Every",履歴削除間隔
 "Success History Lifetime",成功履歴保持期間
 "Failure History Lifetime",失敗履歴保持期間
-"Use Separate Process","Use Separate Process"
+"Use Separate Process","分離プロセス使用"
 "Terms and Conditions",契約条件
 "Add New Condition",新しい条件を追加
 "Save Condition",条件を保存
@@ -1749,14 +1749,14 @@ Sales,セールス
 "Checkout Conditions",購入条件
 "Checkout Terms and Conditions",購入条件
 "This condition no longer exists.",この条件は存在しません。
-"The condition has been deleted.","The condition has been deleted."
+"The condition has been deleted.","条件は削除されました。"
 "Edit Condition",条件を編集
 "New Condition",新しい条件
 "The condition has been saved.",条件を保存しました。
-"Something went wrong while saving this condition.","Something went wrong while saving this condition."
-"Unable to save checkout agreement %1","Unable to save checkout agreement %1"
-"Unable to remove checkout agreement %1","Unable to remove checkout agreement %1"
-"Checkout agreement with specified ID ""%1"" not found.","Checkout agreement with specified ID ""%1"" not found."
+"Something went wrong while saving this condition.","この条件を保存中に問題が発生しました。"
+"Unable to save checkout agreement %1","購入合意を保存できませんでした %1"
+"Unable to remove checkout agreement %1","購入合意を削除できませんでした %1"
+"Checkout agreement with specified ID ""%1"" not found.","指定された ID ""%1"" の購入合意は見つかりませんでした。"
 "Enable Terms and Conditions",契約条件を有効にする
 "Read Details",詳細を読む
 "Mark as Read",既読にする
@@ -1868,7 +1868,7 @@ Severity,重要度
 "Please enter positive number in this field.",このフィールドには使用可能な数字を入力してください。
 "Please enter a valid value, ex: 10,20,30","正しい値を入力してください。 例: 10,20,30"
 ui/grid/filters/elements/select,ui/grid/filters/elements/select
-"Grouped Products","Grouped Products"
+"Grouped Products","グループ商品"
 "Please specify the quantity of product(s).",商品の個数を指定してください。
 "Cannot process the item.",商品を処理できません
 "There are no grouped products.",グループ商品はありません
@@ -1886,47 +1886,47 @@ ui/grid/filters/elements/select,ui/grid/filters/elements/select
 "Note: Experiment code should be added to the original page only.","注意: 試験用コードはオリジナルページのみに追加してください"
 "Category View Optimization",カテゴリ表示最適化
 "Enable Content Experiments",コンテント試験有効化
-"Edit URL Rewrite for a Category","Edit URL Rewrite for a Category"
+"Edit URL Rewrite for a Category","カテゴリー用のURLリライト編集"
 "Add URL Rewrite for a Category",カテゴリのURL書換を追加
 Category:,カテゴリ:
-"We can't set up a URL rewrite because the product you chose is not associated with a website.","We can't set up a URL rewrite because the product you chose is not associated with a website."
-"We can't set up a URL rewrite because the category you chose is not associated with a website.","We can't set up a URL rewrite because the category you chose is not associated with a website."
-"Edit URL Rewrite for a Product","Edit URL Rewrite for a Product"
+"We can't set up a URL rewrite because the product you chose is not associated with a website.","選ばれた商品はウェブサイトと関連していないのでURLリライトを設定できません。"
+"We can't set up a URL rewrite because the category you chose is not associated with a website.","選ばれたカテゴリーはウェブサイトと関連していないのでURLリライトを設定できません。"
+"Edit URL Rewrite for a Product","商品用のURLリライト編集"
 "Add URL Rewrite for a Product",商品のURL書換を追加
 Product:,商品:
 "Skip Category Selection",カテゴリ選択をスキップする
-"Edit URL Rewrite for CMS page","Edit URL Rewrite for CMS page"
-"Add URL Rewrite for CMS page","Add URL Rewrite for CMS page"
-"CMS page:","CMS page:"
-"Chosen cms page does not associated with any website.","Chosen cms page does not associated with any website."
+"Edit URL Rewrite for CMS page","CMSページ用のURLリライト編集"
+"Add URL Rewrite for CMS page","CMSページ用のURLリライト追加"
+"CMS page:","CMSページ:"
+"Chosen cms page does not associated with any website.","選択されたcmsページはどのウェブページとも関連していません。"
 "Edit URL Rewrite",URL書き換えを編集
 "Add New URL Rewrite",新しいURL書換えを追加
 "URL Rewrite Information",URL書換情報
 "Request Path",リダイレクトパス
 "Target Path",対象パス
-"Redirect Type","Redirect Type"
+"Redirect Type","リダイレクトタイプ"
 "URL Rewrite Management",URL書換管理
 "Add URL Rewrite",URL書換追加
 "For category",カテゴリ用
 "For product",商品用
-"For CMS page","For CMS page"
+"For CMS page","CMSページ用"
 "Create URL Rewrite:",URL書換作成:
 "The URL Rewrite has been deleted.",URL書換を削除しました。
-"We can't delete URL Rewrite right now.","We can't delete URL Rewrite right now."
-"URL Rewrites","URL Rewrites"
-"Chosen product does not associated with the chosen store or category.","Chosen product does not associated with the chosen store or category."
-"Chosen category does not associated with the chosen store.","Chosen category does not associated with the chosen store."
+"We can't delete URL Rewrite right now.","URLリライトを現在削除できません。"
+"URL Rewrites","URLリライト"
+"Chosen product does not associated with the chosen store or category.","選択された商品は選択されたストアあるいはカテゴリーと関連していません。"
+"Chosen category does not associated with the chosen store.","選択されたカテゴリーは選択されたストアと関連していません。"
 "The URL Rewrite has been saved.",URL書換を保存しました。
 "An error occurred while saving URL Rewrite.",URL書換の保存中にエラーが発生しました。
-"Do not use two or more consecutive slashes in the request path.","Do not use two or more consecutive slashes in the request path."
-"Anchor symbol (#) is not supported in request path.","Anchor symbol (#) is not supported in request path."
-"Do not use two or more consecutive slashes in the url rewrite suffix.","Do not use two or more consecutive slashes in the url rewrite suffix."
-"Anchor symbol (#) is not supported in url rewrite suffix.","Anchor symbol (#) is not supported in url rewrite suffix."
+"Do not use two or more consecutive slashes in the request path.","リクエストパス内で２つ以上連続でスラッシュを使用しないでください。"
+"Anchor symbol (#) is not supported in request path.","アンカーシンボル (#)はリクエストパス内でサポートされていません。"
+"Do not use two or more consecutive slashes in the url rewrite suffix.","URLリライトサフィックス内で２つ以上連続でスラッシュを使用しないでください"
+"Anchor symbol (#) is not supported in url rewrite suffix.","アンカーシンボル (#)はURLリライトサフィックス内でサポートされていません。"
 "Temporary (302)",一時的(302)
 "Permanent (301)",永久(301)
 "Request Path for Specified Store",特定の店舗へのリクエストパス
-"URL key for specified store already exists.","URL key for specified store already exists."
-"Custom storage message","Custom storage message"
+"URL key for specified store already exists.","指定されたストアのURLキーは既に存在します。"
+"Custom storage message","カスタムストーレッジメッセージ"
 "Select Category",カテゴリを選択
 General,全般
 "About the calendar",カレンダーについて
@@ -2042,8 +2042,8 @@ Copyright,コピーライト
 "Default welcome msg!",標準のウェルカムメッセージ!
 "&copy; 2015 Magento Demo Store. All Rights Reserved.","&copy; 2015 Magento Demo Store. All Rights Reserved."
 "Admin empty",アドミンが空です
-"Admin 1column","Admin 1column"
-"Skip to Content","Skip to Content"
+"Admin 1column","アドミン 1カラム"
+"Skip to Content","コンテンツにスキップ"
 "2 columns with left bar",2カラム左ナビ付き
 "2 columns with right bar",2カラム右ナビ付き
 "3 columns",3カラム
@@ -2843,7 +2843,7 @@ Note:,メモ:
 "Apply discount on price including tax is calculated based on store tax if ""Apply Tax after Discount"" is selected.",もし””ディスカウント後に税を適用””が選択されるとストア税に基づいて計算された税が価格にディスカウントが適用されます
 "Apply Tax On",税を適用する価格
 "Enable Cross Border Trade",越境取引課税計算を有効にする
-"When catalog price includes tax, enable this setting to fix the price no matter what the customer's tax rate.","When catalog price includes tax, enable this setting to fix the price no matter what the customer's tax rate."
+"When catalog price includes tax, enable this setting to fix the price no matter what the customer's tax rate.","カタログ価格が税を含む時には顧客の税率設定がなんであれ、この設定を有効にして価格を確定してください。"
 "Default Tax Destination Calculation",標準税計算対象地域
 "Default State",標準の都道府県
 "Default Post Code",標準の郵便番号
@@ -2878,7 +2878,7 @@ State/Region,都道府県
 Constant,不変
 "Conversion Color value is not valid ""%1"". Please set hexadecimal 6-digit value.","コンバージョンカラー値""%1""は無効です。 6桁の16進法値で設定してください"
 "Conversion Id value is not valid ""%1"". Conversion Id should be an integer.","コンバージョンID値""%1""が有効ではありません。コンバージョンID値は整数でなければなりません"
-"Google AdWords","Google AdWords"
+"Google AdWords","Google アドワード"
 "Conversion ID","コンバージョン ID"
 "Conversion Language",コンバージョン言語
 "Conversion Format",コンバージョンフォーマット
@@ -4007,8 +4007,8 @@ Unassign,未割り当て
 "Cannot update the item's quantity.",商品の個数を更新できません。
 "View Memo for #%1","#%1 のメモを見る"
 "View Memo",メモを見る
-"You voided the credit memo.","You voided the credit memo."
-"We can't void the credit memo.","We can't void the credit memo."
+"You voided the credit memo.","クレジットメモを無効にしました。"
+"We can't void the credit memo.","クレジットメモを無効にできません。"
 "The order no longer exists.",この注文データは存在しません。
 "Cannot create credit memo for the order.",この注文の返金データを作成できません。
 "Edit Order",注文編集
@@ -4160,17 +4160,11 @@ Number,数
 "Status can't be unassigned, because it is used by existing order(s).",既存の注文に使われているのでステータスのアサインを外すことはできません
 "The total model should be extended from \Magento\Sales\Model\Order\Total\AbstractTotal.","トータルモデルは \Magento\Sales\Model\Order\Total\AbstractTotal　から展開すべきです"
 "We cannot determine the field name.",フィールドネームを決めることはできません
-"Cannot save address:
-%1","住所を保存できません:
-%1"
-"Cannot save comment:
-%1","コメントが保存できません:
-%1"
+"Cannot save address:%1","住所を保存できません: %1"
+"Cannot save comment:%1","コメントが保存できません: %1"
 "We don't have enough information to save the parent transaction ID.",親トランザクションIDを保存するには充分な情報がありません
 "We cannot create an empty shipment.",空の発送を作成することはできません
-"Cannot save track:
-%1","トラックを保存できません:
-%1"
+"Cannot save track: %1","トラックを保存できません: %1"
 "Cannot unassign status from state",ステートからステータスのアサインを外すことはできません
 "New Orders",新しい注文
 "Order #%1 created at %2","注文 #%1 を %2　にて作成しました"
