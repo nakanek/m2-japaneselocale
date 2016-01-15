@@ -4780,18 +4780,18 @@ PAK,PAK
 "UPS Express Box","UPS エクスプレスボックス"
 "UPS Worldwide 25 kilo","UPS Worldwide 25 kilo"
 "UPS Worldwide 10 kilo","UPS Worldwide 10 kilo"
-Pallet,Pallet
+Pallet,パレット
 "Small Express Box","Small Express Box"
 "Medium Express Box","Medium Express Box"
 "Large Express Box","Large Express Box"
 Residential,宅配
 Commercial,商用
-"We can't convert a rate from ""%1-%2"".","We can't convert a rate from ""%1-%2""."
+"We can't convert a rate from ""%1-%2"".","レートを ""%1-%2""　から換算できませんでした。"
 "Cannot retrieve shipping rates",配送レートを取得できませんでした。
 error_message,error_message
-"Delivery Confirmation","Delivery Confirmation"
+"Delivery Confirmation","配送確認"
 "Signature Required",署名が必要です
-"Adult Signature Required","Adult Signature Required"
+"Adult Signature Required","成人の署名が必須"
 "United Parcel Service",共通郵便サービス
 "United Parcel Service XML",共通郵便サービスXML
 UPS,UPS
@@ -4802,12 +4802,12 @@ UPS,UPS
 "Origin of the Shipment",発送元
 "Pickup Method",引き取り方法
 "Tracking XML URL","トラッキングXML URL"
-"UPS Type","UPS Type"
-"Live account","Live account"
+"UPS Type","UPS タイプ"
+"Live account","使用可能なアカウント"
 "Enable Negotiated Rates",ネゴシエイトレートを有効にする
 "Shipper Number",荷主番号
-"Required for negotiated rates; 6-character UPS","Required for negotiated rates; 6-character UPS"
-"This enables or disables SSL verification of the Magento server by UPS.","This enables or disables SSL verification of the Magento server by UPS."
+"Required for negotiated rates; 6-character UPS","ネゴシエイトレートに必須; 6キャラクター UPS"
+"This enables or disables SSL verification of the Magento server by UPS.","これはUPSのMagentoサーバーのSSL証明を有効あるいは無効にできます。"
 "Invalid Form Key. Please refresh the page.",不正なフォームキーです。ページを再読み込みしてください。
 "You entered an invalid Secret Key. Please refresh the page.",不正な秘密鍵が入力されました。画面を再読み込みしてください。
 "Cache Storage Management",キャッシュストレージ管理
@@ -5351,9 +5351,9 @@ Duplicate,複製
 "You updated the custom.css file.",custom.cssファイルを更新しました
 "Unknown control: ""%1","不明なコントロール: """"%1"""""
 "Unknown control: ""%1""","不明なコントロール: """"%1"""""
-"Unknown control configuration type: ""%1""","Unknown control configuration type: ""%1"""
-"Sorry, but you cannot edit these theme styles.","Sorry, but you cannot edit these theme styles."
-"No renderer registered for elements of class ""%1""","No renderer registered for elements of class ""%1"""
+"Unknown control configuration type: ""%1""","不明なコントロールの設定タイプ: ""%1"""
+"Sorry, but you cannot edit these theme styles.","申し訳ありません、しかしこれらのテーマスタイルを編集できません。"
+"No renderer registered for elements of class ""%1""","クラスの要素 ""%1""　に登録されたレンダラーはありません"
 "Cannot upload file.",ファイルをアップロードできません。
 "We can't find theme ""%1"".","テーマ""""%1""""を見つけることができません"
 "Wrong theme type set as editable",誤ったテーマのタイプセットを編集可能
@@ -5449,43 +5449,43 @@ DHL,DHL
 """Per Order"" allows a single handling fee for the entire order. ""Per Package"" allows an individual handling fee for each package.","""Per Order"" 全体の注文での単一手数料を許可します。 ""Per Package"" は各パッケージに対して個別の手数料を許可します"
 "Divide Order Weight",注文の重量を分割
 "This allows breaking total order weight into smaller pieces if it exeeds 70 kg to ensure accurate calculation of shipping charges.",もし注文が70kgを超える場合に送料を正確に計算することを担保するため全体の注文の重さを小さく小分けにすることを許可します
-"Resource with ID ""%1"" not found.","Resource with ID ""%1"" not found."
-"Generic service exception %1","Generic service exception %1"
-"Consumer is not authorized to access %1","Consumer is not authorized to access %1"
-"Service not found","Service not found"
-"Fixture base directory '%1' does not exist.","Fixture base directory '%1' does not exist."
-"Directory separator ""\" is prohibited in fixture declaration.","Directory separator ""\" is prohibited in fixture declaration."
-Drop-down,Drop-down
-"Invalid ""@magentoAppArea"" annotation, can be ""%1"" only.","Invalid ""@magentoAppArea"" annotation, can be ""%1"" only."
-"Invalid ""@magentoAppIsolation"" annotation, can be ""enabled"" or ""disabled"" only.","Invalid ""@magentoAppIsolation"" annotation, can be ""enabled"" or ""disabled"" only."
-"Invalid ""@magentoDbIsolation"" annotation, can be ""enabled"" or ""disabled"" only.","Invalid ""@magentoDbIsolation"" annotation, can be ""enabled"" or ""disabled"" only."
-"'%1' is not a directory.","'%1' is not a directory."
-"Setting '%1' specifies the non-existing file '%2'.","Setting '%1' specifies the non-existing file '%2'."
-"Sequence with this metadata already exists","Sequence with this metadata already exists"
-"Instance of the ""Magento\TestFramework\EventManager"" is expected.","Instance of the ""Magento\TestFramework\EventManager"" is expected."
-"Instance of the event manager is required.","Instance of the event manager is required."
-"Helper instance cannot be redefined.","Helper instance cannot be redefined."
-"Helper instance is not defined yet.","Helper instance is not defined yet."
-"'%1' is not readable file.","'%1' is not readable file."
-"Setting 'non_existing' specifies the non-existing file ''.","Setting 'non_existing' specifies the non-existing file ''."
-"Setting 'item_label' specifies the non-existing file '%1Item Label.dist'.","Setting 'item_label' specifies the non-existing file '%1Item Label.dist'."
-"Synthetic model update failure.","Synthetic model update failure."
-"command not found","command not found"
-"Fixture String","Fixture String"
-"Message with ""%1"" and ""%2""","Message with ""%1"" and ""%2"""
-"Init action problem.","Init action problem."
-"Construction problem.","Construction problem."
-"Prepare layout problem.","Prepare layout problem."
+"Resource with ID ""%1"" not found.","ID ""%1"" のリソースが見つかりません。"
+"Generic service exception %1","ジェネリックサービスエクセプション %1"
+"Consumer is not authorized to access %1","顧客は %1にアクセスする権限がありません"
+"Service not found","サービスが見つかりません"
+"Fixture base directory '%1' does not exist.","フィクスチャーベースディレクトリ '%1' は存在しません。"
+"Directory separator ""\" is prohibited in fixture declaration.","ディレクトリセパレーター""\" はフィクスチャー宣言内では禁止されています。"
+Drop-down,ドロップダウン
+"Invalid ""@magentoAppArea"" annotation, can be ""%1"" only.","不正な ""@magentoAppArea"" 注釈, は ""%1"" のみです。"
+"Invalid ""@magentoAppIsolation"" annotation, can be ""enabled"" or ""disabled"" only.","不正な ""@magentoAppIsolation"" 注釈, は ""enabled"" あるいは ""disabled"" のみです。"
+"Invalid ""@magentoDbIsolation"" annotation, can be ""enabled"" or ""disabled"" only.","不正な ""@magentoDbIsolation"" 注釈, は ""enabled"" あるいは ""disabled"" のみです。"
+"'%1' is not a directory.","'%1' はディレクトリーではありません。"
+"Setting '%1' specifies the non-existing file '%2'.","設定 '%1' は存在しないふぁいる '%2'　を指定しています。"
+"Sequence with this metadata already exists","このメタデータでの配列は既に存在します"
+"Instance of the ""Magento\TestFramework\EventManager"" is expected."," ""Magento\TestFramework\EventManager"" のインスタンスが求められています。"
+"Instance of the event manager is required.","イベントマネージャーのインスタンスが必須です。"
+"Helper instance cannot be redefined.","ヘルパーインスタンスは再定義できません。"
+"Helper instance is not defined yet.","ヘルパーインスタンスはまだ定義されていません"
+"'%1' is not readable file.","'%1' のファイルは読み込み不可能です。"
+"Setting 'non_existing' specifies the non-existing file ''.","'non_existing' 設定することは存在しないファイル ''を指定します。"
+"Setting 'item_label' specifies the non-existing file '%1Item Label.dist'.","'item_label' 設定することは存在しないファイル '%1Item Label.dist' を指定します。"
+"Synthetic model update failure.","シンセティックモデルアップデート失敗"
+"command not found","コマンドが見つかりません"
+"Fixture String","フィクスチャア文字列"
+"Message with ""%1"" and ""%2"""," ""%1"" と ""%2""　のメッセージ"
+"Init action problem.","初期アクション問題。"
+"Construction problem.","構築問題。"
+"Prepare layout problem.",",レイアウト準備問題。"
 "Customer My Account (All Pages)","Customer My Account (All Pages)"
-"All Empty Layout Pages","All Empty Layout Pages"
+"All Empty Layout Pages",",全ての空レイアウトページ"
 entity_label_1,entity_label_1
 entity_label_2,entity_label_2
-"simple text","simple text"
-"simple text with 1 string literal placeholder %1","simple text with 1 string literal placeholder %1"
-"simple text with 1 variable placeholder %1","simple text with 1 variable placeholder %1"
-"simple text with multiple placeholders %1 %2","simple text with multiple placeholders %1 %2"
-"first part second part","first part second part"
-"first part second part third part","first part second part third part"
+"simple text","シンプルテキスト"
+"simple text with 1 string literal placeholder %1","シンプルテキストと1つの文字列プレースホルダー %1"
+"simple text with 1 variable placeholder %1","シンプルテキストと1つの変数プレースホルダー %1"
+"simple text with multiple placeholders %1 %2","シンプルテキストと複数プレースホルダー %1 %2"
+"first part second part","ファーストパート　セカンドパート"
+"first part second part third part","ファーストパート　セカンドパー　サードパート"
 "first part second part with one string literal placeholder %1","first part second part with one string literal placeholder %1"
 "first part of concat second part with one variable placeholder %1","first part of concat second part with one variable placeholder %1"
 "first part of concat second part with two placeholders %1, %2","first part of concat second part with two placeholders %1, %2"
