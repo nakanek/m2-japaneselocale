@@ -2488,10 +2488,10 @@ Coupon,クーポン
 "Public In RSS Feed",RSSフィードに公開
 "%1 - Discounts and Coupons","%1 - ディスカウントとクーポン"
 Coupons/Discounts,クーポン/ディスカウント
-"Cart Price Rules",カートプライスルールズ
+"Cart Price Rules",クーポン
 "We can't delete the rule right now. Please review the log and try again.",現在ルールの削除はできません。ログを見なおして再度試して下さい。
 "We can't find a rule to delete.",削除するルールが見つかりません
-"New Cart Price Rule",新しいカートプライスルール
+"New Cart Price Rule",新しいクーポン
 "Rule is not defined",クーポンが未定義です
 "Invalid data provided",無効なデータが提供されました
 "%1 coupon(s) have been generated.","%1 クーポンが作成されました"
@@ -2501,7 +2501,7 @@ Alphanumeric,半角英数字
 Alphabetical,半角英字
 Numeric,数字
 "We cannot create the requested Coupon Qty. Please check your settings and try again.",求められた数量のクーポンを作成出来ませんでした。設定を確認して再度試して下さい
-"%1 Shopping Cart Price Rules based on ""%2"" attribute have been disabled.","""%2""に基づく%1ショッピングカートプライスルールは無効になりました"
+"%1 Shopping Cart Price Rules based on ""%2"" attribute have been disabled.","""%2""に基づく%1ショッピングクーポンは無効になりました"
 "Coupon with the same code",同じコードのクーポンがあります
 "No Coupon",自動適用クーポン
 "Specific Coupon",特定のクーポン
@@ -2935,7 +2935,7 @@ Unknown,不明
 "Bill-to Name",請求先名
 "Ship-to Name",送り先名
 "Order Total",注文合計
-"Purchase Point",購入ポイント
+"Purchase Point",購入店舗
 "There are no items in customer's shopping cart at the moment",顧客のショッピングカートに商品がありません
 "Shipped-to Name",送付先名
 "Grand Total",合計
