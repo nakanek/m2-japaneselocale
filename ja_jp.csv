@@ -460,7 +460,7 @@ To:,終了:
 Message:,メッセージ:
 Subtotal,小計
 "Discount Amount",割引価格
-"Row Total",行合計
+"Row Total",小計
 "Qty Invoiced",請求済個数
 "Qty Shipped",配送数
 "Add Products to New Option","新しいオプションに商品追加"
@@ -522,7 +522,7 @@ Promo,プロモーション
 "Updated rules applied.","更新したルールが適用されました。"
 "%1 Catalog Price Rules based on ""%2"" attribute have been disabled."," ""%2"" 属性に基づく%1のカタログ価格ルールは無効になりました。"
 Start,開始
-Rule,ルール
+Rule,クーポン名
 End,終了
 "Catalog Rule Product","カタログルール商品"
 "Indexed rule/product association","インデックス化された　ルール/商品 アソシエイション"
@@ -2137,7 +2137,7 @@ Reports,レポート
 "Order Count Report",注文カウントレポート
 "Order Total Report",注文トータルレポート
 "Downloads Report",ダウンロードレポート
-"Low Stock",在庫わずか
+"Low Stock",在庫薄
 "Low Stock Report",在庫が少ないレポート
 "Ordered Products Report",注文された商品レポート
 "Products Most Viewed Report",最も閲覧されている商品レポート
@@ -2463,7 +2463,7 @@ no,no
 "Apply to Shipping Amount",配送料に適用する
 "Apply the rule only to cart items matching the following conditions ' '(leave blank for all items).","以下条件にマッチするカート商品にのみルール適用 ' '(すべての商品のためには空白にしておく)."
 "Apply To",適用終了日
-"Apply the rule only if the following conditions are met (leave blank for all products).","以下条件に合うカート商品にのみルール適用 (すべての商品のためには空白にしておく)."
+"Apply the rule only if the following conditions are met (leave blank for all products).","以下条件を満たす場合にのみ規定が適用されます。 (全ての商品欄は空白のままにしておいてください)."
 "Manage Coupon Codes",クーポンコード管理
 "Coupons Information",クーポン情報
 "Coupon Qty",クーポン数量
@@ -2488,10 +2488,10 @@ Coupon,クーポン
 "Public In RSS Feed",RSSフィードに公開
 "%1 - Discounts and Coupons","%1 - ディスカウントとクーポン"
 Coupons/Discounts,クーポン/ディスカウント
-"Cart Price Rules",カートプライスルールズ
+"Cart Price Rules",クーポン
 "We can't delete the rule right now. Please review the log and try again.",現在ルールの削除はできません。ログを見なおして再度試して下さい。
 "We can't find a rule to delete.",削除するルールが見つかりません
-"New Cart Price Rule",新しいカートプライスルール
+"New Cart Price Rule",新しいクーポン
 "Rule is not defined",クーポンが未定義です
 "Invalid data provided",無効なデータが提供されました
 "%1 coupon(s) have been generated.","%1 クーポンが作成されました"
@@ -2501,7 +2501,7 @@ Alphanumeric,半角英数字
 Alphabetical,半角英字
 Numeric,数字
 "We cannot create the requested Coupon Qty. Please check your settings and try again.",求められた数量のクーポンを作成出来ませんでした。設定を確認して再度試して下さい
-"%1 Shopping Cart Price Rules based on ""%2"" attribute have been disabled.","""%2""に基づく%1ショッピングカートプライスルールは無効になりました"
+"%1 Shopping Cart Price Rules based on ""%2"" attribute have been disabled.","""%2""に基づく%1ショッピングクーポンは無効になりました"
 "Coupon with the same code",同じコードのクーポンがあります
 "No Coupon",自動適用クーポン
 "Specific Coupon",特定のクーポン
@@ -2935,7 +2935,7 @@ Unknown,不明
 "Bill-to Name",請求先名
 "Ship-to Name",送り先名
 "Order Total",注文合計
-"Purchase Point",購入ポイント
+"Purchase Point",購入店舗
 "There are no items in customer's shopping cart at the moment",顧客のショッピングカートに商品がありません
 "Shipped-to Name",送付先名
 "Grand Total",合計
@@ -4385,7 +4385,7 @@ Shipment,配送
 "PDF Invoices",PDF請求書
 "Invoice Date",請求日
 "ZIP/Post Code",郵便番号
-"Signed-up Point",サインアップ　ポイント
+"Signed-up Point",登録元
 order-header,注文ヘッダー
 "Print Invoices",請求書印刷
 "Print Packing Slips",包装スリップを印刷
@@ -5919,7 +5919,7 @@ Quantity:,数量:
 "Adjust final price to this percentage","このパーセンテージに最終価格を調整"
 "Adjust final price to discount value","ディスカウント値に最終価格を調整"
 "Subproduct discounts","Subproduct discounts"
-"Discard subsequent rules","後続のルールを無視する"
+"Discard subsequent rules","このルールより優先度の低いルールの適用を行わない"
 "Conditions (don't add conditions if rule is applied to all products)","条件 (ルールが全ての商品に適用される場合条件を追加しないでください)"
 "We found updated rules that are not applied. Please click ""Apply Rules"" to update your catalog.","適用されていないアップデートされたルールを見つけました。 ""ルール適用""を押してカタログをアップデートしてください。"
 "We can't apply the rules.","ルールが適用できません"
@@ -6353,11 +6353,11 @@ Partners,パートナーズ
 "Please enter a valid credit card expiration date.","正しいクレジットカードの有効期限を入力してください。"
 " is not available. You still can process offline actions."," はできません。オフラインでの作業は処理することができます。"
 "We'll ask for your payment details before you place an order.","注文を確定する前に支払詳細について確認を行います。"
-"Billing Agreements","支払い同意"
-"Reference ID","リファレンスID"
-"Billing Agreement #%1","支払い同意 #%1"
+"Billing Agreements","支払い契約"
+"Reference ID","参照ID"
+"Billing Agreement #%1","支払い契約 #%1"
 "Related Orders","関連する注文"
-"Billing Agreement View","支払い同意一覧"
+"Billing Agreement View","支払い契約一覧"
 "View Transaction Details","トランザクション詳細見る。"
 "Reference Information","リファレンス情報"
 "Transaction Information","トランザクション情報"
@@ -6373,20 +6373,20 @@ Help,ヘルプ
 "You will be redirected to the PayPal website.","PayPalウェブサイトに移動します。"
 "You will be redirected to the PayPal website when you place an order.","注文を行なった時PayPalウェブサイトに移動します。"
 "Would you like to sign a billing agreement to streamline further purchases with PayPal?","PayPalでの購入"
-"Please specify the correct billing agreement ID and try again.","正しい支払い同意IDを指定して再度お試しください。"
-"You canceled the billing agreement.","支払い同意をキャンセルしました。"
-"We can't cancel the billing agreement.","支払い同意をキャンセルできません。"
-"You deleted the billing agreement.","支払い同意は削除しました。"
-"We can't delete the billing agreement.","支払い同意は削除できませんでした。"
+"Please specify the correct billing agreement ID and try again.","正しい支払い契約IDを指定して再度お試しください。"
+"You canceled the billing agreement.","支払い契約をキャンセルしました。"
+"We can't cancel the billing agreement.","支払い契約をキャンセルできません。"
+"You deleted the billing agreement.","支払い契約は削除しました。"
+"We can't delete the billing agreement.","支払い契約は削除できませんでした。"
 "View Transaction","トランザクション一覧"
 "We found nothing to fetch because of an empty configuration.","空の設定のためフェッチするものが見つかりませんでした。"
 "We fetched %1 report rows from ""%2@%3."""," ""%2@%3."" の%1レポート列をフェッチしました。"
 "We can't fetch reports from ""%1@%2."""," ""%1@%2."" のレポート列をフェッチしました。"
-"The billing agreement ""%1"" has been canceled.",","支払い同意 ""%1"" はキャンセルされました。"
-"The billing agreement ""%1"" has been created.","支払い同意 ""%1"" が作成されました。"
-"We couldn't finish the billing agreement wizard.","支払い同意ウィザードが完了できませんでした。"
-"We can't start the billing agreement wizard.","支払い同意ウィザードをスタートできませんでした。"
-"Billing Agreement # %1","支払い同意 # %1"
+"The billing agreement ""%1"" has been canceled.",","支払い契約 ""%1"" はキャンセルされました。"
+"The billing agreement ""%1"" has been created.","支払い契約 ""%1"" が作成されました。"
+"We couldn't finish the billing agreement wizard.","支払い契約ウィザードが完了できませんでした。"
+"We can't start the billing agreement wizard.","支払い契約ウィザードをスタートできませんでした。"
+"Billing Agreement # %1","支払い契約 # %1"
 "We can't initialize Express Checkout.","エクスプレスチェックアウトを初期化できません。"
 "PayPal Express Checkout Token does not exist.","PayPalエクスプレスチェックアウトトークンは存在しません。"
 "A wrong PayPal Express Checkout Token is specified.","誤ったPayPalエクスプレスチェックアウトトークンが指摘されました。"
@@ -6635,8 +6635,8 @@ Reversal,破棄
 "Every 40 days","毎40日"
 "No Logo","ロゴなし"
 "Yes (PayPal recommends this option)","はい (PayPalはこのオプションを推奨します)"
-"Created billing agreement #%1.","支払い同意を作成 #%1."
-"We can't create a billing agreement for this order.","この注文のための支払い合意を作成できません。"
+"Created billing agreement #%1.","支払い契約を作成 #%1."
+"We can't create a billing agreement for this order.","この注文のための支払い契約を作成できません。"
 "Pending PayPal","PayPal保留"
 "PayPal Reversed","PayPal予約"
 "PayPal Canceled Reversal","PayPalは破棄をキャンセルしました"
@@ -6700,7 +6700,7 @@ Duration:,長さ:
 "The address total model should be extended from
                     \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.","住所トータルモデルは
                     \Magento\Quote\Model\Quote\Address\Total\AbstractTotal　からの拡張でなければなりません。"
-"Date Used","使われた日付"
+"Date Used","期間の指定"
 "We can't find records for this period.","この期間の記録が見つかりません。"
 "Last updated: %1. To refresh last day'ss <a href=""%2"">statistics</a>, click <a href=""%3"">here</a>.","最後の更新: %1.  前回の<a href=""%2"">統計</a>をリフレッシュするには, <a href=""%3"">ここ</a>をクリックしてください。"
 "You refreshed lifetime statistics.","統計をリフレッシュしました。"
@@ -6790,7 +6790,7 @@ Author,作者
 "Could not cancel creditmemo","クレジットメモをキャンセルできませんでした"
 " Transaction ID: ""%1"""," トランザクションID: ""%1"""
 "Group was removed","グループが削除されました"
-"Visible on Storefront","店舗で表示されています"
+"Visible on Storefront","フロントエンドで表示されています"
 "Update Items and Quantities","商品と数量をアップデート"
 "The order confirmation email was sent","注文確認メールが送られました"
 "The order confirmation email is not sent","注文確認メールが送られていません"
@@ -7131,21 +7131,21 @@ Vendor,ベンダー
 "Ability for buyer to purchase without PayPal account.","PayPalアカウントなしで購入者に購入を行わせる"
 "Require Customer's Billing Address","顧客の支払い住所必須"
 "This feature needs be enabled first for the merchant account through PayPal technical support.","この機能はPayPalのテクニカルサポートを通して商店のアカウントのために有効化されなければなりません。"
-"Billing Agreement Signup","支払い同意サインアップ"
+"Billing Agreement Signup","支払い契約サインアップ"
 "Whether to create a billing agreement, if there are no active billing agreements available.","Whether to create a billing agreement, if there are no active billing agreements available."
 "
                                 Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this until PayPal confirms that billing agreements are enabled for your merchant account.
                             ","
-                                商店は支払い同意機能を有効化するためにPayPalに申し込みする必要があります。PayPalがあなたの商店アカウントの支払い同意が有効化されたことを確認するまでこのオプションを有効化しないでください。
+                                商店は支払い契約機能を有効化するためにPayPalに申し込みする必要があります。PayPalがあなたの商店アカウントの支払い契約が有効化されたことを確認するまでこのオプションを有効化しないでください。
                             "
 "Skip Order Review Step","注文リヴューステップをとばす"
-"PayPal Billing Agreement Settings","PayPal支払い同意設定"
+"PayPal Billing Agreement Settings","PayPal支払い契約設定"
 "
                                     Will appear as a payment option only for customers who have at least one active billing agreement.
                                 ","
-                                   少なくとも1つの有効な支払い同意をお持ちの顧客にのみ支払いオプションは表示されます。 
+                                   少なくとも1つの有効な支払い契約をお持ちの顧客にのみ支払いオプションは表示されます。 
                                 "
-"Allow in Billing Agreement Wizard","支払い同意ウィザード内で許可"
+"Allow in Billing Agreement Wizard","支払い契約ウィザード内で許可"
 "SFTP Credentials","SFTP証明書"
 "Custom Endpoint Hostname or IP-Address","カスタムエンドポイントホスト名かIPアドレス"
 "By default it is ""reports.paypal.com"".","ディフォルトは ""reports.paypal.com""."
