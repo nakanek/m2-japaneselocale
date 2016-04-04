@@ -57,7 +57,7 @@ Widget,ウィジェット
 "Frontend Apps","フロントエンドアプリ"
 "The widget instance has been saved.",ウィジェットを保存しました。
 description,詳細
-"We cannot create the widget instance because it is missing required information.","必須情報が不明なのでウィジェットインスタンスを作製できません。"
+"We cannot create the widget instance because it is missing required information.","必須情報が不明なのでウィジェットインスタンスを作成できません。"
 Container,梱包
 "Specific %1","詳細 %1"
 "Anchor Custom Title",アンカーカスタムタイトル
@@ -99,73 +99,73 @@ Message,メッセージ
 Configure,構成
 "Add Locale","ロケール追加"
 "Add Date","日付追加"
-"Days in Wish List","ウィッシュリスト内日付"
+"Days in Wish List","欲しい物リスト内日付"
 "Are you sure you want to remove this item?",このアイテムを削除してもよろしいですか？
 "Test Phrase","テストフェーズ"
 "Remove Item",商品を削除
 "An item option with code %1 already exists.","商品オプションのコード %1 はすでに存在します。"
 "View Details",詳細を表示
-"Wish List","ウィッシュリスト"
+"Wish List","欲しい物リスト"
 Comment,コメント
 "Please enter an email address.","eメールアドレスを入力してください"
 "Wish List Sharing","ほしい物リストの共有"
 "My Wish List","ほしい物リスト"
-"%1's Wish List","%1 のウィッシュリスト"
+"%1's Wish List","%1 の欲しい物リスト"
 "We can't specify a product.","製品を特定できません"
-"%1 has been added to your Wish List. Click <a href=""%2"">here</a> to continue shopping.","%1 はウィッシュリストに追加されました。 <a href=""%2"">ここ</a>をクリックしてショッピングを続けてください。"
+"%1 has been added to your Wish List. Click <a href=""%2"">here</a> to continue shopping.","%1 は欲しい物リストに追加されました。 <a href=""%2"">ここ</a>をクリックしてお買い物を続けてください。"
 "We can't add the item to Wish List right now: %1.","このアイテムをほしい物リストに現在追加できません: %1."
 "We can't add the item to Wish List right now.","このアイテムをほしい物リストに現在追加できません。"
 "This product(s) is out of stock.","この商品は在庫切れです。"
 "We can't add the item to the cart right now.","このアイテムをカートに追加することは現在できません。"
-"We can't load the Wish List item right now.","ウィッシュリストのアイテムを現在読み込むことができません。"
+"We can't load the Wish List item right now.","欲しい物リストのアイテムを現在読み込むことができません。"
 "We can't configure the product right now.","この製品の設定を現在することができません。"
 "The requested cart item doesn't exist.","要求されたカートの商品は存在しません。"
-"%1 has been moved to wish list %2","%1 はウィッシュリスト %2　に移動されました。"
-"We can't delete the item from Wish List right now because of an error: %1.","エラー: %1　のために現在ウィッシュリストからこのアイテムを削除できません。"
-"We can't delete the item from the Wish List right now.","このアイテムをウィッシュリストから現在削除できません。"
+"%1 has been moved to wish list %2","%1 は欲しい物リスト %2　に移動されました。"
+"We can't delete the item from Wish List right now because of an error: %1.","エラー: %1　のために現在欲しい物リストからこのアイテムを削除できません。"
+"We can't delete the item from the Wish List right now.","このアイテムを欲しい物リストから現在削除できません。"
 "Message length must not exceed %1 symbols","メッセージの長さは %1 文字以上でなければなりません。"
-"This wish list can be shared %1 more times.","このウィッシュリストは %1 回以上共有できます。"
+"This wish list can be shared %1 more times.","この欲しい物リストは %1 回以上共有できます。"
 "Please input a valid email address.",正しいメールアドレスを入力してください。
-"Your wish list has been shared.","あなたのウィッシュリストは共有されました。"
-"We can't delete item from Wish List right now.","アイテムをウィッシュリストから現在削除できません。"
+"Your wish list has been shared.","あなたの欲しい物リストは共有されました。"
+"We can't delete item from Wish List right now.","アイテムを欲しい物リストから現在削除できません。"
 "Can't save description %1","詳細を保存できません %1"
-"Can't update wish list","ウィッシュリストをアップデートできません"
-"%1 has been updated in your Wish List.","%1 はあなたのウィッシュリストでアップデートされました。"
-"We can't update your Wish List right now.","現在あなたのウィッシュリストはアップデートできません。"
-"The requested Wish List doesn't exist.","要求されたウィッシュリストは存在しません。"
-"We can't create the Wish List right now.","現在ウィッシュリストを作成できません。"
-"Display number of items in wish list","ウィッシュリストのアイテム数を表示"
-"We can't specify a wish list.","ウィッシュリストを指定できません。"
+"Can't update wish list","欲しい物リストをアップデートできません"
+"%1 has been updated in your Wish List.","%1 はあなたの欲しい物リストでアップデートされました。"
+"We can't update your Wish List right now.","現在あなたの欲しい物リストはアップデートできません。"
+"The requested Wish List doesn't exist.","要求された欲しい物リストは存在しません。"
+"We can't create the Wish List right now.","現在欲しい物リストを作成できません。"
+"Display number of items in wish list","欲しい物リストのアイテム数を表示"
+"We can't specify a wish list.","欲しい物リストを指定できません。"
 "Cannot specify product.",商品を特定できません。
 "Product is not salable.","製品は販売されていません。"
 "Invalid item option format.",不正なオプションの形式です。
 "%1 for ""%2"".","""%2"" のための %1"
 "We couldn't add the following product(s) to the shopping cart: %1.","以下の商品をショッピングカートに追加できませんでした: %1."
 "Product(s) %1 have required options. Each product can only be added individually.","%1 の製品は必須のオプションがあります。 各製品は個別に追加されます。"
-"We can't update the Wish List right now.","現在ウィッシュリストを更新できません。"
+"We can't update the Wish List right now.","現在欲しい物リストを更新できません。"
 "%1 product(s) have been added to shopping cart: %2.","%1 個のアイテムがショッピングカートに追加されました: %2."
 Comment:,コメント:
-"We cannot retrieve the Wish List.","ウィッシュリストは読み込みできませんでした。"
-"%1's Wishlist","%1 のウィッシュリスト"
-"We can't specify a wish list item.","ウィッシュリストのアイテムを特定できません。"
+"We cannot retrieve the Wish List.","欲しい物リストは読み込みできませんでした。"
+"%1's Wishlist","%1 の欲しい物リスト"
+"We can't specify a wish list item.","欲しい物リストのアイテムを特定できません。"
 error-message,error-message
 LocalizedException,LocalizedException
 "Share Wish List","ほしい物リストを共有"
 "Add All to Cart",全てカートに入れる
 "Update Wish List","ほしい物リストを更新"
 "View Product",商品を表示
-"This Wish List has no Items","このウィッシュリストにはアイテムはありません。"
+"This Wish List has no Items","この欲しい物リストにはアイテムはありません。"
 "Options Details",オプションの概要
-"RSS link to %1's wishlist","%1 のウィッシュリストへのRSSリンク"
+"RSS link to %1's wishlist","%1 の欲しい物リストへのRSSリンク"
 "RSS Feed","RSS フィード"
-"Wish List is empty now.","ウィッシュリストは現在空です。"
+"Wish List is empty now.","欲しい物リストは現在空です。"
 "Sharing Information",共有先の情報
 "Email addresses, separated by commas","メールアドレスは「,」で区切る必要があります"
-"Check here to link an RSS feed to your Wish List.","RSSフィードとあなたのウィッシュリストをリンクするにはここをチェックしてください。"
+"Check here to link an RSS feed to your Wish List.","RSSフィードとあなたの欲しい物リストをリンクするにはここをチェックしてください。"
 "Last Added Items",最後に追加した商品
-"Go to Wish List","ウィッシュリストに行く"
+"Go to Wish List","欲しい物リストに行く"
 "You have no items in your wish list.","ほしい物リストは空です。"
-"Are you sure you want to remove this product from your Wish List?","この商品をあなたのウィッシュリストから削除しますか？"
+"Are you sure you want to remove this product from your Wish List?","この商品をあなたの欲しい物リストから削除しますか？"
 "Email Sender",メール送信者
 "Email Template",メールテンプレート
 "General Options",全体のオプション
@@ -173,8 +173,8 @@ LocalizedException,LocalizedException
 "Share Options",共有オプション
 "Max Emails Allowed to be Sent","許可された送信された最大のメール数"
 "Email Text Length Limit","Wメールのテキストの長さの最大数"
-"My Wish List Link","自分のウィッシュリストのリンク"
-"Display Wish List Summary","ウィッシュリストのサマリーの表示"
+"My Wish List Link","自分の欲しい物リストのリンク"
+"Display Wish List Summary","欲しい物リストのサマリーの表示"
 "No Items Found",商品が見つかりませんでした
 "User Description",ユーザー概要
 "Product Details and Comment",商品の詳細とコメント
@@ -207,7 +207,7 @@ LocalizedException,LocalizedException
 "To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","新しいeプライバシーの規定を順守するために、cookieを設定する承諾を求めています。"
 "<a href=""%1"">Learn more</a>.","<a href=""%1"">更に詳細</a>."
 "Allow Cookies","Cookieを許可"
-"Default Cookie Settings","ディフォルトのCookie設定"
+"Default Cookie Settings","デフォルトのCookie設定"
 "Cookie Lifetime",Cookieの有効期限
 "Cookie Path",Cookieパス
 "Cookie Domain",Cookieドメイン
@@ -239,7 +239,7 @@ Height,高さ
 Width,幅
 Regular,普通配達
 Documents,ドキュメント
-"Unable to retrieve tracking",トラッキングを読み込みできません
+"Unable to retrieve tracking",荷物追跡情報を読み込みできません
 Sample,サンプル
 "Not Required","必須ではない"
 "Empty response",空の返信
@@ -436,7 +436,7 @@ Position,おすすめ
 "New Option","新オプション"
 Default,標準
 "Price Type",価格タイプ
-"Default Quantity","ディフォルト数量"
+"Default Quantity","デフォルト数量"
 "User Defined","ユーザー定義"
 Ordered,注文済
 Invoiced,請求済
@@ -472,8 +472,8 @@ Catalog,カタログ
 Actions,アクション
 Websites,ウェブサイト
 "Attribute Set",属性セット
-"Could not rebuild index for undefined product","未定義製品のためのインデックスを再構築できませんでした"
-"Could not rebuild index for empty products array","空の製品のアレイのためのインデックスを再構築できませんでした"
+"Could not rebuild index for undefined product","未定義製品があるため、インデックスを再構築できませんでした"
+"Could not rebuild index for empty products array","空の製品配列があるため、インデックスを再構築できませんでした"
 "Catalog Price Rules",カタログ価格ルール
 "Add New Rule",新規クーポンの追加
 "Apply Rules",ルールの反映
@@ -817,7 +817,7 @@ Change,変更
 "Products Information",商品情報
 "Category Name","カテゴリー名"
 "Parent Category",親カテゴリ
-"If there are no custom parent categories, please use the default parent category. ' 'You can reassign the category at any time in ' '<a href=""%1"" target=""_blank"">Products > Categories</a>.","カスタム親カテゴリがない場合、ディフォルトの親カテゴリを使用してください。 ' 'カテゴリを再度アサインすることは以下でいつでも可能です ' '<a href=""%1"" target=""_blank"">商品 > カテゴリ</a>."
+"If there are no custom parent categories, please use the default parent category. ' 'You can reassign the category at any time in ' '<a href=""%1"" target=""_blank"">Products > Categories</a>.","カスタム親カテゴリがない場合、デフォルトの親カテゴリを使用してください。 ' 'カテゴリを再度アサインすることは以下でいつでも可能です ' '<a href=""%1"" target=""_blank"">商品 > カテゴリ</a>."
 "We saved the price alert subscription.","価格通知登録を保存しました。"
 "We saved the stock notification.","在庫通知を保存しました。"
 "There are no customers for this alert.",このアラートに顧客は登録されていません。
@@ -1227,7 +1227,7 @@ Comma-separated.,コンマ区切り
 "Year Range",年範囲
 "Please use a four-digit year format.","4桁の年フォーマットを使用してください。"
 "Product Image Watermarks",商品画像ウオーターマーク
-"Watermark Default Size",透かしディフォルトサイズ
+"Watermark Default Size",透かしデフォルトサイズ
 "Watermark Opacity, Percent",ウオーターマーク不透明度
 Watermark,透かし
 "Watermark Position",透かし位置
@@ -1260,7 +1260,7 @@ Watermark,透かし
 "New Products Names Only Template","新着商品名のみテンプレート"
 "New Products Images Only Template","新着商品画像のみテンプレート"
 "Cache Lifetime (Seconds)","キャッシュ有効期間 (秒)"
-"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","設定されて居ない場合86400がディフォルトです。今すぐ更新するには、ブロックHTMLアウトプットキャッシュをクリアしてください。"
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","設定されて居ない場合86400がデフォルトです。今すぐ更新するには、ブロックHTMLアウトプットキャッシュをクリアしてください。"
 "Catalog Product Link",商品リンク
 "Link to a Specified Product",指定商品にリンク
 "If empty, the Product Name will be used",空白の場合は商品名が使用されます
@@ -1476,10 +1476,10 @@ Configuration,設定
 "%1 An empty value is allowed as well.","%1 空の値も使うことが出来ます。"
 "Specify a fully qualified URL.","完全に用件を満たしたURLを指定してください"
 "Selected allowed currency ""%1"" is not available in installed currencies."," 選択された通貨""%1""はインストールされた通貨内で有効ではありません。"
-"Default display currency ""%1"" is not available in allowed currencies.","ディフォルト表示通貨 ""%1"" 許可された通貨内で有効ではありません。"
+"Default display currency ""%1"" is not available in allowed currencies.","デフォルト表示通貨 ""%1"" 許可された通貨内で有効ではありません。"
 "Sorry, we haven't installed the base currency you selected.","申し訳ありません、あなたが選択したベース通貨はインストールされておりません。"
-"Sorry, we haven't installed the default display currency you selected.","申し訳ありません、あなたが選択したディフォルト表示通貨はインストールされておりません。"
-"Sorry, the default display currency you selected in not available in allowed currencies.","申し訳ありません、あなたが選択したディフォルト表示通貨は許可された通貨内で有効でありません。"
+"Sorry, we haven't installed the default display currency you selected.","申し訳ありません、あなたが選択したデフォルト表示通貨はインストールされておりません。"
+"Sorry, the default display currency you selected in not available in allowed currencies.","申し訳ありません、あなたが選択したデフォルト表示通貨は許可された通貨内で有効でありません。"
 "Please correct the email address: ""%1"".","Eメールアドレスを修正してください: ""%1""."
 "The sender name ""%1"" is not valid. Please use only visible characters and spaces.","送信者名 ""%1"" は無効です。キャラクターとスペースのみ使用してください。"
 "Maximum sender name length is 255. Please correct your settings.",送信者名の長さは最大255文字です。設定を見なおしてください。
@@ -1499,7 +1499,7 @@ Configuration,設定
 "Never (production)","停止 (稼働中)"
 Bcc,BCC
 "Separate Email",分割メール
-"%1 (Default)","%1 (ディフォルト)"
+"%1 (Default)","%1 (デフォルト)"
 title,タイトル
 Optional,オプション
 "HTTP (unsecure)","HTTP (非セキュア)"
@@ -2029,7 +2029,7 @@ Copy,コピー
 "Search Engine Robots",検索エンジンロボット
 "Default Robots",標準のrobots.txt
 "Edit custom instruction of robots.txt File",robots.txtファイルのカスタムインストラクション編集
-"Reset to Defaults",ディフォルトにリセット
+"Reset to Defaults",デフォルトにリセット
 "This action will delete your custom instructions and reset robots.txt file to system's default settings.",このアクションはカスタムインストラクションを削除しrobot.txtファイルをシステムのデフォルト設定にリセットします
 "Logo Image Width",ロゴ画像幅
 "Logo Image Height",ロゴ画像高さ
@@ -2125,9 +2125,9 @@ Rate,レート
 "Items in Cart",カートの中の商品
 "Products in carts",カート内の商品
 Carts,カート
-"Wish Lists",ウィッシュリスト
-"Wish List Purchase",ウィッシュリスト購入
-"Wish List vs. Regular Order","ウィッシュリスト vs. 通常注文"
+"Wish Lists",欲しい物リスト
+"Wish List Purchase",欲しい物リスト購入
+"Wish List vs. Regular Order","欲しい物リスト vs. 通常注文"
 "Times Deleted",削除された時間
 "Index type is not valid",インデックスタイプが有効ではありません
 Reports,レポート
@@ -2175,7 +2175,7 @@ Statistics,統計
 "Select Date",日付を選択
 "Customers that have Wish List: %1%","お気に入りリストをお持ちの顧客: %1%"
 "Number of Wish Lists: %1","お気に入りリストの数: %1"
-"Number of items bought from a Wish List: %1","ウィッシュリストから買われた商品の数: %1"
+"Number of items bought from a Wish List: %1","欲しい物リストから買われた商品の数: %1"
 "Number of times Wish Lists have been shared (emailed): %1","お気に入りリストがシェアされた回数 (Eメール): %1"
 "Number of Wish List referrals: %1","お気に入りリストが参照された数: %1"
 "Number of Wish List conversions: %1","お気に入りリストコンバージョン数: %1"
@@ -2299,7 +2299,7 @@ Frequency,頻度
 "All Store Views",全てのストアビュー
 Admin,管理者
 "Current store is not active.",現在のストアはアクティブではありません
-"Only default scope allowed",ディフォルトのスコープのみ許可されます
+"Only default scope allowed",デフォルトのスコープのみ許可されます
 "Invalid scope object",無効なスコープオブジェクト
 "Store with the same code",同じコードの店舗です
 "Website with the same code",同じコードのウェブサイトです
@@ -2829,8 +2829,8 @@ Note:,メモ:
 "Tax Calculation Based On",税計算基準
 "Tax Classes",税区分
 "Tax Class for Shipping",配送の税区分
-"Default Tax Class for Product",ディフォルトの製品のための税クラス
-"Default Tax Class for Customer",ディフォルトの顧客のための税クラス
+"Default Tax Class for Product",デフォルトの製品のための税クラス
+"Default Tax Class for Customer",デフォルトの顧客のための税クラス
 "Calculation Settings",計算設定
 "Tax Calculation Method Based On",税計算方法の基準
 "Catalog Prices",カタログ価格
@@ -2870,7 +2870,7 @@ State/Region,都道府県
 "Region is invalid",市区町村は無効です。
 "Row with such email, website and address id combination was already found.",そのEメール、ウェブサイト、アドレスidの組み合わせの行はすでに見つかっています。
 "E-mail is duplicated in import file",Eメールはインポートファイル内で複製されています。
-"Orphan rows that will be skipped due default row errors",孤立した行はディフォルトの行エラーのためスキップされます。
+"Orphan rows that will be skipped due default row errors",孤立した行はデフォルトの行エラーのためスキップされます。
 "Invalid value in Store column (store does not exists?)",ストア列に不正な値（ストアが存在しない？）
 "E-mail and website combination is not found",Eメールとウェブサイトの組み合わせが見つかりません。
 "Invalid password length",不正なパスワードの長さ
@@ -2947,7 +2947,7 @@ Indeterminate,未定
 Offline,オフライン
 Online,オンライン
 "Deleted Stores",ストアを削除
-"There are no items in customer's Wish List at the moment.",現在顧客のウィッシュリストには商品がありません
+"There are no items in customer's Wish List at the moment.",現在顧客の欲しい物リストには商品がありません
 Download,ダウンロード
 "Delete Image",画像を削除
 "View Full Size",フルサイズで表示
@@ -3024,8 +3024,8 @@ Download,ダウンロード
 "An error occurred while resetting customer password.",カスタマーパスワードをリセット中にエラーが発生しました
 "You saved the customer.",カスタマーを保存しました
 "An error occurred while saving the customer.",顧客を保存中にエラーが発生しました。
-"Please define Wish List item ID.",ウィッシュリストのアイテムIDを定義してください
-"Please load Wish List item.",ウィッシュリストアイテムをロードしてください
+"Please define Wish List item ID.",欲しい物リストのアイテムIDを定義してください
+"Please load Wish List item.",欲しい物リストアイテムをロードしてください
 "Login successful.",ログインに成功しました
 "There was an error validating the username and password.",ユーザー名とパスワード確認エラーが発生しました
 """%1"" section source is not supported","%1""""セクションソースがサポートされていません"
@@ -3232,7 +3232,7 @@ Addresses,住所
 "Specify backend port for config file generation. If field is empty default value 8080 will be saved.","コンフィグファイルの
 世代のためのバックエンドポートを指定してください。もしフィールドが空白ならデフォルト値の8080が保存されます。"
 "TTL for public content",パブリックコンテントのためのTTL
-"Public content cache lifetime in seconds. If field is empty default value 86400 will be saved. ","パブリックコンテントキャッシュの寿命（秒）。 もしフィールドがからの場合はディフォルト値の86400が保存されます。 "
+"Public content cache lifetime in seconds. If field is empty default value 86400 will be saved. ","パブリックコンテントキャッシュの寿命（秒）。 もしフィールドがからの場合はデフォルト値の86400が保存されます。 "
 "Page Cache",ページキャッシュ
 "Full page caching.",フルページキャッシング
 "Ship to Multiple Addresses",複数の住所へ送る
@@ -3743,7 +3743,7 @@ Approved,承認
 "The nickname field can't be empty.",ニックネームフィールドは空白にできません
 "The review field can't be empty.",レビューフィールドは空白にできません
 "Rating isn't Available",評価することはできません
-"Please specify a rating title for a store, or we'll just use the default value.",ストアのレーティングタイトルを指定してください、もしくはディフォルト値を使用します
+"Please specify a rating title for a store, or we'll just use the default value.",ストアのレーティングタイトルを指定してください、もしくはデフォルト値を使用します
 "Assigned Options",割り当て済みのオプション
 "Option Title:",オプションのタイトル:
 Rating,レーティング
@@ -4141,7 +4141,7 @@ Authorization,認証
 Number,数
 "We found an invalid renderer model.",無効なレンダラーモデルを見つけました
 "Please define the PDF object before using.",PDFオブジェクトを使用前に定義してください
-"We don't recognize the draw line data. Please define the ""lines"" array.","引かれたラインデータを認識できません。 ""lines""のアレイを定義してください"
+"We don't recognize the draw line data. Please define the ""lines"" array.","引かれたラインデータを認識できません。 ""lines""の配列を定義してください"
 "Total (ex)",合計（税抜）
 "Total (inc)",合計（税込）
 "Credit Memo # ","クレジットメモ #"
@@ -4312,13 +4312,13 @@ Sku,商品番号
 "
                         Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.
                     ","
-                        あなたのディフォルトロゴがPDFとHTMLドキュメントに使われます<br />(jpeg, tiff, png) もしPDF画層が見づらいものであれば大きいファイルサイズの画像を使って下さい
+                        あなたのデフォルトロゴがPDFとHTMLドキュメントに使われます<br />(jpeg, tiff, png) もしPDF画層が見づらいものであれば大きいファイルサイズの画像を使って下さい
                     "
 "Logo for HTML Print View",HTML印刷画面のロゴ
 "
                         Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)
                     ","
-                        ロゴはHTMLドキュメントのみです。 もし空の場合はディフォルトが使われます<br />(jpeg, gif, png)
+                        ロゴはHTMLドキュメントのみです。 もし空の場合はデフォルトが使われます<br />(jpeg, gif, png)
                     "
 "Minimum Amount",最小個数
 "Subtotal after discount",ディスカウント後の小計
@@ -4328,9 +4328,9 @@ Sku,商品番号
 "Error to Show in Shopping Cart",ショッピングカートに表示するエラーメッセージ
 "Validate Each Address Separately in Multi-address Checkout",複数配送先チェックアウトで個別に配送先を検証する
 "Multi-address Description Message",複数住所概要メッセージ
-"We'll use the default description above if you leave this empty.",これを空にすると上部のディフォルト詳細が使われます
+"We'll use the default description above if you leave this empty.",これを空にすると上部のデフォルト詳細が使われます
 "Multi-address Error to Show in Shopping Cart",ショッピングカート内に表示する複数住所エラーメッセージ
-"We'll use the default error above if you leave this empty.",これを空にすると上部のディフォルトエラーが使われます
+"We'll use the default error above if you leave this empty.",これを空にすると上部のデフォルトエラーが使われます
 "Use Aggregated Data (beta)","合計データを使用する (ベータ版)"
 "Sales Emails",セールスメール
 "Asynchronous sending",非同期送付
@@ -4549,7 +4549,7 @@ Yes/No,Yes/No
 "Cannot delete attribute.",属性は削除できません
 "Attribute with id ""%1"" does not exist.","id ""%1""の属性は存在しません "
 "There was an error saving attribute set.",属性セットの保存でエラーがありました
-"Default attribute set can not be deleted",ディフォルト属性セットは削除できません
+"Default attribute set can not be deleted",デフォルト属性セットは削除できません
 "There was an error deleting attribute set.",属性セットの削除でエラーがありました
 "Invalid entity_type specified: %1","不正なエンティティタイプが指定されました: %1"
 "Entity is not initialized",エンティティのインスタンスが未作成です
@@ -4819,7 +4819,7 @@ Amounts,売上高
 "Average Order",平均的オーダー
 "Media (.avi, .flv, .swf)","メディアファイル(.avi, .flv, .swf)"
 "Interface Language",言語
-"Reset to Default",ディフォルトにリセット
+"Reset to Default",デフォルトにリセット
 "Save Account",アカウントの保存
 "Save Cache Settings",キャッシュ設定を保存
 "Catalog Rewrites",カタログ書き換え
@@ -5286,11 +5286,11 @@ Service,サービス
 "Form elements factory was not set",フォーム要素ファクトリーはセットされていません
 "Component of the type ""%1"" is not found between elements of ""%2""","タイプ """"%1""""の構成は """"%2""""の要素の間には見つかりませんでした。"
 "Restore last saved version of theme",最後に保存したテーマのバージョンの復元
-"Restore theme defaults",テーマのディフォルトの復元
+"Restore theme defaults",テーマのデフォルトの復元
 "Do you want to restore the version saved at %1?"," %1で保存されたバージョンを復元しますか？"
 "Restore Theme Version",テーマバージョンを復元
-"Do you want to restore the theme defaults?",テーマディフォルトを復元しますか？
-"Restore Theme Defaults",テーマディフォルトを復元
+"Do you want to restore the theme defaults?",テーマデフォルトを復元しますか？
+"Restore Theme Defaults",テーマデフォルトを復元
 Assign,割り当て
 "Save & Assign","保存 & アサイン"
 "You changed the design of your live store. Are you sure you want to do that?",本番ストアのデザインを変更しました。よろしいですか？
@@ -5335,7 +5335,7 @@ Duplicate,複製
 "This theme is not saved.",このテーマは保存されていません
 "Theme ""%1"" is not editable.","テーマ""""%1""""は編集可能ではないです"
 "Theme ""%1"" reverted to last saved state","テーマ """"%1""""は最後に保存された状態に戻されました"
-"Theme ""%1"" reverted to last default state","テーマ """"%1""""は最後にディフォルトにされた状態に戻されました"
+"Theme ""%1"" reverted to last default state","テーマ """"%1""""は最後にデフォルトにされた状態に戻されました"
 "Invalid revert mode ""%1"""," 不正なリバートモード""""%1"""""
 "Unknown error",不明なエラー
 "You updated your live store.",本番ストアをアップデートしました
@@ -5369,7 +5369,7 @@ Duplicate,複製
 "(Hold down button for options)",(オプションのためにボタンを押し続けてください)
 "Edit Text",テキスト編集
 "Close Message",メッセージを閉じる
-"Update the CSS code to overwrite the default styles or upload your own CSS file.",ディフォルトスタイルを書き換えるのにCSSコードをアップロードするか自身のCSSファイルをアップロードしてください
+"Update the CSS code to overwrite the default styles or upload your own CSS file.",デフォルトスタイルを書き換えるのにCSSコードをアップロードするか自身のCSSファイルをアップロードしてください
 "Upload File",ファイルアップロード
 "Upload Custom CSS",カスタムCSSをアップロード
 "Download File",ダウンロードファイル
@@ -5390,7 +5390,7 @@ Duplicate,複製
 "We can't load the theme right now.",現在テーマをロードできません
 "No stores were reassigned.",再アサインされたストアはありません
 "Assign theme to your live store-view:",本番ストアビューにテーマをアサインして下さい:
-"Default title",ディフォルトタイトル
+"Default title",デフォルトタイトル
 "The URL to assign stores is not defined.",ストアにアサインするURLは定義されていません
 "We can't revert right now.",現在元に戻すことはできません
 "Error: unknown error.",エラー:不明なエラー
@@ -5511,8 +5511,8 @@ bla,bla
 phrase,フレーズ
 Exception,例外
 "Not Valid!","不正です!"
-"When passing in a field array there must be a matching condition array.","フィールドアレイをパスする時、マッチする条件アレイがなければなりません。"
-"When passing an array of fields there must be at least one field in the array.","フィールドのアレイをパスする時、アレイには少なくともひとつフィールドがなければなりません。"
+"When passing in a field array there must be a matching condition array.","フィールド配列をパスする時、マッチする条件配列がなければなりません。"
+"When passing an array of fields there must be at least one field in the array.","フィールドの配列をパスする時、配列には少なくともひとつフィールドがなければなりません。"
 "The image content must be valid base64 encoded data.","画像コンテントは有効なベース64エンコードデータでなければなりません。"
 "The image MIME type is not valid or not supported.","画像MIMEタイプは有効ではないかサポートされておりません。"
 "Provided image name contains forbidden characters.","提供された画像名には禁則文字が含まれています。"
@@ -5564,7 +5564,7 @@ dummy,ダミー
 "Could not read config file","コンフィグファイルが読めません"
 .,.
 "Root element must not be empty or numeric","ルート要素は空あるいは数字であってはいけません"
-"Array root keys must not be numeric.","アレイルートキーは数字であってはいけません"
+"Array root keys must not be numeric.","配列ルートキーは数字であってはいけません"
 "Associative key must not be the same as its parent associative key.","アソシエイティブキーは親のアソシエイティブキーと同じであってはいけません。"
 "Associative and numeric keys must not be mixed at one level.","アソシエイティブと数字キーは１つのレベルで混ぜてはいけません。"
 "dbModel read resource does not implement \Magento\Framework\DB\Adapter\AdapterInterface","dbModel 読み込みソースは \Magento\Framework\DB\Adapter\AdapterInterface　を実装しません。"
@@ -5585,8 +5585,8 @@ dummy,ダミー
 "%1 doesn't implement \Magento\Framework\DB\QueryInterface","%1 は implement \Magento\Framework\DB\QueryInterface を実装しません"
 "db object does not implement \Magento\Framework\DB\Adapter\AdapterInterface","db object は \Magento\Framework\DB\Adapter\AdapterInterface を実装しません"
 "db object is not set in config","db object はコンフィグで設定されていません"
-"Empty array of node information","ノード情報の空のアレイ"
-"Empty keys array","空のキーアレイ"
+"Empty array of node information","ノード情報の空の配列"
+"Empty keys array","空のキー配列"
 "Missed Mapper Interface for Criteria Interface: %1","クライテリアインターフェイスのマッパーインターフェイスが欠けています: %1"
 "Filter already exists in Criteria object: %1","クライテリアオブジェクトにフィルターがすでに存在します: %1"
 "Not implemented","実装されていません"
@@ -5594,17 +5594,17 @@ dummy,ダミー
 "%1 should be an iterator","%1 はイテレータでなくてはなりません"
 "Element ID must not be numeric: '%1'.","エレメントIDは数字ではいけません: '%1'." 
 "Invalid format of group '%1': %2","グループの不正なフォーマット '%1': %2"
-"Broken parent-child relation: the '%1' is not in the nested set of '%2'.","壊れたペアレント-チャイルド関係: '%1' は '%2'のネストしたセットに入っていません。"
-"Invalid format of children: %1","チャイルドの不正なフォーマットです: %1"
-"Broken parent-child relation: the '%1' is supposed to have '%2' as parent.","壊れたペアレント-チャイルド関係:'%1' は'%2'を親とするはずです。"
+"Broken parent-child relation: the '%1' is not in the nested set of '%2'.","壊れた親子関係: '%1' は '%2'のネストしたセットに入っていません。"
+"Invalid format of children: %1","子要素の不正なフォーマットです: %1"
+"Broken parent-child relation: the '%1' is supposed to have '%2' as parent.","壊れた親子関係:'%1' は'%2'を親とするはずです。"
 "Element with ID '%1' already exists.","ID '%1' のエレメントは既に存在します。"
 "Element with ID '%1' is already defined.","ID '%1' のエレメントは既に定義されています。"
-"The '%1' cannot be set as child to itself.","'%1' はそれ自体にチャイルドとして設定できません。"
-"The '%1' is a parent of '%2' recursively, therefore '%3' cannot be set as child to it.","'%1'は再帰的に'%2'のペアレントです, そのため '%3'はチャイルドとしてそれ自体を設定できません。"
-"The '%1' is not a child of '%2'.","'%1'は'%2'のチャイルドではありません。"
-"The element '%1' already has a parent: '%2'","エレメント'%1'は既にペアレントがあります: '%2'"
-"The element '%1' already a child of '%2'","エレメント'%1'は'%2'のチャイルドです"
-"The element '%1' already has a child with alias '%2'","エレメント'%1'はエイリアス'%2'のチャイルドです"
+"The '%1' cannot be set as child to itself.","'%1' はそれ自体に子要素として設定できません。"
+"The '%1' is a parent of '%2' recursively, therefore '%3' cannot be set as child to it.","'%1'は再帰的に'%2'の親要素です, そのため '%3'は子要素としてそれ自体を設定できません。"
+"The '%1' is not a child of '%2'.","'%1'は'%2'の子要素ではありません。"
+"The element '%1' already has a parent: '%2'","エレメント'%1'は既に親要素があります: '%2'"
+"The element '%1' already a child of '%2'","エレメント'%1'は'%2'の子要素です"
+"The element '%1' already has a child with alias '%2'","エレメント'%1'はエイリアス'%2'の子要素です"
 "An array expected: %1","期待される配列: %1"
 "Invalid method %1::%2(%3)","無効なメソッド %1::%2(%3)"
 "Object already exists in registry (%1). Old object class: %2, new object class: %3","レジストリー (%1)にオブジェクトは既に存在します。 古いオブジェクトクラス: %2, 新しいオブジェクトクラス: %3"
@@ -5688,7 +5688,7 @@ msg,msg
 "The rollback file does not exist.","ロールバックファイルは存在しません。"
 "exec function is disabled.","exeファンクションは無効です。"
 "Command returned non-zero exit code:
-`%1`","コマンドはゼロイグジットではないコードを返しました:
+`%1`","コマンドは0ではない終了コードを返しました:
 `%1`"
 "Unable to delete the cookie with cookieName = %name","cookie でcookieNameのものは削除できませんでした = %name"
 "Unable to send the cookie with cookieName = %name","名前が以下のcookieを送ることができませんでした = %name"
@@ -5718,7 +5718,7 @@ Redirecting...,描写中...
 "Object DOMDocument should be created.","オブジェクト DOMDocument は作成されなければなりません。"
 "The requested component (""' . . '"") is not found. ' . 'Before using, you must add the implementation.","要求されたコンポーネント (""' . . '"") は見つかりません。 ' . '使用前に実装を追加しなければなりません。"
 "You use an empty set.","空のセットを使っています"
-"Trying to override modular view file '%1' for theme '%2', which is not ancestor of theme '%3'","テーマ'%2'、テーマ'%3'の先祖、のためのモジュールヴューファイル '%1'を書き換える"
+"Trying to override modular view file '%1' for theme '%2', which is not ancestor of theme '%3'","テーマ'%2'、テーマ'%3'の先祖、のためのモジュールビューファイル '%1'を書き換える"
 "Invalid block type","不正なブロックタイプ"
 "Html tag ""%1"" is forbidden for usage in containers. Consider to use one of the allowed: %2.","Html タグ ""%1""コンテイナーで使用されるのは禁止されています。  許可されたものを使用してください: %2."
 "HTML ID or class will not have effect, if HTML tag is not specified.","HTMLタグが指定されていないと、HTML IDかクラスは効果がありません。"
@@ -5734,7 +5734,7 @@ Redirecting...,描写中...
 "This class must implement the ""ResultInterface""","このクラスは ""ResultInterface""を実装しなければなりません"
 "This class must inherit from a class ""Template""","このクラスはクラス""Template""から受け継がれなければなりません"
 "my message","マイメッセージ"
-"Internal Error. Details are available in Magento log file. Report ID: %1","内部エラー。 詳細はMagentoログ・ファイルにあります。 レポート ID: %1"
+"Internal Error. Details are available in Magento log file. Report ID: %1","内部エラー。 詳細はMagentoログファイルにあります。 レポート ID: %1"
 "Server internal error. See details in report api/%1","サーバー内部エラー。 レポート api/%1内で詳細を御覧ください"
 "Incorrect format of request URI or Requested services are missing.","要求URIの誤ったフォーマットか要求されたサービスが不明"
 "Content-Type header is empty.","Content-Type ヘッダーは空です"
@@ -5806,19 +5806,19 @@ void,無効
 "Something went wrong. Please try again.","問題が発生しました。再度お試しください。"
 "You deleted the store.","ストアを削除しました。"
 "Unable to delete store. Please, try again later.","ストアを削除できませんでした。後で再度お試しください。"
-"You deleted the store view.","ストアヴューを削除しました。"
-"Unable to delete store view. Please, try again later.","ストアヴューを削除できませんでした。後で再度お試しください。"
+"You deleted the store view.","ストアビューを削除しました。"
+"Unable to delete store view. Please, try again later.","ストアビューを削除できませんでした。後で再度お試しください。"
 "You deleted the website.","ウェブサイトが削除されました。"
 "Unable to delete website. Please, try again later.","ウェブサイトが削除できませんでした。後で再度お試しください。"
 "Before modifying the website code please make sure it is not used in index.php.","ウェブサイトコードを変更する前に、index.php内で使われてないことを確認してください。"
-"Before modifying the store view code please make sure it is not used in index.php.","ストアヴューを変更する前に、inde.php内で使われてないことを確認してください。"
+"Before modifying the store view code please make sure it is not used in index.php.","ストアビューを変更する前に、inde.php内で使われてないことを確認してください。"
 "You saved the website.","ウェブサイトを保存しました。"
 "You saved the store.","ストアを保存しました。"
-"You saved the store view.","ストアヴューを保存しました。"
+"You saved the store view.","ストアビューを保存しました。"
 "Something went wrong while saving. Please review the error log.","保存中に問題が発生しました。エラーログを参照してください。"
 "Copyright&copy; %1 Magento Commerce Inc. All rights reserved.","Copyright&copy; %1 Magento Commerce Inc. All rights reserved."
 "Flush Static Files Cache","静的ファイルcache削除"
-"Preprocessed view files and static files","プリプロセスヴューファイルと静的ファイル"
+"Preprocessed view files and static files","プリプロセスビューファイルと静的ファイル"
 "This tab contains invalid data. Please resolve this before saving.","このタブは無効なデータが含まれています。保存前に解決してください。"
 "To create the backup, please deselect ""Put store into maintenance mode"" or update your permissions.","バックアップを作るために、 ""Put store into maintenance mode"" の選択を外すか権限をアップデートしてください。"
 "Something went wrong while putting your store into maintenance mode.","ストアをメンテナンスモードに変更中に問題が発生しました。"
@@ -5857,7 +5857,7 @@ FTP,FTP
 "We can't initialize checkout.","チェックアウトを初期化できません。"
 "We can't place the order.","注文を行えません。"
 "Incorrect payment method.","無効な支払い方法。"
-"We can't initialize checkout review.","チェックアウトレヴューを初期化できません。"
+"We can't initialize checkout review.","チェックアウトレビューを初期化できません。"
 "We can't update shipping method.","発送方法をアップデートできません。"
 "The processor declined your transaction, please re-enter your payment information","プロセッサーがトランザクションを却下しましたので、支払い情報を再度入力してください。"
 "Transaction declined by gateway: Check card details or try another card","ゲートウェイによってトランザクションが却下されました: カード詳細をチェックするか別のカードをお試しください"
@@ -5946,7 +5946,7 @@ Relevance,関係性
 "Edit Attribute Set Name","属性セット名を編集"
 "Add Attribute Set","属性セット追加"
 "Attribute Sets","属性セット"
-"If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products > Categories</a>.","カスタム親カテゴリがない場合、ディフォルトの親カテゴリを使用してください。 <a href=""%1"" target=""_blank"">Products >カテゴリにていつでもカテゴリを再度アサインできます。</a>."
+"If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products > Categories</a>.","カスタム親カテゴリがない場合、デフォルトの親カテゴリを使用してください。 <a href=""%1"" target=""_blank"">Products >カテゴリにていつでもカテゴリを再度アサインできます。</a>."
 "Add Price","価格追加"
 "Change Status","ステータス変更"
 "Images and Videos","画像と動画"
@@ -6044,7 +6044,7 @@ RuntimeException,RuntimeException
 "Delete ""${ $.$data.title }""","削除 ""${ $.$data.title }"""
 "Are you sure you wan't to delete a ""${ $.$data.title }"" record?","本当に ""${ $.$data.title }"" レコードを削除しますか？"
 "Something went wrong while saving this configuration:","この設定を保存中に問題が発生しました:"
-"Sorry, the default display currency you selected is not available in allowed currencies.","申し訳ありません、許可された貨幣の中で選択されたディフォルト表示通貨は存在しません。"
+"Sorry, the default display currency you selected is not available in allowed currencies.","申し訳ありません、許可された貨幣の中で選択されたデフォルト表示通貨は存在しません。"
 "'The specified image adapter cannot be used because of: ' .","'以下の理由で指定された画像アダプターは使用できません: ' ."
 "The file ""' . . '"" does not exist","ファイル ""' . . '"" は存在しません"
 "Add configurable attributes to the current Attribute Set (""%1"")","設定可能な属性を現在の属性セット (""%1"")に追加"
@@ -6203,8 +6203,8 @@ kgs,kgs
 "Is this downloadable Product?","これはダウンロード商品ですか？"
 "Add links to your product files here.","ここの製品ファイルへのリンクを追加"
 "Attach File or Enter Link","ファイル添付かリンク入力"
-"Add product preview files here.","ここに製品プレヴューファイルを追加"
-"Default label","ディフォルトラベル"
+"Add product preview files here.","ここに製品プレビューファイルを追加"
+"Default label","デフォルトラベル"
 "An attribute code must not be more than %1 characters.","属性コードは%1文字以上ではなりません。"
 "'Invalid backend model specified: ' .","'不正なバックエンドモデルが指定されました: ' ."
 "The value of attribute not valid","属性の値は有効ではありません"
@@ -6394,7 +6394,7 @@ Help,ヘルプ
 "Express Checkout has been canceled.","エクスプレスチェックアウトはキャンセルされました。"
 "Unable to cancel Express Checkout","エクスプレスチェックアウトはキャンセルできません。"
 "We can't process Express Checkout approval.","エクスプレスチェックアウト商品は処理できません。"
-"We can't initialize Express Checkout review.","エクスプレスチェックアウトリヴューは初期化できません。"
+"We can't initialize Express Checkout review.","エクスプレスチェックアウトリビューは初期化できません。"
 "To check out, please sign in with your email address.",チェックアウトするのは、Eメールアドレスでサインインしてください。"
 "We can't start Express Checkout.","エクスプレスチェックアウトをスタートできません。"
 "Your payment has been declined. Please try again.","支払いが拒否されました。再度お試しください。"
@@ -6440,7 +6440,7 @@ Sale,セール
 "The payment eCheck is not cleared.","支払いeCheckはクリアされていません。"
 "The merchant holds a non-U.S. account and doesn't have a withdrawal mechanism.","商品はUS外のアカウントを持っており引き落としの方法を持っておりません。"
 "The payment currency doesn't match any of the merchant's balances currency.","支払い通貨はどの商店の残高の通貨とマッチしません。"
-"The payment is pending while it is being reviewed by PayPal for risk.","PayPalに危険がないかリヴューされている間支払いは保留されています。"
+"The payment is pending while it is being reviewed by PayPal for risk.","PayPalに危険がないかリビューされている間支払いは保留されています。"
 "The payment is pending because it was made to an email address that is not yet registered or confirmed.","まだ登録されてないか確認されてないEメールアドレス宛てになっているので支払いは保留されています。"
 "The merchant account is not yet verified.","商店アカウントは確認されておりません。"
 "The payment was made via credit card. In order to receive funds merchant must upgrade account to Business or Premier status.","支払いはクレジットカードでおこなわれました。"
@@ -6683,11 +6683,11 @@ Create...,作成...
 "Click here to stop alerts for this product.","この商品のアラートを止めるにはここを押して下さい。"
 "In stock alert! We wanted you to know that these products are now available:","在庫アラート！ これらの商品が購入可能であることをお知らせします:"
 Url,Url
-"Preview Image","プレヴュー画像"
+"Preview Image","プレビュー画像"
 "Get Video Information","ビデオ情報取得"
 "YouTube and Vimeo supported.","YouTubeとビデオはサポートされます"
 "Vimeo supported.<br />To add YouTube video, please <a href=""%1"">enter YouTube API Key</a> first.","Vimeo サポートされています。<br />YouTube ビデオを追加するには, まず <a href=""%1"">YouTube API キー入力</a> してください。"
-"Could not get preview image information. Please check your connection and try again.","プレヴュー画像情報を得られませんでした。 接続を確認して再度お試し下さい。"
+"Could not get preview image information. Please check your connection and try again.","プレビュー画像情報を得られませんでした。 接続を確認して再度お試し下さい。"
 "Click here to add videos.","ここをクリックしてビデオを追加してください。"
 "New Video","新規ビデオ"
 "Add Video","ビデオ追加"
@@ -6706,18 +6706,18 @@ Duration:,長さ:
 "You refreshed lifetime statistics.","統計をリフレッシュしました。"
 "Customers that have Wish List: %1","お気入りリストを持つ顧客: %1"
 Author,作者
-"Click <a href=""%1"">here</a> to see the review.","<a href=""%1"">ここ</a>をクリックしてリヴューをみる。"
-"Something went wrong  deleting this review.","このリヴューを削除中に問題が発生しました。"
+"Click <a href=""%1"">here</a> to see the review.","<a href=""%1"">ここ</a>をクリックしてリビューをみる。"
+"Something went wrong  deleting this review.","このリビューを削除中に問題が発生しました。"
 "We can't retrieve the product ID.","製品IDが取得できません。"
 "Something went wrong while deleting these records.","レコードを削除中に問題が発生しました。"
-"Something went wrong while updating these review(s).","これらのリヴューをアップデート中に問題が発生しました。"
-"You submitted your review for moderation.","モデレーションのためにリヴューを投稿しました。"
-"We can't post your review right now.","現在リヴューを投稿できません。"
-"Please enter a review summary.","リヴューサマリーを入力してください。"
+"Something went wrong while updating these review(s).","これらのリビューをアップデート中に問題が発生しました。"
+"You submitted your review for moderation.","モデレーションのためにリビューを投稿しました。"
+"We can't post your review right now.","現在リビューを投稿できません。"
+"Please enter a review summary.","リビューサマリーを入力してください。"
 "Please enter a nickname.","ニックネームを入力してください。"
-"Please enter a review.","リヴューを入力してください。"
+"Please enter a review.","リビューを入力してください。"
 "See Details","詳細を御覧ください"
-"Only registered users can write reviews. Please, <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","登録済みユーザーのみリヴューを書くことができます。 <a href=""%1"">サインイン</a> か <a href=""%2"">アカウントを作成</a>してください。"
+"Only registered users can write reviews. Please, <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","登録済みユーザーのみリビューを書くことができます。 <a href=""%1"">サインイン</a> か <a href=""%2"">アカウントを作成</a>してください。"
 "Please choose a valid discount amount.","有効なディスカウント額を選択してください。"
 "Please specify Customer Groups.","カスタマーグループを指定してください。"
 "Apply the rule only to cart items matching the following conditions (leave blank for all items).","ルールは以下の条件にマッチするカートアイテムに適用して下さい (全ての商品のためには空白のままで)。"
@@ -6817,12 +6817,12 @@ Invitee,送信先
 "Website code may only contain letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.","ウェブサイトコードは文字 (a-z), 数字 (0-9) かアンダースコア (_)を含んでいなければなりません、そして最初のキャラクターは文字でなければなりません。"
 "The store code may contain only letters (a-z), numbers (0-9) or underscore (_), and the first character must be a letter.","ストアコードは文字 (a-z), 数字 (0-9) かアンダースコア (_)を含んでいなければなりません、そして最初のキャラクターは文字でなければなりません。"
 "Store is inactive","ストアは無効です"
-"Default store is inactive","ディフォルトストアは無効です"
-"More than one default website is defined","１つ以上のディフォルトウェブサイトが定義されています"
-"Default website is not defined","ディフォルトウェブサイトは定義されていません"
+"Default store is inactive","デフォルトストアは無効です"
+"More than one default website is defined","１つ以上のデフォルトウェブサイトが定義されています"
+"Default website is not defined","デフォルトウェブサイトは定義されていません"
 "Swatch Helper: not valid parameter for product instantiation","見本ヘルパー: 製品インスタンス化のための正しくないパラメーター"
 "Admin is a required field in the each row","管理者は各行は必須フィールドです"
-"Update Product Preview Image","製品プレヴュー画像を更新"
+"Update Product Preview Image","製品プレビュー画像を更新"
 "Filtering by this attribute will update the product image on catalog page","この属性でのフィルタリングはカタログページの製品画像を更新します。"
 "Use Product Image for Swatch if Possible","可能であれば製品画像を見本のために使用してください"
 "Allows use fallback logic for replacing swatch image with product swatch or base image","見本画像を商品見本かベース画像と交換するためにフォールバックロジックの使用を許可"
@@ -7005,7 +7005,7 @@ Attention,注目
 "Test Field","テストフィールド"
 "Merchant Location","商店の場所"
 "Merchant Country","商店の国"
-"If not specified, Default Country from General Config will be used","指定されてなければ、一般設定のディフォルトの国が使われます"
+"If not specified, Default Country from General Config will be used","指定されてなければ、一般設定のデフォルトの国が使われます"
 "
                     PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>
                 ","
@@ -7033,7 +7033,7 @@ Vendor,ベンダー
 "Proxy Port","プロキシーポート"
 "Enable this Solution","このSolutionを有効にする"
 "Basic Settings - PayPal Payflow Pro","基本設定 - PayPal Payflow Pro"
-"It is recommended to set this value to ""Debit or Credit Card"" per store views.","この値をストアヴュー毎""デビットかクレジットカード""にセットすることをおすすめします。"
+"It is recommended to set this value to ""Debit or Credit Card"" per store views.","この値をストアビュー毎""デビットかクレジットカード""にセットすることをおすすめします。"
 "Payment Action","支払いアクション"
 "Credit Card Settings","クレジットカード設定"
 "
@@ -7112,14 +7112,14 @@ Vendor,ベンダー
 "Publisher ID","パブリッシャーID"
 "Required to display a banner","バナー表示必須"
 "Get Publisher ID from PayPal","PayPalよりパブリッシャーIDを入手"
-"It is recommended to set this value to ""Magento_Paypal"" per store views.","ストアヴューごとにこの値を""Magento_Paypal""に設定することをお勧めします。"
+"It is recommended to set this value to ""Magento_Paypal"" per store views.","ストアビューごとにこの値を""Magento_Paypal""に設定することをお勧めします。"
 "Display on Product Details Page","商品詳細ページに表示"
 "Authorization Honor Period (days)","認証オナー期間 (日)"
 "Specifies what the Authorization Honor Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","商店のPayPalアカウントにて認証オナー期間が何かを指定。PayPalの設定を反映させてなければなりません。"
 "Order Valid Period (days)","注文有効期間 (日)"
 "Specifies what the Order Valid Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","商店のPayPalアカウントでの注文有効期間がなんであるか指定します。PayPalでの設定と同じでなければなりません。"
 "Number of Child Authorizations","子の認証の数"
-"The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase.","あなたのPayPalアカウントの子の認証のディフォルト値は1です。複数認証をおこなうにはPayPalに増やすように要求する連絡をしてください。"
+"The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase.","あなたのPayPalアカウントの子の認証のデフォルト値は1です。複数認証をおこなうにはPayPalに増やすように要求する連絡をしてください。"
 "Display on Shopping Cart","ショッピングカートに表示"
 "Also affects mini-shopping cart.","ミニショッピングカートにも影響します。"
 "Transfer Cart Line Items","トランスファーカートラインアイテム"
@@ -7138,7 +7138,7 @@ Vendor,ベンダー
                             ","
                                 商店は支払い契約機能を有効化するためにPayPalに申し込みする必要があります。PayPalがあなたの商店アカウントの支払い契約が有効化されたことを確認するまでこのオプションを有効化しないでください。
                             "
-"Skip Order Review Step","注文リヴューステップをとばす"
+"Skip Order Review Step","注文リビューステップをとばす"
 "PayPal Billing Agreement Settings","PayPal支払い契約設定"
 "
                                     Will appear as a payment option only for customers who have at least one active billing agreement.
@@ -7148,7 +7148,7 @@ Vendor,ベンダー
 "Allow in Billing Agreement Wizard","支払い契約ウィザード内で許可"
 "SFTP Credentials","SFTP証明書"
 "Custom Endpoint Hostname or IP-Address","カスタムエンドポイントホスト名かIPアドレス"
-"By default it is ""reports.paypal.com"".","ディフォルトは ""reports.paypal.com""."
+"By default it is ""reports.paypal.com"".","デフォルトは ""reports.paypal.com""."
 "Use colon to specify port. For example: ""test.example.com:5224"".","コロンを使用してポートを指定してください。例: ""test.example.com:5224""."
 "Custom Path","カスタムパス"
 "Scheduled Fetching","スケジュールされた入手"
@@ -7163,7 +7163,7 @@ Schedule,スケジュール
 "
                                     Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).
                                 ","
-                                    許可される値: ""paypal"", ""primary"" (ディフォルト), your_custom_value (あなたの商店アカウントプロフィールのカスタムペイメントページスタイル).
+                                    許可される値: ""paypal"", ""primary"" (デフォルト), your_custom_value (あなたの商店アカウントプロフィールのカスタムペイメントページスタイル).
                                 "
 "Header Image URL","ヘッダー画像URL"
 "
@@ -7253,7 +7253,7 @@ Schedule,スケジュール
 "1 column modified","1コラム変更"
 "86400 by default, if not set. To refresh instantly, clear the Blocks HTML
                     Output cache.
-                ","設定されていなければディフォルトで86400。 すぐに更新するには、ブロックHTMLアウトプットcacheをクリアしてください。
+                ","設定されていなければデフォルトで86400。 すぐに更新するには、ブロックHTMLアウトプットcacheをクリアしてください。
                 "
 "Test Indexer Declaration","テストインデクサー宣言"
 "Invalid provider attribute value","不正なプロバイダー属性値"
@@ -7282,11 +7282,11 @@ Two,ツー
 "Authorize.net Direct Post","Authorize.net Direct Post"
 "API Login ID","APIログインID"
 "Transaction Key","トランザクションキー"
-"Merchant MD5","商店MD5"
+"Merchant MD5","マーチャントMD5"
 "Transaction Details URL","トランザクション詳細URL"
 "Accepted Currency","受け付ける通貨"
 "Email Customer","顧客にEメール"
-"Merchant's Email","商店のEメール"
+"Merchant's Email","マーチャントEメール"
 "Credit Card Types","クレジットカードタイプ"
 "Credit Card Verification","クレジットカード認証"
 "Enabled Template Path Hints for Storefront","ストアのためのテンプレートパスヒントを有効化"
@@ -7296,7 +7296,7 @@ Two,ツー
 "CSS Settings","CSS設定"
 "Top destinations","最もアクセスされる箇所"
 "Store Hours of Operation","営業時間"
-"Email template chosen based on theme fallback when ""Default"" option is selected."," ""ディフォルト""オプションが選択された時、Eメールのテンプレートはテーマの代替を元に選ばれます。 "
+"Email template chosen based on theme fallback when ""Default"" option is selected."," ""デフォルト""オプションが選択された時、Eメールのテンプレートはテーマの代替を元に選ばれます。 "
 "You will have to sign in after you save your custom admin path.","カスタム管理者パスを設定の後にサインインしなければなりません。"
 "Auto-redirect to Base URL","ベースURLに自動リダイレクト"
 "Use Secure URLs on Storefront","ストアにてセキュアURLを使用"
@@ -7306,8 +7306,8 @@ Braintree,ブレインツリー
 "Enable PayPal through Braintree","ブレインツリーを通してPayPalを有効化"
 "Basic Braintree Settings","基本ブレインツリー設定"
 Environment,環境
-"Merchant Account ID","商店アカウントID"
-"Merchant ID","商店ID"
+"Merchant Account ID","マーチャントアカウントID"
+"Merchant ID","マーチャントID"
 "Public Key","パブリックキー"
 "Private Key","プライベートキー"
 "Advanced Braintree Settings","高度ブラインツリー設定"
@@ -7342,25 +7342,25 @@ Storefront,ストア
 Payment,支払い
 "Cart Subtotal","小計"
 "Not yet calculated","未確定"
-"We received your order!","注文を受け取りました！"
+"We received your order!","ご注文を受け付けいたしました！"
 "Select Page...","選択ページ..."
 "Select Block...","選択ブロック..."
 "Are you sure you wan't to delete selected items?","本当に選択した商品を削除しますか？"
 "Show VAT Number on Storefront","VAT番号をストアで表示"
 "To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.","ストアでVAT番号表示するには、 Show VAT Number on Storefront オプションをYesに設定。"
-"Default Welcome Email Without Password","ディフォルトのパスワード無しようこそEメール"
+"Default Welcome Email Without Password","デフォルトのパスワード無しようこそEメール"
 "
                         This email will be sent instead of the Default Welcome Email, if a customer was created without password. <br /><br />
                         Email template chosen based on theme fallback when ""Default"" option is selected.
                     ","
-                        もし顧客がパスワードなしで作成されると、このEメールはディフォルトようこそメールが代わりに送られます。 <br /><br />
+                        もし顧客がパスワードなしで作成されると、このEメールはデフォルトようこそメールが代わりに送られます。 <br /><br />
                         ""Default""オプションが選ばれた時、テーマ代替に基づくEメールテンプレートが選ばれます。 
                     "
 "
                         This email will be sent instead of the Default Welcome Email, after account confirmation. <br /><br />
                         Email template chosen based on theme fallback when ""Default"" option is selected.
                     ","
-                        アカウントが確認された後にこのEメールがディフォルトのようこそメールの代わりに送られます。 <br /><br />
+                        アカウントが確認された後にこのEメールがデフォルトのようこそメールの代わりに送られます。 <br /><br />
                         ""Default""オプションが選ばれた時、テーマ代替に基づくEメールテンプレートが選ばれます。
                     "
 "
@@ -7381,7 +7381,7 @@ Payment,支払い
 "Tax VAT Number","税VAT番号"
 "Billing Firstname","支払人の名"
 "Billing Lastname","支払い人の姓"
-"If your Magento site has multiple views, you can set the scope to apply to a specific view.","もしあなたのMagentoサイトが複数のヴューをもっているのであれば、 特定のヴューを適用できるようにスコープを設定できます。"
+"If your Magento site has multiple views, you can set the scope to apply to a specific view.","もしあなたのMagentoサイトが複数のビューをもっているのであれば、 特定のビューを適用できるようにスコープを設定できます。"
 "Send Welcome Email From","ようこそメールの送り元"
 "Account Dashboard","アカウントダッシュボード"
 "You are signed out.","サインアウトしました"
@@ -7398,7 +7398,7 @@ Emails,Eメール
 "Error File","エラーファイル"
 "Execution Time","実行時間"
 "New Relic Reporting","New Relicレポート"
-"Enable New Relic Integration","New Relic統合を有効化"
+"Enable New Relic Integration","New Relic連携を有効化"
 "New Relic API URL","New Relic API URL"
 "Insights API URL","インサイト API URL"
 "Use %s to replace the account ID in the URL","%sを使用してURL内のアカウントIDを入れ替えてください。"
@@ -7548,10 +7548,10 @@ Refunds,返金
 "API interfaces reflection data.","APIインターフェイス反映データ"
 "Swatches per Product","製品ごとの見本"
 "Include Tax In Order Total","注文合計で税を含む"
-"(Excl. Tax)","(税除く)"
-"(Incl. Tax)","(税含む)"
-"Order Total Excl. Tax","税を除く注文合計"
-"Order Total Incl. Tax","税を含む注文合計"
+"(Excl. Tax)","(税別)"
+"(Incl. Tax)","(税込)"
+"Order Total Excl. Tax","税別注文合計"
+"Order Total Incl. Tax","税込注文合計"
 "Copyright © 2015 Magento. All rights reserved.","Copyright © 2015 Magento. All rights reserved."
 "Log JS Errors to Session Storage","セッション保存のJSエラーのログを取る"
 "Log JS Errors to Session Storage Key","セッション保存キーのJSエラーのログを取る"
