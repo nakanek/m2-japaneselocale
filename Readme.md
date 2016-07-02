@@ -8,7 +8,7 @@ To install this languate pack, follow this instructions below:
 
 1. Login via ssh to Magento2 installed server.
 2. Move Magento2 document root.
-3. Execute `composer require composer require magento-japan/m2-japaneselocale:dev-master` .
+3. Execute `composer require magento-japan/m2-japaneselocale:dev-master` .
 4. Clear Magento cache.
 
 
@@ -41,7 +41,7 @@ Magento2用日本語ロケールです。
 
 1. Magento2をインストールした環境にSSHでログインします。
 2. Magento2のドキュメントルートに移動します。
-3. `composer require composer require magento-japan/m2-japaneselocale:dev-master` とタイプし、実行します。
+3. `composer require magento-japan/m2-japaneselocale:dev-master` とタイプし、実行します。
 4. Magentoのキャッシュをクリアしてください。
 
 
