@@ -24,7 +24,7 @@
     "source": "https://github.com/Magento-Japan/m2-japaneselocale"
   },
   "require": {
-    "magento/framework": "100.*"
+    "magento/framework": "100.0.*|100.1.*"
   },
   "autoload": {
     "files": [
